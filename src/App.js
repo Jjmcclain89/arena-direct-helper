@@ -359,7 +359,7 @@ function App() {
                     {stats.name}
                   </div>
                   <div className="text-xl font-semibold text-white">
-                    {stats.cardCount > 0 ? `${stats.avgWinRate.toFixed(1)}%` : '—'}
+                    {stats.cardCount > 0 ? `${stats.avgWinRate?.toFixed(1)}%` : '—'}
                   </div>
                   <div className="text-xs text-gray-500 mt-1">
                     {stats.cardCount} card{stats.cardCount !== 1 ? 's' : ''}
@@ -498,7 +498,7 @@ function App() {
                     {card.Rarity.charAt(0).toUpperCase()}
                   </span>
                 </td>
-                <td className="px-4 py-3 text-gray-100">{card.GihWinrate.toFixed(1)}%</td>
+                <td className="px-4 py-3 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
               </tr>
             ))}
           </tbody>

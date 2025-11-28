@@ -30,7 +30,7 @@
     {
       "Name": "Aang, Swift Savior",
       "Rarity": "rare",
-      "Cost": "",
+      "Cost": "{1}{W}{U}",
       "GihWinrate": 65.2,
       "Expansion": "TLA",
       "CastingCost": "",
@@ -156,10 +156,10 @@
     {
       "Name": "Avatar Aang",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{R}{G}{W}{U}",
       "GihWinrate": 52.6,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{R}{G}{W}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1764121460"
     },
     {
@@ -2055,37 +2055,37 @@
     {
       "Name": "The Legend of Kuruk",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{2}{U}{U}",
       "GihWinrate": 65.2,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{2}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1764120347"
     },
     {
       "Name": "The Legend of Kyoshi",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{4}{G}{G}",
       "GihWinrate": 59.2,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{4}{G}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1764121267"
     },
     {
       "Name": "The Legend of Roku",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{2}{R}{R}",
       "GihWinrate": 62.6,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{2}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1764121000"
     },
     {
       "Name": "The Legend of Yangchen",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{3}{W}{W}",
       "GihWinrate": 68.0,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{3}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1764120067"
     },
     {
@@ -2109,10 +2109,10 @@
     {
       "Name": "The Rise of Sozin",
       "Rarity": "mythic",
-      "Cost": "",
+      "Cost": "{4}{B}{B}",
       "GihWinrate": 67.3,
       "Expansion": "TLA",
-      "CastingCost": "",
+      "CastingCost": "{4}{B}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1764120810"
     },
     {

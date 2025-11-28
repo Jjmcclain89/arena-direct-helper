@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "Name": "Aang, at the Crossroads",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 62.1,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1764121400"
+    },
+    {
+      "Name": "Aang's Iceberg",
+      "Rarity": "rare",
+      "Cost": "{2}{W}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/2/720fbd87-b1c1-4b3b-97a1-46b943b115e3.jpg?1764119900"
+    }
+  ]
+}

@@ -1,0 +1,3143 @@
+{
+  "cards": [
+    {
+      "Name": "Aang, at the Crossroads",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 62.1,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1764121400"
+    },
+    {
+      "Name": "Aang's Iceberg",
+      "Rarity": "rare",
+      "Cost": "{2}{W}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/2/720fbd87-b1c1-4b3b-97a1-46b943b115e3.jpg?1764119900"
+    },
+    {
+      "Name": "Aang's Journey",
+      "Rarity": "common",
+      "Cost": "{2}",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e51f727-5a9b-4bc7-83a9-dbcf1c933e15.jpg?1764119871"
+    },
+    {
+      "Name": "Aang, Swift Savior",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 65.2,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1764121420"
+    },
+    {
+      "Name": "Aang, the Last Airbender",
+      "Rarity": "uncommon",
+      "Cost": "{3}{W}",
+      "GihWinrate": 62.3,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/245e008c-e073-443f-9592-6f628c0026ec.jpg?1764119893"
+    },
+    {
+      "Name": "Abandon Attachments",
+      "Rarity": "common",
+      "Cost": "{1}{U/R}",
+      "GihWinrate": 55.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U/R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/4/74ca45a4-97ab-4255-9129-884e8b42b984.jpg?1764121430"
+    },
+    {
+      "Name": "Abandoned Air Temple",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 62.3,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c0433f9-8f1e-4a19-a83f-a41925f1b1a9.jpg?1764121937"
+    },
+    {
+      "Name": "Accumulate Wisdom",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}",
+      "GihWinrate": 57.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/6/a6335319-6c92-40d4-ab2d-c06c79049c30.jpg?1764120188"
+    },
+    {
+      "Name": "Agna Qel'a",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 58.5,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b885829-a323-4f7d-87c9-aa4615dcbe5c.jpg?1764121943"
+    },
+    {
+      "Name": "Airbender Ascension",
+      "Rarity": "rare",
+      "Cost": "{1}{W}",
+      "GihWinrate": 52.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/99a90d13-891c-45cc-b1d5-6080ebae5862.jpg?1764119907"
+    },
+    {
+      "Name": "Airbender's Reversal",
+      "Rarity": "uncommon",
+      "Cost": "{1}{W}",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b7078e4-2892-4b5f-83ab-90369e0d6dba.jpg?1764119914"
+    },
+    {
+      "Name": "Airbending Lesson",
+      "Rarity": "common",
+      "Cost": "{2}{W}",
+      "GihWinrate": 58.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/2/e2bcd0a6-e94d-4a21-a334-a57459c1b8cc.jpg?1764119921"
+    },
+    {
+      "Name": "Air Nomad Legacy",
+      "Rarity": "uncommon",
+      "Cost": "{W}{U}",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "{W}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/0/10874416-fa4c-4aa3-b885-4351d011d208.jpg?1764121440"
+    },
+    {
+      "Name": "Airship Engine Room",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 55.6,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949"
+    },
+    {
+      "Name": "Allies at Last",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G}",
+      "GihWinrate": 58.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/11a77897-2aba-4a9b-bbe6-1768ca9f12cb.jpg?1764121122"
+    },
+    {
+      "Name": "Appa, Loyal Sky Bison",
+      "Rarity": "uncommon",
+      "Cost": "{4}{W}{W}",
+      "GihWinrate": 52.6,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9b2a843-c6fe-4d19-801e-1538e4381ab0.jpg?1764119928"
+    },
+    {
+      "Name": "Appa, Steadfast Guardian",
+      "Rarity": "mythic",
+      "Cost": "{2}{W}{W}",
+      "GihWinrate": 60.5,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/829d91e9-4878-4e55-a262-ac0d55b65d4e.jpg?1764119935"
+    },
+    {
+      "Name": "Avatar Aang",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 52.6,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1764121460"
+    },
+    {
+      "Name": "Avatar Destiny",
+      "Rarity": "rare",
+      "Cost": "{2}{G}{G}",
+      "GihWinrate": 48.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/d/4d74da72-8443-4fce-9d64-d2041f6a3292.jpg?1764121128"
+    },
+    {
+      "Name": "Avatar Enthusiasts",
+      "Rarity": "common",
+      "Cost": "{2}{W}",
+      "GihWinrate": 55.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/2/7292e5f2-d5a1-4e39-8f75-eba471819f04.jpg?1764119942"
+    },
+    {
+      "Name": "Avatar's Wrath",
+      "Rarity": "rare",
+      "Cost": "{2}{W}{W}",
+      "GihWinrate": 54.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/4811072d-fac0-40dd-a5cf-9694d51b12cf.jpg?1764119949"
+    },
+    {
+      "Name": "Azula Always Lies",
+      "Rarity": "common",
+      "Cost": "{1}{B}",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/1/416b9207-a2af-44d1-9b87-4943f6e46d42.jpg?1764120582"
+    },
+    {
+      "Name": "Azula, Cunning Usurper",
+      "Rarity": "rare",
+      "Cost": "{2}{U}{B}{B}",
+      "GihWinrate": 63.5,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/a/daf30e1c-436d-4f23-b1d2-570619a4b7f5.jpg?1764121470"
+    },
+    {
+      "Name": "Azula, On the Hunt",
+      "Rarity": "uncommon",
+      "Cost": "{3}{B}",
+      "GihWinrate": 54.8,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/3/1335a145-248a-4f1e-8760-9a5d531e14e3.jpg?1764120589"
+    },
+    {
+      "Name": "Badgermole",
+      "Rarity": "common",
+      "Cost": "{4}{G}",
+      "GihWinrate": 56.8,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/a/aabbd420-b7fc-496f-9168-bad823d51d9e.jpg?1764121134"
+    },
+    {
+      "Name": "Badgermole Cub",
+      "Rarity": "mythic",
+      "Cost": "{1}{G}",
+      "GihWinrate": 63.5,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1764121140"
+    },
+    {
+      "Name": "Barrels of Blasting Jelly",
+      "Rarity": "common",
+      "Cost": "{1}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4fd83083-3779-41f0-90a0-a00e3270e4e6.jpg?1764121877"
+    },
+    {
+      "Name": "Ba Sing Se",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 58.7,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bdf3b2be-d0cd-4a3c-a10e-82d32c12d3bd.jpg?1764121955"
+    },
+    {
+      "Name": "Beetle-Headed Merchants",
+      "Rarity": "common",
+      "Cost": "{4}{B}",
+      "GihWinrate": 51.8,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/2/c2eed79f-38c1-4aac-9525-d54cb114f17f.jpg?1764120595"
+    },
+    {
+      "Name": "Beifong's Bounty Hunters",
+      "Rarity": "rare",
+      "Cost": "{2}{B}{G}",
+      "GihWinrate": 60.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f88ec3a-44a7-4ae5-a68c-24294dabaeed.jpg?1764121481"
+    },
+    {
+      "Name": "Bender's Waterskin",
+      "Rarity": "common",
+      "Cost": "{3}",
+      "GihWinrate": 53.4,
+      "Expansion": "TLA",
+      "CastingCost": "{3}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d4a1712-d19e-4475-9614-a0b1af4da610.jpg?1764121885"
+    },
+    {
+      "Name": "Benevolent River Spirit",
+      "Rarity": "uncommon",
+      "Cost": "{U}{U}",
+      "GihWinrate": 57.6,
+      "Expansion": "TLA",
+      "CastingCost": "{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1764120194"
+    },
+    {
+      "Name": "Bitter Work",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}{G}",
+      "GihWinrate": 52.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3e8de6a9-9859-4ed2-8ece-ef80a7209be9.jpg?1764121491"
+    },
+    {
+      "Name": "Boar-q-pine",
+      "Rarity": "common",
+      "Cost": "{2}{R}",
+      "GihWinrate": 52.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855"
+    },
+    {
+      "Name": "Boiling Rock Prison",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 54.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/c/1c2e2220-54d1-4180-93a0-964e3b0ba8b8.jpg?1764121961"
+    },
+    {
+      "Name": "Boiling Rock Rioter",
+      "Rarity": "rare",
+      "Cost": "{2}{B}",
+      "GihWinrate": 56.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/739653cc-35c8-4a66-95d8-3e80fa6114f0.jpg?1764120601"
+    },
+    {
+      "Name": "Boomerang Basics",
+      "Rarity": "uncommon",
+      "Cost": "{U}",
+      "GihWinrate": 57.7,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/17ab958a-abc6-472e-ad6a-97c731d89c74.jpg?1764120201"
+    },
+    {
+      "Name": "Bumi Bash",
+      "Rarity": "common",
+      "Cost": "{3}{R}",
+      "GihWinrate": 53.2,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1764120862"
+    },
+    {
+      "Name": "Bumi, King of Three Trials",
+      "Rarity": "uncommon",
+      "Cost": "{5}{G}",
+      "GihWinrate": 53.7,
+      "Expansion": "TLA",
+      "CastingCost": "{5}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a268697b-22b0-4e1b-a5b6-d9be95025e57.jpg?1764121152"
+    },
+    {
+      "Name": "Bumi, Unleashed",
+      "Rarity": "mythic",
+      "Cost": "{3}{R}{G}",
+      "GihWinrate": 63.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/2/b20a5185-7e31-4fc9-be11-9423bfc389bf.jpg?1764121501"
+    },
+    {
+      "Name": "Buzzard-Wasp Colony",
+      "Rarity": "uncommon",
+      "Cost": "{3}{B}",
+      "GihWinrate": 51.3,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/2/42d83229-0555-4361-8964-4b525c825843.jpg?1764120607"
+    },
+    {
+      "Name": "Callous Inspector",
+      "Rarity": "common",
+      "Cost": "{B}",
+      "GihWinrate": 54.9,
+      "Expansion": "TLA",
+      "CastingCost": "{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f22610e9-6b14-4914-bb67-bd6723bec9aa.jpg?1764120614"
+    },
+    {
+      "Name": "Canyon Crawler",
+      "Rarity": "common",
+      "Cost": "{4}{B}{B}",
+      "GihWinrate": 54.8,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/0/30a30bfb-f0f3-425b-b37d-20079ee27046.jpg?1764120621"
+    },
+    {
+      "Name": "Cat-Gator",
+      "Rarity": "uncommon",
+      "Cost": "{6}{B}",
+      "GihWinrate": 57.7,
+      "Expansion": "TLA",
+      "CastingCost": "{6}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec83a825-79e6-42a4-919c-3bc498ff4433.jpg?1764120629"
+    },
+    {
+      "Name": "Cat-Owl",
+      "Rarity": "common",
+      "Cost": "{3}{W/U}",
+      "GihWinrate": 53.8,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W/U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/7/d7df3391-dbe5-4eb4-85c1-037c5f3ea971.jpg?1764121512"
+    },
+    {
+      "Name": "Combustion Man",
+      "Rarity": "uncommon",
+      "Cost": "{3}{R}{R}",
+      "GihWinrate": 52.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/6/86f7399d-6876-4e85-ba34-ff1f97dc144a.jpg?1764120875"
+    },
+    {
+      "Name": "Combustion Technique",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 59.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1764120881"
+    },
+    {
+      "Name": "Compassionate Healer",
+      "Rarity": "common",
+      "Cost": "{1}{W}",
+      "GihWinrate": 57.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/8/88d5f8fd-d4de-4e64-9b74-e53719ffbcdc.jpg?1764119957"
+    },
+    {
+      "Name": "Corrupt Court Official",
+      "Rarity": "common",
+      "Cost": "{1}{B}",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/4692610e-d64c-438e-b5ad-0cf67fd57f1f.jpg?1764120636"
+    },
+    {
+      "Name": "Crashing Wave",
+      "Rarity": "uncommon",
+      "Cost": "{U}{U}",
+      "GihWinrate": 52.1,
+      "Expansion": "TLA",
+      "CastingCost": "{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/f/9fd02eb4-1ef5-4a14-89a8-b25e720e8016.jpg?1764120208"
+    },
+    {
+      "Name": "Crescent Island Temple",
+      "Rarity": "uncommon",
+      "Cost": "{3}{R}",
+      "GihWinrate": 53.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/4/04c85150-269e-4158-a1b9-bd11bc6b7d79.jpg?1764120888"
+    },
+    {
+      "Name": "Cruel Administrator",
+      "Rarity": "uncommon",
+      "Cost": "{3}{B}{R}",
+      "GihWinrate": 52.8,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/d/9d70707b-2e25-40b1-80a8-9a5492bca7e2.jpg?1764121522"
+    },
+    {
+      "Name": "Cunning Maneuver",
+      "Rarity": "common",
+      "Cost": "{1}{R}",
+      "GihWinrate": 54.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1764120894"
+    },
+    {
+      "Name": "Curious Farm Animals",
+      "Rarity": "common",
+      "Cost": "{W}",
+      "GihWinrate": 53.4,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/2402d759-84b6-41d2-ad78-9333974e9222.jpg?1764119964"
+    },
+    {
+      "Name": "Cycle of Renewal",
+      "Rarity": "common",
+      "Cost": "{2}{G}",
+      "GihWinrate": 49.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/233f4a05-057b-48f4-8f56-8d4a060a40e4.jpg?1764121159"
+    },
+    {
+      "Name": "Dai Li Agents",
+      "Rarity": "uncommon",
+      "Cost": "{3}{B}{G}",
+      "GihWinrate": 56.3,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/d/9ddb8715-341b-400a-b6eb-f3f90518157c.jpg?1764121532"
+    },
+    {
+      "Name": "Dai Li Indoctrination",
+      "Rarity": "common",
+      "Cost": "{1}{B}",
+      "GihWinrate": 52.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/eca652b8-44f1-4bd9-b4bf-036eeead13aa.jpg?1764120643"
+    },
+    {
+      "Name": "Day of Black Sun",
+      "Rarity": "rare",
+      "Cost": "{X}{B}{B}",
+      "GihWinrate": 59.5,
+      "Expansion": "TLA",
+      "CastingCost": "{X}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/0/d0e24797-3e45-4c2b-b4b0-1ef44d42eaee.jpg?1764120649"
+    },
+    {
+      "Name": "Deadly Precision",
+      "Rarity": "common",
+      "Cost": "{B}",
+      "GihWinrate": 57.1,
+      "Expansion": "TLA",
+      "CastingCost": "{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/4661daf6-d960-4278-8946-70948efaf99d.jpg?1764120656"
+    },
+    {
+      "Name": "Deserter's Disciple",
+      "Rarity": "common",
+      "Cost": "{1}{R}",
+      "GihWinrate": 54.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/14f2ed5a-042b-4cce-82ad-cfb4bd511d98.jpg?1764120901"
+    },
+    {
+      "Name": "Destined Confrontation",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W}{W}",
+      "GihWinrate": 47.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/4/d4605cf7-03bc-4a7f-b50a-49b83b09b54d.jpg?1764119971"
+    },
+    {
+      "Name": "Diligent Zookeeper",
+      "Rarity": "rare",
+      "Cost": "{3}{G}",
+      "GihWinrate": 56.2,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/21f52564-9820-42dc-a08d-459d51afc397.jpg?1764121165"
+    },
+    {
+      "Name": "Dragonfly Swarm",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}{R}",
+      "GihWinrate": 58.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/6/16be5cc4-b15a-4c5e-8a6e-05c87b519127.jpg?1764121542"
+    },
+    {
+      "Name": "Earthbender Ascension",
+      "Rarity": "rare",
+      "Cost": "{2}{G}",
+      "GihWinrate": 63.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/9/590a58ab-5e98-4031-8aa6-ce396dc1429f.jpg?1764121189"
+    },
+    {
+      "Name": "Earthbending Lesson",
+      "Rarity": "common",
+      "Cost": "{3}{G}",
+      "GihWinrate": 52.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/eccd63b3-3a3a-4661-9d6e-fb8152429bdb.jpg?1764121195"
+    },
+    {
+      "Name": "Earthen Ally",
+      "Rarity": "rare",
+      "Cost": "{G}",
+      "GihWinrate": 54.0,
+      "Expansion": "TLA",
+      "CastingCost": "{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/7/d7a0f2d9-efa4-4a53-a24b-36694457bd1c.jpg?1764121202"
+    },
+    {
+      "Name": "Earth Kingdom General",
+      "Rarity": "uncommon",
+      "Cost": "{3}{G}",
+      "GihWinrate": 56.7,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/6/8688fce5-74b1-41e1-a59a-05a3878a75cb.jpg?1764121177"
+    },
+    {
+      "Name": "Earth Kingdom Jailer",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W}",
+      "GihWinrate": 61.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/9207362c-3605-4794-803f-ad1d0175fcca.jpg?1764119978"
+    },
+    {
+      "Name": "Earth Kingdom Protectors",
+      "Rarity": "uncommon",
+      "Cost": "{W}",
+      "GihWinrate": 58.1,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/2/d263472e-1d75-4cb9-8f7b-986fa22bc841.jpg?1764119985"
+    },
+    {
+      "Name": "Earth Kingdom Soldier",
+      "Rarity": "common",
+      "Cost": "{4}{G/W}",
+      "GihWinrate": 55.9,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G/W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d543d35-945a-4ffa-beb7-7c5d4f894f79.jpg?1764121553"
+    },
+    {
+      "Name": "Earth King's Lieutenant",
+      "Rarity": "rare",
+      "Cost": "{G}{W}",
+      "GihWinrate": 61.1,
+      "Expansion": "TLA",
+      "CastingCost": "{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/4533d155-5c56-41a5-9d76-2d1414ac47c9.jpg?1764121563"
+    },
+    {
+      "Name": "Earth Rumble",
+      "Rarity": "uncommon",
+      "Cost": "{3}{G}",
+      "GihWinrate": 54.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/2/62730505-56f1-4043-a8b9-4fb7bc508b47.jpg?1764121183"
+    },
+    {
+      "Name": "Earth Rumble Wrestlers",
+      "Rarity": "common",
+      "Cost": "{3}{R/G}",
+      "GihWinrate": 52.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R/G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/4/74fca0b8-12e1-405f-b999-160d65fe0ade.jpg?1764121573"
+    },
+    {
+      "Name": "Earth Village Ruffians",
+      "Rarity": "common",
+      "Cost": "{2}{B/G}",
+      "GihWinrate": 53.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B/G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/6/56d4e0b7-232f-4953-84a3-e6f17781aa45.jpg?1764121583"
+    },
+    {
+      "Name": "Elemental Teachings",
+      "Rarity": "rare",
+      "Cost": "{4}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/a/cac8ac35-6860-4839-ab85-93d409206c08.jpg?1764121209"
+    },
+    {
+      "Name": "Ember Island Production",
+      "Rarity": "uncommon",
+      "Cost": "{3}{U}{U}",
+      "GihWinrate": 52.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1764120215"
+    },
+    {
+      "Name": "Energybending",
+      "Rarity": "uncommon",
+      "Cost": "{2}",
+      "GihWinrate": 50.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6c085441-e023-4032-89a0-d24ce5060ac3.jpg?1764119878"
+    },
+    {
+      "Name": "Enter the Avatar State",
+      "Rarity": "uncommon",
+      "Cost": "{W}",
+      "GihWinrate": 57.3,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a8f3d2cb-d073-4df8-8769-49612628a377.jpg?1764119993"
+    },
+    {
+      "Name": "Epic Downfall",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}",
+      "GihWinrate": 59.1,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b4a6804-04f5-4467-bb1c-9466a47bc55f.jpg?1764120663"
+    },
+    {
+      "Name": "Fancy Footwork",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W}",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c59f8c5-4063-4e5a-b684-fde175c4a981.jpg?1764120000"
+    },
+    {
+      "Name": "Fatal Fissure",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}",
+      "GihWinrate": 46.6,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1764120669"
+    },
+    {
+      "Name": "Fated Firepower",
+      "Rarity": "mythic",
+      "Cost": "{X}{R}{R}{R}",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "{X}{R}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/51352127-1f86-42e9-b4ca-2fd58b14e86b.jpg?1764120908"
+    },
+    {
+      "Name": "Firebender Ascension",
+      "Rarity": "rare",
+      "Cost": "{1}{R}",
+      "GihWinrate": 53.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/2929b702-03c6-4cf0-a3f7-61b27f4803be.jpg?1764120940"
+    },
+    {
+      "Name": "Firebending Lesson",
+      "Rarity": "common",
+      "Cost": "{R}",
+      "GihWinrate": 59.1,
+      "Expansion": "TLA",
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1764120947"
+    },
+    {
+      "Name": "Firebending Student",
+      "Rarity": "rare",
+      "Cost": "{1}{R}",
+      "GihWinrate": 53.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b366f59-16fe-43cb-888d-1f93ef8fd332.jpg?1764120954"
+    },
+    {
+      "Name": "Fire Lord Azula",
+      "Rarity": "rare",
+      "Cost": "{1}{U}{B}{R}",
+      "GihWinrate": 51.5,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}{B}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1764121593"
+    },
+    {
+      "Name": "Fire Lord Zuko",
+      "Rarity": "rare",
+      "Cost": "{R}{W}{B}",
+      "GihWinrate": 46.6,
+      "Expansion": "TLA",
+      "CastingCost": "{R}{W}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e62d3bcc-7bb4-42be-90a9-caf3c1caa29d.jpg?1764121603"
+    },
+    {
+      "Name": "Fire Nation Attacks",
+      "Rarity": "uncommon",
+      "Cost": "{4}{R}",
+      "GihWinrate": 55.7,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1764120914"
+    },
+    {
+      "Name": "Fire Nation Cadets",
+      "Rarity": "common",
+      "Cost": "{R}",
+      "GihWinrate": 56.6,
+      "Expansion": "TLA",
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1764120921"
+    },
+    {
+      "Name": "Fire Nation Engineer",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B}",
+      "GihWinrate": 55.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1764120684"
+    },
+    {
+      "Name": "Fire Nation Palace",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 53.7,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/9/c91ac3f2-9fcd-4b41-a168-ae7f70b67d3c.jpg?1764121966"
+    },
+    {
+      "Name": "Fire Nation Raider",
+      "Rarity": "common",
+      "Cost": "{3}{R}",
+      "GihWinrate": 51.1,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1764120927"
+    },
+    {
+      "Name": "Fire Nation Warship",
+      "Rarity": "uncommon",
+      "Cost": "{3}",
+      "GihWinrate": 56.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/1/41ecc1de-353e-4131-b735-d2ce18c9c2d5.jpg?1764121892"
+    },
+    {
+      "Name": "Fire Navy Trebuchet",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B}",
+      "GihWinrate": 54.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1764120692"
+    },
+    {
+      "Name": "Fire Sages",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 56.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/71a9fa44-306f-417a-a9d9-991aff95025c.jpg?1764120933"
+    },
+    {
+      "Name": "First-Time Flyer",
+      "Rarity": "common",
+      "Cost": "{1}{U}",
+      "GihWinrate": 56.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1764120222"
+    },
+    {
+      "Name": "Flexible Waterbender",
+      "Rarity": "common",
+      "Cost": "{3}{U}",
+      "GihWinrate": 53.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1764120230"
+    },
+    {
+      "Name": "Flopsie, Bumi's Buddy",
+      "Rarity": "uncommon",
+      "Cost": "{4}{G}{G}",
+      "GihWinrate": 55.8,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/082f4abc-c09f-42cf-977f-060875dfd411.jpg?1764121216"
+    },
+    {
+      "Name": "Foggy Bottom Swamp",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 54.0,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/226af626-873d-4bd2-b889-000f8316786f.jpg?1764121972"
+    },
+    {
+      "Name": "Foggy Swamp Hunters",
+      "Rarity": "common",
+      "Cost": "{3}{B}",
+      "GihWinrate": 52.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg?1764120698"
+    },
+    {
+      "Name": "Foggy Swamp Spirit Keeper",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}{B}",
+      "GihWinrate": 60.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/d/cd624be9-e960-4485-a8a9-2d5f2dd51777.jpg?1764121614"
+    },
+    {
+      "Name": "Foggy Swamp Vinebender",
+      "Rarity": "common",
+      "Cost": "{3}{G}",
+      "GihWinrate": 51.9,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/8/78a75317-94f7-47a4-b4da-5a027fa73248.jpg?1764121222"
+    },
+    {
+      "Name": "Foggy Swamp Visions",
+      "Rarity": "rare",
+      "Cost": "{1}{B}{B}",
+      "GihWinrate": 44.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a46deaa-88f7-4eec-aa99-b85073847918.jpg?1764120708"
+    },
+    {
+      "Name": "Forecasting Fortune Teller",
+      "Rarity": "common",
+      "Cost": "{1}{U}",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1764120239"
+    },
+    {
+      "Name": "Gather the White Lotus",
+      "Rarity": "uncommon",
+      "Cost": "{4}{W}",
+      "GihWinrate": 59.3,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/96e2b3d0-f060-4f3c-9d12-a0444b202008.jpg?1764120007"
+    },
+    {
+      "Name": "Geyser Leaper",
+      "Rarity": "common",
+      "Cost": "{4}{U}",
+      "GihWinrate": 52.2,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1764120249"
+    },
+    {
+      "Name": "Giant Koi",
+      "Rarity": "common",
+      "Cost": "{4}{U}{U}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1764120259"
+    },
+    {
+      "Name": "Glider Kids",
+      "Rarity": "common",
+      "Cost": "{2}{W}",
+      "GihWinrate": 57.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/0613afb5-4cee-4132-8adf-404767ed8d07.jpg?1764120015"
+    },
+    {
+      "Name": "Glider Staff",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W}",
+      "GihWinrate": 59.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/5/7517f2eb-a24d-49f6-82bf-08de55d3789a.jpg?1764120022"
+    },
+    {
+      "Name": "Gran-Gran",
+      "Rarity": "uncommon",
+      "Cost": "{U}",
+      "GihWinrate": 60.2,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1764120269"
+    },
+    {
+      "Name": "Great Divide Guide",
+      "Rarity": "rare",
+      "Cost": "{1}{G}",
+      "GihWinrate": 61.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/cc3063ec-5ea6-46c1-8331-c740cbaf6c76.jpg?1764121229"
+    },
+    {
+      "Name": "Guru Pathik",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G/U}{G/U}",
+      "GihWinrate": 56.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G/U}{G/U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/224a2241-0dce-4008-8d9c-86db40ec5f8b.jpg?1764121623"
+    },
+    {
+      "Name": "Hakoda, Selfless Commander",
+      "Rarity": "rare",
+      "Cost": "{3}{W}",
+      "GihWinrate": 58.7,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9aef3ddb-9bb7-42c8-975b-b1917955a416.jpg?1764120030"
+    },
+    {
+      "Name": "Hama, the Bloodbender",
+      "Rarity": "uncommon",
+      "Cost": "{2}{U/B}{U/B}{U/B}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U/B}{U/B}{U/B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/f/6fa1197d-7b19-4d86-81e2-5c87de87757b.jpg?1764121634"
+    },
+    {
+      "Name": "Haru, Hidden Talent",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 53.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/9657a0c0-2c26-4331-8e62-f032265a01af.jpg?1764121235"
+    },
+    {
+      "Name": "Heartless Act",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}",
+      "GihWinrate": 60.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1764120715"
+    },
+    {
+      "Name": "Hei Bai, Spirit of Balance",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W/B}{W/B}",
+      "GihWinrate": 54.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W/B}{W/B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/060d24e0-1567-41f1-ae8c-2d3b1834df3c.jpg?1764121643"
+    },
+    {
+      "Name": "Hermitic Herbalist",
+      "Rarity": "uncommon",
+      "Cost": "{G}{U}",
+      "GihWinrate": 56.6,
+      "Expansion": "TLA",
+      "CastingCost": "{G}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/d/5d0ee441-a057-41b5-abb8-dc86864ac248.jpg?1764121653"
+    },
+    {
+      "Name": "Hog-Monkey",
+      "Rarity": "common",
+      "Cost": "{2}{B}",
+      "GihWinrate": 51.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1764120722"
+    },
+    {
+      "Name": "Honest Work",
+      "Rarity": "uncommon",
+      "Cost": "{U}",
+      "GihWinrate": 50.9,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/7/57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251.jpg?1764120279"
+    },
+    {
+      "Name": "How to Start a Riot",
+      "Rarity": "common",
+      "Cost": "{2}{R}",
+      "GihWinrate": 52.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1764120961"
+    },
+    {
+      "Name": "Iguana Parrot",
+      "Rarity": "common",
+      "Cost": "{2}{U}",
+      "GihWinrate": 54.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289"
+    },
+    {
+      "Name": "Invasion Reinforcements",
+      "Rarity": "uncommon",
+      "Cost": "{1}{W}",
+      "GihWinrate": 58.1,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8845bba-d116-43cd-8ae0-e553f3324d66.jpg?1764120037"
+    },
+    {
+      "Name": "Invasion Submersible",
+      "Rarity": "uncommon",
+      "Cost": "{2}{U}",
+      "GihWinrate": 63.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1764120298"
+    },
+    {
+      "Name": "Invasion Tactics",
+      "Rarity": "uncommon",
+      "Cost": "{4}{G}",
+      "GihWinrate": 51.3,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/7/27c6330d-49f6-4707-b4d4-d1411fa422eb.jpg?1764121242"
+    },
+    {
+      "Name": "Iroh, Grand Lotus",
+      "Rarity": "rare",
+      "Cost": "{3}{G}{U}{R}",
+      "GihWinrate": 59.6,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}{U}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/879b73d3-4552-4fdc-baee-c4d097ae9a4f.jpg?1764121663"
+    },
+    {
+      "Name": "Iroh's Demonstration",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 59.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/8/18d15fed-1f8f-4407-a221-a47ce75001a8.jpg?1764120967"
+    },
+    {
+      "Name": "Iroh, Tea Master",
+      "Rarity": "rare",
+      "Cost": "{1}{R}{W}",
+      "GihWinrate": 57.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/1/d1f5e10d-0a89-4129-9717-a921f20d3616.jpg?1764121673"
+    },
+    {
+      "Name": "It'll Quench Ya!",
+      "Rarity": "common",
+      "Cost": "{1}{U}",
+      "GihWinrate": 58.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308"
+    },
+    {
+      "Name": "Jasmine Dragon Tea Shop",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 55.5,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/a/da2c83d4-a95f-47ff-a08f-694eb78d6b9b.jpg?1764121978"
+    },
+    {
+      "Name": "Jeong Jeong's Deserters",
+      "Rarity": "common",
+      "Cost": "{1}{W}",
+      "GihWinrate": 56.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/060966f9-5e56-4512-9ef3-2b216daf093c.jpg?1764120044"
+    },
+    {
+      "Name": "Jeong Jeong, the Deserter",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}",
+      "GihWinrate": 52.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e.jpg?1764120974"
+    },
+    {
+      "Name": "Jet, Freedom Fighter",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R/W}{R/W}{R/W}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R/W}{R/W}{R/W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/9202c044-15e4-4218-a94d-16287ba19d69.jpg?1764121683"
+    },
+    {
+      "Name": "Jet's Brainwashing",
+      "Rarity": "uncommon",
+      "Cost": "{R}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b.jpg?1764120981"
+    },
+    {
+      "Name": "Joo Dee, One of Many",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/a/7ae1439f-a0c4-42c2-a4f3-8851defa981e.jpg?1764120729"
+    },
+    {
+      "Name": "June, Bounty Hunter",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/148bbaab-bc7b-46ab-8e18-ade69d71d847.jpg?1764120735"
+    },
+    {
+      "Name": "Katara, Bending Prodigy",
+      "Rarity": "uncommon",
+      "Cost": "{2}{U}",
+      "GihWinrate": 56.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318"
+    },
+    {
+      "Name": "Katara, the Fearless",
+      "Rarity": "rare",
+      "Cost": "{G}{W}{U}",
+      "GihWinrate": 52.6,
+      "Expansion": "TLA",
+      "CastingCost": "{G}{W}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/0/b0a18f8b-7364-4375-b2e1-e2f15978517f.jpg?1764121694"
+    },
+    {
+      "Name": "Katara, Water Tribe's Hope",
+      "Rarity": "rare",
+      "Cost": "{2}{W}{U}{U}",
+      "GihWinrate": 61.6,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9ec03308-59a2-417a-938f-bdda75080e43.jpg?1764121704"
+    },
+    {
+      "Name": "Knowledge Seeker",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}",
+      "GihWinrate": 59.5,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/5/8554e862-f78a-42f5-b876-076aac6c9504.jpg?1764120328"
+    },
+    {
+      "Name": "Koh, the Face Stealer",
+      "Rarity": "mythic",
+      "Cost": "{4}{B}{B}",
+      "GihWinrate": 63.8,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28f6fa32-5058-4c29-9ba8-9d8f2057eb6d.jpg?1764120741"
+    },
+    {
+      "Name": "Kyoshi Battle Fan",
+      "Rarity": "common",
+      "Cost": "{2}",
+      "GihWinrate": 56.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/5/257e6862-96fe-4312-aff2-509d0696843a.jpg?1764121899"
+    },
+    {
+      "Name": "Kyoshi Island Plaza",
+      "Rarity": "uncommon",
+      "Cost": "{3}{G}",
+      "GihWinrate": 48.9,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c25ea98-9823-4487-bf6b-ee29ce5a4ed8.jpg?1764121249"
+    },
+    {
+      "Name": "Kyoshi Village",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 55.5,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/d/8d5f3008-2af8-4e81-8847-1c91f524e747.jpg?1764121985"
+    },
+    {
+      "Name": "Kyoshi Warriors",
+      "Rarity": "common",
+      "Cost": "{3}{W}",
+      "GihWinrate": 57.4,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/211045e1-85c7-4088-b830-a2afa0fe520b.jpg?1764120052"
+    },
+    {
+      "Name": "Leaves from the Vine",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 53.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b18995c2-efe3-46ca-8204-e2dc0e42f6e3.jpg?1764121255"
+    },
+    {
+      "Name": "Lightning Strike",
+      "Rarity": "common",
+      "Cost": "{1}{R}",
+      "GihWinrate": 57.8,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1764121006"
+    },
+    {
+      "Name": "Lo and Li, Twin Tutors",
+      "Rarity": "uncommon",
+      "Cost": "{4}{B}",
+      "GihWinrate": 53.7,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747"
+    },
+    {
+      "Name": "Long Feng, Grand Secretariat",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B/G}{B/G}",
+      "GihWinrate": 51.8,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B/G}{B/G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/3/a3eb92fe-bc59-4472-9028-f368bd015609.jpg?1764121724"
+    },
+    {
+      "Name": "Lost Days",
+      "Rarity": "common",
+      "Cost": "{4}{U}",
+      "GihWinrate": 59.5,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1764120357"
+    },
+    {
+      "Name": "Mai, Jaded Edge",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/732e6bc9-0798-4c00-aea0-5ef4298b45f5.jpg?1764121013"
+    },
+    {
+      "Name": "Mai, Scornful Striker",
+      "Rarity": "rare",
+      "Cost": "{1}{B}",
+      "GihWinrate": 54.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/4/74dd4c0e-27b8-4c47-b7a6-a281413cd6b4.jpg?1764120754"
+    },
+    {
+      "Name": "Master Pakku",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/91e30df5-63f7-4281-8d64-8d522d663652.jpg?1764120366"
+    },
+    {
+      "Name": "Master Piandao",
+      "Rarity": "uncommon",
+      "Cost": "{4}{W}",
+      "GihWinrate": 56.4,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3e4a042c-f2a6-45e7-9444-acd1ca838b87.jpg?1764120075"
+    },
+    {
+      "Name": "Meditation Pools",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/cc078fc6-4470-473f-9e24-d2c470e09141.jpg?1764121991"
+    },
+    {
+      "Name": "Merchant of Many Hats",
+      "Rarity": "common",
+      "Cost": "{1}{B}",
+      "GihWinrate": 54.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/5/752ffa24-93b6-4b33-bf10-7222357ac472.jpg?1764120760"
+    },
+    {
+      "Name": "Messenger Hawk",
+      "Rarity": "common",
+      "Cost": "{2}{U/B}",
+      "GihWinrate": 57.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U/B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1764121735"
+    },
+    {
+      "Name": "Meteor Sword",
+      "Rarity": "uncommon",
+      "Cost": "{7}",
+      "GihWinrate": 52.1,
+      "Expansion": "TLA",
+      "CastingCost": "{7}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/68b1c746-a4b8-4a45-9f0e-3962f0ae40e3.jpg?1764121906"
+    },
+    {
+      "Name": "Misty Palms Oasis",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7cc29ddb-8f44-4493-985d-2fac35f9f34d.jpg?1764121997"
+    },
+    {
+      "Name": "Momo, Friendly Flier",
+      "Rarity": "rare",
+      "Cost": "{W}",
+      "GihWinrate": 59.2,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/4/c472ef84-a632-4ad7-853c-60588a7a4b12.jpg?1764120082"
+    },
+    {
+      "Name": "Momo, Playful Pet",
+      "Rarity": "uncommon",
+      "Cost": "{W}",
+      "GihWinrate": 59.4,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/9350bf4a-fa12-4867-b31f-1f1394d99571.jpg?1764120089"
+    },
+    {
+      "Name": "Mongoose Lizard",
+      "Rarity": "common",
+      "Cost": "{4}{R}{R}",
+      "GihWinrate": 52.9,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1764121019"
+    },
+    {
+      "Name": "Northern Air Temple",
+      "Rarity": "uncommon",
+      "Cost": "{B}",
+      "GihWinrate": 50.6,
+      "Expansion": "TLA",
+      "CastingCost": "{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/06b7675e-e665-49cb-a8d9-7092a654d464.jpg?1764120766"
+    },
+    {
+      "Name": "North Pole Gates",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 56.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/c/bcf7b9da-d35d-4338-b4d9-83e47dc058ee.jpg?1764122003"
+    },
+    {
+      "Name": "North Pole Patrol",
+      "Rarity": "uncommon",
+      "Cost": "{2}{U}",
+      "GihWinrate": 56.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386"
+    },
+    {
+      "Name": "Obsessive Pursuit",
+      "Rarity": "rare",
+      "Cost": "{1}{B}",
+      "GihWinrate": 57.6,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e837e29c-d241-43c8-8f45-05056e082b60.jpg?1764120772"
+    },
+    {
+      "Name": "Octopus Form",
+      "Rarity": "common",
+      "Cost": "{U}",
+      "GihWinrate": 57.9,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1764120396"
+    },
+    {
+      "Name": "Omashu City",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 55.1,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/2/c21e413b-96ed-4ded-b567-f1647074ce5f.jpg?1764122009"
+    },
+    {
+      "Name": "Origin of Metalbending",
+      "Rarity": "common",
+      "Cost": "{1}{G}",
+      "GihWinrate": 55.1,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/5/25749f9a-260d-4bdc-bd28-429c12faa4a5.jpg?1764121273"
+    },
+    {
+      "Name": "Ostrich-Horse",
+      "Rarity": "common",
+      "Cost": "{2}{G}",
+      "GihWinrate": 56.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5ca3fd45-9301-44ef-afc0-4d7999d66d36.jpg?1764121280"
+    },
+    {
+      "Name": "Otter-Penguin",
+      "Rarity": "common",
+      "Cost": "{1}{U}",
+      "GihWinrate": 55.6,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1764120406"
+    },
+    {
+      "Name": "Ozai's Cruelty",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B}",
+      "GihWinrate": 54.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/22cad680-d46a-4589-a633-b6ee9a78d61e.jpg?1764120778"
+    },
+    {
+      "Name": "Ozai, the Phoenix King",
+      "Rarity": "mythic",
+      "Cost": "{2}{B}{B}{R}{R}",
+      "GihWinrate": 60.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}{B}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1764121744"
+    },
+    {
+      "Name": "Path to Redemption",
+      "Rarity": "common",
+      "Cost": "{1}{W}",
+      "GihWinrate": 58.1,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/9/f936d64a-0db4-49c1-8a57-6d99e012a555.jpg?1764120097"
+    },
+    {
+      "Name": "Phoenix Fleet Airship",
+      "Rarity": "mythic",
+      "Cost": "{2}{B}{B}",
+      "GihWinrate": 61.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b51d3259-c41c-4f64-9666-0a9e676c812f.jpg?1764120785"
+    },
+    {
+      "Name": "Pillar Launch",
+      "Rarity": "common",
+      "Cost": "{G}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f177e9cc-0c41-417d-9215-5ff23a1a0657.jpg?1764121287"
+    },
+    {
+      "Name": "Pirate Peddlers",
+      "Rarity": "common",
+      "Cost": "{2}{B}",
+      "GihWinrate": 51.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c998994-6c3b-4f34-9b31-babba2b17266.jpg?1764120791"
+    },
+    {
+      "Name": "Planetarium of Wan Shi Tong",
+      "Rarity": "mythic",
+      "Cost": "{6}",
+      "GihWinrate": 59.5,
+      "Expansion": "TLA",
+      "CastingCost": "{6}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede.jpg?1764121913"
+    },
+    {
+      "Name": "Platypus-Bear",
+      "Rarity": "common",
+      "Cost": "{1}{G/U}",
+      "GihWinrate": 53.6,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G/U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7ebf742a-3995-4b22-9dc7-b05f57889683.jpg?1764121750"
+    },
+    {
+      "Name": "Pretending Poxbearers",
+      "Rarity": "common",
+      "Cost": "{1}{W/B}",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W/B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/1/d1af91a5-8681-4a05-910d-96f7a819bfaa.jpg?1764121756"
+    },
+    {
+      "Name": "Price of Freedom",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 48.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/f/9fbe94e9-a71d-4a31-9210-c599abe08e3f.jpg?1764121025"
+    },
+    {
+      "Name": "Professor Zei, Anthropologist",
+      "Rarity": "uncommon",
+      "Cost": "{U/R}{U/R}",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "{U/R}{U/R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/7/27baccc0-7e25-4f39-be0d-31cd98ca0dc5.jpg?1764121762"
+    },
+    {
+      "Name": "Rabaroo Troop",
+      "Rarity": "common",
+      "Cost": "{3}{W}{W}",
+      "GihWinrate": 53.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/2/62a983b4-ac73-4949-9317-05a75a8ce164.jpg?1764120104"
+    },
+    {
+      "Name": "Ran and Shaw",
+      "Rarity": "rare",
+      "Cost": "{3}{R}{R}",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/6436e2d0-989f-47e3-90bc-9cde82a2ddb4.jpg?1764121032"
+    },
+    {
+      "Name": "Raucous Audience",
+      "Rarity": "common",
+      "Cost": "{1}{G}",
+      "GihWinrate": 56.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/ccd03ec3-0fae-48b2-9f04-9c57d2f94267.jpg?1764121294"
+    },
+    {
+      "Name": "Raven Eagle",
+      "Rarity": "rare",
+      "Cost": "{2}{B}",
+      "GihWinrate": 63.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/2262f24b-db6b-4f86-96d0-47a20fc015ab.jpg?1764120797"
+    },
+    {
+      "Name": "Razor Rings",
+      "Rarity": "common",
+      "Cost": "{1}{W}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/0/b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a.jpg?1764120111"
+    },
+    {
+      "Name": "Realm of Koh",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 57.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/061ac694-610c-479f-b038-a4ef5270d5d7.jpg?1764122015"
+    },
+    {
+      "Name": "Rebellious Captives",
+      "Rarity": "common",
+      "Cost": "{1}{G}",
+      "GihWinrate": 55.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e64a4a8b-323c-4c8b-92af-1a3295799e65.jpg?1764121300"
+    },
+    {
+      "Name": "Redirect Lightning",
+      "Rarity": "rare",
+      "Cost": "{R}",
+      "GihWinrate": 49.7,
+      "Expansion": "TLA",
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2b5b14a7-1fdd-4efc-b197-cadfa7f7c860.jpg?1764121040"
+    },
+    {
+      "Name": "Rockalanche",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G}",
+      "GihWinrate": 54.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/2/52b213d3-6f68-43e6-91e9-435d8fe1f34c.jpg?1764121307"
+    },
+    {
+      "Name": "Rocky Rebuke",
+      "Rarity": "common",
+      "Cost": "{1}{G}",
+      "GihWinrate": 56.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/2/52fd910f-6d42-41f5-a4be-f375aa254ea2.jpg?1764121313"
+    },
+    {
+      "Name": "Rough Rhino Cavalry",
+      "Rarity": "common",
+      "Cost": "{4}{R}",
+      "GihWinrate": 51.5,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1764121046"
+    },
+    {
+      "Name": "Rowdy Snowballers",
+      "Rarity": "common",
+      "Cost": "{2}{U}",
+      "GihWinrate": 52.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1764120416"
+    },
+    {
+      "Name": "Ruinous Waterbending",
+      "Rarity": "uncommon",
+      "Cost": "{1}{B}{B}",
+      "GihWinrate": 51.6,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1764120817"
+    },
+    {
+      "Name": "Rumble Arena",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/f/3f5d2c38-663c-4f64-8cfc-c102462e82ef.jpg?1764122021"
+    },
+    {
+      "Name": "Saber-Tooth Moose-Lion",
+      "Rarity": "common",
+      "Cost": "{4}{G}{G}",
+      "GihWinrate": 53.1,
+      "Expansion": "TLA",
+      "CastingCost": "{4}{G}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b15f302d-c451-4e79-a5af-75ee3ba4cadf.jpg?1764121320"
+    },
+    {
+      "Name": "Sandbender Scavengers",
+      "Rarity": "rare",
+      "Cost": "{W}{B}",
+      "GihWinrate": 51.3,
+      "Expansion": "TLA",
+      "CastingCost": "{W}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/b/9bfe0f7c-6dac-41d4-a013-109445158a5e.jpg?1764121769"
+    },
+    {
+      "Name": "Sandbenders' Storm",
+      "Rarity": "common",
+      "Cost": "{3}{W}",
+      "GihWinrate": 53.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b3bf4a25-4329-4318-870a-2b06aa620dc4.jpg?1764120118"
+    },
+    {
+      "Name": "Secret of Bloodbending",
+      "Rarity": "mythic",
+      "Cost": "{U}{U}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{U}{U}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/b/9bb928ae-f636-4aee-9146-a7885e6a8976.jpg?1764120426"
+    },
+    {
+      "Name": "Secret Tunnel",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d39a0e1-6484-409c-ab05-5b276925a949.jpg?1764122027"
+    },
+    {
+      "Name": "Seismic Sense",
+      "Rarity": "uncommon",
+      "Cost": "{G}",
+      "GihWinrate": 55.3,
+      "Expansion": "TLA",
+      "CastingCost": "{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7b93c2a-c478-4734-8aca-03f3e9c11b20.jpg?1764121326"
+    },
+    {
+      "Name": "Serpent of the Pass",
+      "Rarity": "uncommon",
+      "Cost": "{5}{U}{U}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{5}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/87595843-15bc-48bb-8a81-3e6ad924ed44.jpg?1764120436"
+    },
+    {
+      "Name": "Serpent's Pass",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 57.4,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad87bff5-9b8c-44e4-a6d3-8cc71be9640a.jpg?1764122033"
+    },
+    {
+      "Name": "Shared Roots",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 54.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/7/e7847ba5-e85e-417f-96c0-aef2e6f83994.jpg?1764121332"
+    },
+    {
+      "Name": "Sokka, Bold Boomeranger",
+      "Rarity": "rare",
+      "Cost": "{U}{R}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{U}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/a/4a1f1472-55b4-450d-8e4d-7297130a0cf3.jpg?1764121775"
+    },
+    {
+      "Name": "Sokka, Lateral Strategist",
+      "Rarity": "uncommon",
+      "Cost": "{1}{W/U}{W/U}",
+      "GihWinrate": 60.1,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W/U}{W/U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/3/1326c5db-4615-495f-8e30-376243d91352.jpg?1764121782"
+    },
+    {
+      "Name": "Sokka's Haiku",
+      "Rarity": "uncommon",
+      "Cost": "{3}{U}{U}",
+      "GihWinrate": 56.9,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/004be4bc-ac3c-4026-8d36-f4687ab18c70.jpg?1764120446"
+    },
+    {
+      "Name": "Sokka, Tenacious Tactician",
+      "Rarity": "rare",
+      "Cost": "{1}{U}{R}{W}",
+      "GihWinrate": 53.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}{R}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/0/f0fa5897-1da7-488f-bb19-1632e969c050.jpg?1764121788"
+    },
+    {
+      "Name": "Sold Out",
+      "Rarity": "common",
+      "Cost": "{3}{B}",
+      "GihWinrate": 56.6,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1764120823"
+    },
+    {
+      "Name": "Solstice Revelations",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}",
+      "GihWinrate": 50.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f22ac19f-66fb-4d54-9f09-495a20a29577.jpg?1764121053"
+    },
+    {
+      "Name": "Southern Air Temple",
+      "Rarity": "uncommon",
+      "Cost": "{3}{W}",
+      "GihWinrate": 52.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c172f9b-2184-4736-9f90-74ce08596292.jpg?1764120133"
+    },
+    {
+      "Name": "South Pole Voyager",
+      "Rarity": "rare",
+      "Cost": "{1}{W}",
+      "GihWinrate": 61.5,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/b/4b5ad895-be8d-476b-91ca-22fad7a3cc58.jpg?1764120126"
+    },
+    {
+      "Name": "Sozin's Comet",
+      "Rarity": "mythic",
+      "Cost": "{3}{R}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/649e50e5-299b-4191-87a8-36e9378795be.jpg?1764121059"
+    },
+    {
+      "Name": "Sparring Dummy",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 51.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/2/520f5a03-ff5a-43ed-8f15-cf24596d60cd.jpg?1764121339"
+    },
+    {
+      "Name": "Spirit Water Revival",
+      "Rarity": "rare",
+      "Cost": "{1}{U}{U}",
+      "GihWinrate": 55.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/c/0c019e76-c88e-4d1b-a546-0f4e462ef44a.jpg?1764120466"
+    },
+    {
+      "Name": "Suki, Courageous Rescuer",
+      "Rarity": "rare",
+      "Cost": "{1}{W}{W}",
+      "GihWinrate": 62.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/3/33b97433-e16c-422e-a0ca-f6b1e98d8681.jpg?1764120140"
+    },
+    {
+      "Name": "Suki, Kyoshi Warrior",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G/W}{G/W}",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G/W}{G/W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3e311480-04f8-4b8f-938e-1cc6d06b9902.jpg?1764121794"
+    },
+    {
+      "Name": "Sun-Blessed Peak",
+      "Rarity": "common",
+      "Cost": "",
+      "GihWinrate": 54.7,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/ae04c862-095f-41d2-8aef-21036d5a0cdc.jpg?1764122039"
+    },
+    {
+      "Name": "Sun Warriors",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}{W}",
+      "GihWinrate": 54.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/4/e477d750-42d2-48c8-bc1f-8148d15d5f53.jpg?1764121800"
+    },
+    {
+      "Name": "Swampsnare Trap",
+      "Rarity": "common",
+      "Cost": "{2}{B}",
+      "GihWinrate": 54.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/3/6348b6bf-08a7-45f0-8b2d-2827ab89f21c.jpg?1764120830"
+    },
+    {
+      "Name": "Team Avatar",
+      "Rarity": "uncommon",
+      "Cost": "{2}{W}",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5.jpg?1764120147"
+    },
+    {
+      "Name": "Teo, Spirited Glider",
+      "Rarity": "uncommon",
+      "Cost": "{3}{U}",
+      "GihWinrate": 57.5,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1764120477"
+    },
+    {
+      "Name": "The Boulder, Ready to Rumble",
+      "Rarity": "uncommon",
+      "Cost": "{3}{G}",
+      "GihWinrate": 56.8,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec27a466-5457-44c6-a842-1de7d3788d66.jpg?1764121147"
+    },
+    {
+      "Name": "The Cave of Two Lovers",
+      "Rarity": "uncommon",
+      "Cost": "{3}{R}",
+      "GihWinrate": 60.2,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50bf5c8b-f218-46b7-843c-8d8083f02fd2.jpg?1764120868"
+    },
+    {
+      "Name": "The Earth King",
+      "Rarity": "rare",
+      "Cost": "{3}{G}",
+      "GihWinrate": 64.2,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a8d5dca6-381a-4361-b265-27de8d04335c.jpg?1764121171"
+    },
+    {
+      "Name": "The Fire Nation Drill",
+      "Rarity": "rare",
+      "Cost": "{2}{B}{B}",
+      "GihWinrate": 66.7,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/4/54d762f6-e131-480f-b294-10f5a63d9c98.jpg?1764120677"
+    },
+    {
+      "Name": "The Last Agni Kai",
+      "Rarity": "rare",
+      "Cost": "{1}{R}",
+      "GihWinrate": 50.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1764120987"
+    },
+    {
+      "Name": "The Legend of Kuruk",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 65.2,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1764120347"
+    },
+    {
+      "Name": "The Legend of Kyoshi",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 59.2,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1764121267"
+    },
+    {
+      "Name": "The Legend of Roku",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 62.6,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1764121000"
+    },
+    {
+      "Name": "The Legend of Yangchen",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 68.0,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1764120067"
+    },
+    {
+      "Name": "The Lion-Turtle",
+      "Rarity": "rare",
+      "Cost": "{1}{G}{U}",
+      "GihWinrate": 55.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/8491585c-81d0-48be-8ed0-832e42fad9c6.jpg?1764121714"
+    },
+    {
+      "Name": "The Mechanist, Aerial Artisan",
+      "Rarity": "rare",
+      "Cost": "{2}{U}",
+      "GihWinrate": 58.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/9/b910851e-9332-4c83-a790-d379667cabfc.jpg?1764120376"
+    },
+    {
+      "Name": "The Rise of Sozin",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": 67.3,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1764120810"
+    },
+    {
+      "Name": "The Spirit Oasis",
+      "Rarity": "uncommon",
+      "Cost": "{2}{U}",
+      "GihWinrate": 50.6,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a1b1329-531c-47ed-9802-c505501f8fd9.jpg?1764120455"
+    },
+    {
+      "Name": "The Unagi of Kyoshi Island",
+      "Rarity": "rare",
+      "Cost": "{3}{U}{U}",
+      "GihWinrate": 60.7,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff.jpg?1764120514"
+    },
+    {
+      "Name": "The Walls of Ba Sing Se",
+      "Rarity": "mythic",
+      "Cost": "{8}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{8}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/24a14ac5-0b7e-4441-9963-782a7cda3f4a.jpg?1764121925"
+    },
+    {
+      "Name": "Tiger-Dillo",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": 57.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1764121066"
+    },
+    {
+      "Name": "Tiger-Seal",
+      "Rarity": "rare",
+      "Cost": "{U}",
+      "GihWinrate": 52.6,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/a/7aef2891-1269-4a1a-acea-0aa37ef544c4.jpg?1764120490"
+    },
+    {
+      "Name": "Tolls of War",
+      "Rarity": "uncommon",
+      "Cost": "{W}{B}",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "{W}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/8/d822b9ad-a787-4355-88c2-07ae2bd3a78e.jpg?1764121807"
+    },
+    {
+      "Name": "Toph, Hardheaded Teacher",
+      "Rarity": "rare",
+      "Cost": "{2}{R}{G}",
+      "GihWinrate": 58.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e3ba3395-39db-4330-9801-53def924f253.jpg?1764121814"
+    },
+    {
+      "Name": "Toph, the Blind Bandit",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G}",
+      "GihWinrate": 58.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/f/ff68fa7b-8065-407b-a8b4-bfbb14f1c99c.jpg?1764121345"
+    },
+    {
+      "Name": "Toph, the First Metalbender",
+      "Rarity": "rare",
+      "Cost": "{1}{R}{G}{W}",
+      "GihWinrate": 56.5,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/70b6670f-a9fa-4d75-b0a7-c01b5071a514.jpg?1764121822"
+    },
+    {
+      "Name": "Treetop Freedom Fighters",
+      "Rarity": "common",
+      "Cost": "{2}{R}",
+      "GihWinrate": 54.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1764121072"
+    },
+    {
+      "Name": "True Ancestry",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 55.7,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/c/8c55b333-dc8b-4332-895b-eec5eb45543f.jpg?1764121352"
+    },
+    {
+      "Name": "Trusty Boomerang",
+      "Rarity": "uncommon",
+      "Cost": "{1}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{1}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df99a166-6d58-4d92-9037-2fdfbaf65629.jpg?1764121919"
+    },
+    {
+      "Name": "Tundra Tank",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/3/13c66fce-8f8e-4a98-8413-9f05aebf6e13.jpg?1764120836"
+    },
+    {
+      "Name": "Turtle-Duck",
+      "Rarity": "common",
+      "Cost": "{G}",
+      "GihWinrate": 53.5,
+      "Expansion": "TLA",
+      "CastingCost": "{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aefcd734-3916-4c77-9d98-3ea2c2795658.jpg?1764121358"
+    },
+    {
+      "Name": "Twin Blades",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}",
+      "GihWinrate": 55.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1764121078"
+    },
+    {
+      "Name": "Ty Lee, Artful Acrobat",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}",
+      "GihWinrate": 54.1,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1764121084"
+    },
+    {
+      "Name": "Ty Lee, Chi Blocker",
+      "Rarity": "rare",
+      "Cost": "{2}{U}",
+      "GihWinrate": 60.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/0/308cc687-9cb2-4e3a-98db-c5ba2a7da115.jpg?1764120501"
+    },
+    {
+      "Name": "Uncle Iroh",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R/G}{R/G}",
+      "GihWinrate": 52.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R/G}{R/G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c88672c-0eba-4e93-a0ec-30bbb1bb7661.jpg?1764121831"
+    },
+    {
+      "Name": "United Front",
+      "Rarity": "mythic",
+      "Cost": "{X}{W}{W}",
+      "GihWinrate": 66.8,
+      "Expansion": "TLA",
+      "CastingCost": "{X}{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d347caf8-0c12-401f-9e33-9978cb347f89.jpg?1764120154"
+    },
+    {
+      "Name": "Unlucky Cabbage Merchant",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}",
+      "GihWinrate": 54.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0a838009-b115-4497-b35d-682e41ead7db.jpg?1764121365"
+    },
+    {
+      "Name": "Vengeful Villagers",
+      "Rarity": "uncommon",
+      "Cost": "{3}{W}",
+      "GihWinrate": 49.7,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/c/8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7.jpg?1764120161"
+    },
+    {
+      "Name": "Vindictive Warden",
+      "Rarity": "common",
+      "Cost": "{2}{B/R}",
+      "GihWinrate": 54.3,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B/R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0f34de05-39a9-425f-a3b4-3a9d46c917ac.jpg?1764121838"
+    },
+    {
+      "Name": "Walltop Sentries",
+      "Rarity": "common",
+      "Cost": "{2}{G}",
+      "GihWinrate": 55.2,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e55f1c63-58f6-4e2b-aaeb-f2d5faca47a2.jpg?1764122900"
+    },
+    {
+      "Name": "Wandering Musicians",
+      "Rarity": "common",
+      "Cost": "{3}{R/W}",
+      "GihWinrate": 56.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R/W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3da81dbd-dc80-47ff-a33b-270d23a24e0a.jpg?1764121845"
+    },
+    {
+      "Name": "Wan Shi Tong, Librarian",
+      "Rarity": "mythic",
+      "Cost": "{X}{U}{U}",
+      "GihWinrate": 65.3,
+      "Expansion": "TLA",
+      "CastingCost": "{X}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524"
+    },
+    {
+      "Name": "War Balloon",
+      "Rarity": "uncommon",
+      "Cost": "{2}{R}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1764121090"
+    },
+    {
+      "Name": "Wartime Protestors",
+      "Rarity": "rare",
+      "Cost": "{3}{R}",
+      "GihWinrate": 59.9,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1764121097"
+    },
+    {
+      "Name": "Waterbender Ascension",
+      "Rarity": "rare",
+      "Cost": "{1}{U}",
+      "GihWinrate": 47.3,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/f/3f57e0f9-e232-489c-b991-d0d23f75d8dd.jpg?1764120533"
+    },
+    {
+      "Name": "Waterbending Lesson",
+      "Rarity": "common",
+      "Cost": "{3}{U}",
+      "GihWinrate": 57.0,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543"
+    },
+    {
+      "Name": "Waterbending Scroll",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}",
+      "GihWinrate": 53.2,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50d0be73-a2c8-44a0-9178-9949f342f6f9.jpg?1764120553"
+    },
+    {
+      "Name": "Water Tribe Captain",
+      "Rarity": "common",
+      "Cost": "{2}{W}",
+      "GihWinrate": 56.8,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0a0cdf97-1927-47c6-8ef1-29969e3567ee.jpg?1764120168"
+    },
+    {
+      "Name": "Water Tribe Rallier",
+      "Rarity": "uncommon",
+      "Cost": "{1}{W}",
+      "GihWinrate": 60.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/e/4e744b6c-1c2f-451a-818a-5ee7785b5213.jpg?1764120175"
+    },
+    {
+      "Name": "Watery Grasp",
+      "Rarity": "common",
+      "Cost": "{U}",
+      "GihWinrate": 58.4,
+      "Expansion": "TLA",
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1764120563"
+    },
+    {
+      "Name": "White Lotus Hideout",
+      "Rarity": "uncommon",
+      "Cost": "",
+      "GihWinrate": 51.2,
+      "Expansion": "TLA",
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/24d1e22c-0d99-4ed5-94f0-fd055fd8e2be.jpg?1764122044"
+    },
+    {
+      "Name": "White Lotus Reinforcements",
+      "Rarity": "uncommon",
+      "Cost": "{1}{G}{W}",
+      "GihWinrate": 59.0,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/c/4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316.jpg?1764121853"
+    },
+    {
+      "Name": "White Lotus Tile",
+      "Rarity": "mythic",
+      "Cost": "{4}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "CastingCost": "{4}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/d/1d70f9ec-fdc1-4219-b89b-c030d712c1fc.jpg?1764121931"
+    },
+    {
+      "Name": "Wolfbat",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B}",
+      "GihWinrate": 53.9,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/a/2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2.jpg?1764120843"
+    },
+    {
+      "Name": "Yip Yip!",
+      "Rarity": "common",
+      "Cost": "{W}",
+      "GihWinrate": 58.0,
+      "Expansion": "TLA",
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/3/43f4b10e-165b-4100-82f3-728e1b0c78ed.jpg?1764120182"
+    },
+    {
+      "Name": "Yue, the Moon Spirit",
+      "Rarity": "rare",
+      "Cost": "{3}{U}",
+      "GihWinrate": 53.6,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ecdac50f-c639-43fc-a03e-d488fac96ae2.jpg?1764120573"
+    },
+    {
+      "Name": "Yuyan Archers",
+      "Rarity": "common",
+      "Cost": "{1}{R}",
+      "GihWinrate": 57.4,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1764121103"
+    },
+    {
+      "Name": "Zhao, Ruthless Admiral",
+      "Rarity": "uncommon",
+      "Cost": "{2}{B/R}{B/R}",
+      "GihWinrate": 50.4,
+      "Expansion": "TLA",
+      "CastingCost": "{2}{B/R}{B/R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/f/3fd48a57-b0bb-4177-a0f3-bd317a179cbe.jpg?1764121862"
+    },
+    {
+      "Name": "Zhao, the Moon Slayer",
+      "Rarity": "rare",
+      "Cost": "{1}{R}",
+      "GihWinrate": 51.9,
+      "Expansion": "TLA",
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f1015bf5-de98-41f3-b6b1-ed95f7465944.jpg?1764121109"
+    },
+    {
+      "Name": "Zuko, Conflicted",
+      "Rarity": "rare",
+      "Cost": "{B}{R}",
+      "GihWinrate": 51.5,
+      "Expansion": "TLA",
+      "CastingCost": "{B}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/d/9d555cab-ec86-4f27-bca2-7d01f79c3f46.jpg?1764121869"
+    },
+    {
+      "Name": "Zuko, Exiled Prince",
+      "Rarity": "uncommon",
+      "Cost": "{3}{R}",
+      "GihWinrate": 52.9,
+      "Expansion": "TLA",
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/a/6a73b372-9c0e-4a85-89d2-440163330687.jpg?1764121115"
+    },
+    {
+      "Name": "Zuko's Conviction",
+      "Rarity": "uncommon",
+      "Cost": "{B}",
+      "GihWinrate": 51.9,
+      "Expansion": "TLA",
+      "CastingCost": "{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad8933d6-cdc7-4d60-a78e-b43ffecfb136.jpg?1764120849"
+    },
+    {
+      "Name": "Zuko's Exile",
+      "Rarity": "common",
+      "Cost": "{5}",
+      "GihWinrate": 49.1,
+      "Expansion": "TLA",
+      "CastingCost": "{5}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/9090b055-3406-4fed-a8c6-3f6353a9600e.jpg?1764119886"
+    },
+    {
+      "Name": "Dark Depths",
+      "Rarity": "mythic",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a8b11ad-d077-40b6-988c-0462e118fe3d.jpg?1764119697"
+    },
+    {
+      "Name": "Brought Back",
+      "Rarity": "rare",
+      "Cost": "{W}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{W}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aecdc315-95e5-450c-bedc-998eea46cf8c.jpg?1592515984"
+    },
+    {
+      "Name": "Drannith Magistrate",
+      "Rarity": "rare",
+      "Cost": "{1}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1628801742"
+    },
+    {
+      "Name": "Empty City Ruse",
+      "Rarity": "uncommon",
+      "Cost": "{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/d/4d37c84c-80e5-453d-bd2e-4f77ff864c89.jpg?1562256087"
+    },
+    {
+      "Name": "Lita, Mechanical Engineer",
+      "Rarity": "mythic",
+      "Cost": "{2}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/9/e9211079-9499-4443-8cb9-4c2bb2849994.jpg?1764117810"
+    },
+    {
+      "Name": "Release to Memory",
+      "Rarity": "rare",
+      "Cost": "{3}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/4/b45c4bbf-2c61-4d49-96c8-34a0fb0d6d02.jpg?1651655205"
+    },
+    {
+      "Name": "Scout's Warning",
+      "Rarity": "rare",
+      "Cost": "{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e6639e3d-b0c4-4c08-83d5-f3fc58fac9b2.jpg?1562941250"
+    },
+    {
+      "Name": "Teferi's Protection",
+      "Rarity": "rare",
+      "Cost": "{2}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/483fa1cb-1e35-44f2-a143-98c0f107f5ca.jpg?1745319936"
+    },
+    {
+      "Name": "Three Dreams",
+      "Rarity": "rare",
+      "Cost": "{4}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{4}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/c/4c06b86e-c3fc-4703-affa-0ee2d9613854.jpg?1562908929"
+    },
+    {
+      "Name": "Agent of Treachery",
+      "Rarity": "rare",
+      "Cost": "{5}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{5}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/cc6686e6-4535-49be-b0b3-e76464656cd2.jpg?1639052497"
+    },
+    {
+      "Name": "Bribery",
+      "Rarity": "mythic",
+      "Cost": "{3}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/9/49fd737a-d7da-421b-a741-d6d0d213299f.jpg?1689996211"
+    },
+    {
+      "Name": "Clone",
+      "Rarity": "rare",
+      "Cost": "{3}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e648262-3b9b-4c58-8e29-48356e3cb064.jpg?1562829895"
+    },
+    {
+      "Name": "Clone Legion",
+      "Rarity": "mythic",
+      "Cost": "{7}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{7}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f5ebe939-fef3-4085-808c-41ff97e83a7e.jpg?1673483841"
+    },
+    {
+      "Name": "Force of Negation",
+      "Rarity": "rare",
+      "Cost": "{1}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1764119635"
+    },
+    {
+      "Name": "Imprisoned in the Moon",
+      "Rarity": "common",
+      "Cost": "{2}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/d/0d150547-09f5-45ce-a825-89944b066bd4.jpg?1737936193"
+    },
+    {
+      "Name": "Intruder Alarm",
+      "Rarity": "rare",
+      "Cost": "{2}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/d/8d62468e-ed9d-4932-bbbd-103b33b98b25.jpg?1562923566"
+    },
+    {
+      "Name": "Mystic Remora",
+      "Rarity": "rare",
+      "Cost": "{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/40140991-cffa-4b52-9a25-37e9a8aa9ddd.jpg?1675199366"
+    },
+    {
+      "Name": "Prosperity",
+      "Rarity": "uncommon",
+      "Cost": "{X}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{X}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/69ebc3a4-94b8-45aa-a3bf-21cd435ff5cf.jpg?1562917143"
+    },
+    {
+      "Name": "Sakashima of a Thousand Faces",
+      "Rarity": "mythic",
+      "Cost": "{3}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/714c3a1f-7b30-4ed8-8f38-6176758741fb.jpg?1608909400"
+    },
+    {
+      "Name": "Standstill",
+      "Rarity": "uncommon",
+      "Cost": "{1}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3ede3f6f-e642-4fe4-aa37-0f01cdf4d149.jpg?1562906537"
+    },
+    {
+      "Name": "Training Grounds",
+      "Rarity": "rare",
+      "Cost": "{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/991c27ed-f53c-48c6-8c12-282f44b8d441.jpg?1693171015"
+    },
+    {
+      "Name": "Visions of Beyond",
+      "Rarity": "rare",
+      "Cost": "{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/0/f0b97772-9490-4db3-b4dd-a87d973680a5.jpg?1547516684"
+    },
+    {
+      "Name": "Black Sun's Zenith",
+      "Rarity": "rare",
+      "Cost": "{X}{B}{B}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{X}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e842b4bb-a1b7-440b-a0da-856fb0eea4c4.jpg?1706240756"
+    },
+    {
+      "Name": "Bloodchief Ascension",
+      "Rarity": "rare",
+      "Cost": "{B}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/5/d56d1535-d9de-459f-bc31-0923f621e0e9.jpg?1689996895"
+    },
+    {
+      "Name": "Cruel Tutor",
+      "Rarity": "rare",
+      "Cost": "{2}{B}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b.jpg?1562446860"
+    },
+    {
+      "Name": "Noxious Gearhulk",
+      "Rarity": "mythic",
+      "Cost": "{4}{B}{B}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{4}{B}{B}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/289c11b7-a460-4a2f-b11a-e1ba54bd1f34.jpg?1743206560"
+    },
+    {
+      "Name": "Blasphemous Act",
+      "Rarity": "rare",
+      "Cost": "{8}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{8}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/b/fbeeb7d0-cda8-414b-82d3-a83f1883bdd2.jpg?1752944720"
+    },
+    {
+      "Name": "Diaochan, Artful Beauty",
+      "Rarity": "rare",
+      "Cost": "{3}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/1/6180c476-dadf-4c03-ab1e-639386bd4319.jpg?1562256557"
+    },
+    {
+      "Name": "Dockside Extortionist",
+      "Rarity": "mythic",
+      "Cost": "{1}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e2e3efb-75cb-430f-b9f4-cb58f3aeb91b.jpg?1727093692"
+    },
+    {
+      "Name": "Fervor",
+      "Rarity": "rare",
+      "Cost": "{2}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a88515c2-4b4f-4d16-9f50-149ef012e961.jpg?1562558336"
+    },
+    {
+      "Name": "Humble Defector",
+      "Rarity": "uncommon",
+      "Cost": "{1}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/1/d17c10a1-12fe-4a58-81ed-03a8bdd06686.jpg?1712354448"
+    },
+    {
+      "Name": "Insurrection",
+      "Rarity": "mythic",
+      "Cost": "{5}{R}{R}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{5}{R}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df8a0a8c-1953-46e6-9da5-b4c20909ce1c.jpg?1689997974"
+    },
+    {
+      "Name": "Lightning Bolt",
+      "Rarity": "uncommon",
+      "Cost": "{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/7/77c6fa74-5543-42ac-9ead-0e890b188e99.jpg?1706239968"
+    },
+    {
+      "Name": "Mirrorwing Dragon",
+      "Rarity": "mythic",
+      "Cost": "{3}{R}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/409aa60d-ce4f-4019-b5b9-702ab94ed429.jpg?1736468194"
+    },
+    {
+      "Name": "Rending Volley",
+      "Rarity": "uncommon",
+      "Cost": "{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104"
+    },
+    {
+      "Name": "Searing Blood",
+      "Rarity": "uncommon",
+      "Cost": "{R}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{R}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/b/bb43fd07-d281-447d-88bf-c53498c2cf20.jpg?1593092367"
+    },
+    {
+      "Name": "Shattering Spree",
+      "Rarity": "uncommon",
+      "Cost": "{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/6/d6dcff21-5900-43c4-a38b-cdc19c704ce4.jpg?1593272374"
+    },
+    {
+      "Name": "Volcanic Torrent",
+      "Rarity": "uncommon",
+      "Cost": "{4}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{4}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/7/e7dc57e7-babe-45bf-991b-d464b6e66bba.jpg?1712354527"
+    },
+    {
+      "Name": "Warstorm Surge",
+      "Rarity": "rare",
+      "Cost": "{5}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{5}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/dbe1bfe0-0be7-496d-94db-e8028d4d9493.jpg?1674142183"
+    },
+    {
+      "Name": "Beastmaster Ascension",
+      "Rarity": "rare",
+      "Cost": "{2}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f404d133-fc1a-4751-ac72-554e6553e486.jpg?1673484492"
+    },
+    {
+      "Name": "Elemental Bond",
+      "Rarity": "uncommon",
+      "Cost": "{2}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/e/8efbc925-54ac-4dda-82af-9091b1cf2fda.jpg?1743206914"
+    },
+    {
+      "Name": "The Great Henge",
+      "Rarity": "mythic",
+      "Cost": "{7}{G}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{7}{G}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/3/6340e0f3-7f9c-4d71-8daf-e1be5505eb5b.jpg?1689998574"
+    },
+    {
+      "Name": "Heartbeat of Spring",
+      "Rarity": "rare",
+      "Cost": "{2}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/c/8ccb1e59-b858-42cf-93f8-8a3badb3eaad.jpg?1599707297"
+    },
+    {
+      "Name": "Heroic Intervention",
+      "Rarity": "rare",
+      "Cost": "{1}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1689998584"
+    },
+    {
+      "Name": "Return of the Wildspeaker",
+      "Rarity": "rare",
+      "Cost": "{4}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{4}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2f4e0dac-e0e7-4557-9357-d4df96ed89d7.jpg?1712354615"
+    },
+    {
+      "Name": "Rites of Flourishing",
+      "Rarity": "rare",
+      "Cost": "{2}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/b/ab014d5a-aec5-4ea8-bfb4-1392f43c1b30.jpg?1604194471"
+    },
+    {
+      "Name": "Taunting Challenge",
+      "Rarity": "rare",
+      "Cost": "{1}{G}{G}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{G}{G}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/4620867c-a3a6-4c81-b923-24007367132e.jpg?1562256078"
+    },
+    {
+      "Name": "Captain Sisay",
+      "Rarity": "rare",
+      "Cost": "{2}{G}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/2/d24d441c-f37f-44fe-8a93-f5c89df807e4.jpg?1562937244"
+    },
+    {
+      "Name": "Eladamri's Call",
+      "Rarity": "rare",
+      "Cost": "{G}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300"
+    },
+    {
+      "Name": "Fevered Visions",
+      "Rarity": "rare",
+      "Cost": "{1}{U}{R}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{1}{U}{R}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3ee3fc2b-c2e4-421d-ac1d-6a111bb44f44.jpg?1576385345"
+    },
+    {
+      "Name": "Join the Dance",
+      "Rarity": "uncommon",
+      "Cost": "{G}{W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{G}{W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/a/4a2d360c-1fad-4425-a1ab-5f713c45c7b3.jpg?1736468526"
+    },
+    {
+      "Name": "Koma, Cosmos Serpent",
+      "Rarity": "mythic",
+      "Cost": "{3}{G}{G}{U}{U}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{3}{G}{G}{U}{U}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/2/b2f23d6f-f2c8-4022-9f46-ba7fda00ef99.jpg?1706241008"
+    },
+    {
+      "Name": "Rhys the Redeemed",
+      "Rarity": "rare",
+      "Cost": "{G/W}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{G/W}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/9/b91dadcb-31e9-43b0-b425-c9311af3e9d7.jpg?1599708272"
+    },
+    {
+      "Name": "Cityscape Leveler",
+      "Rarity": "mythic",
+      "Cost": "{8}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{8}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950"
+    },
+    {
+      "Name": "Meteorite",
+      "Rarity": "common",
+      "Cost": "{5}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{5}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/3/33eb2032-50af-4fd6-bdc7-7cae2211956c.jpg?1677542216"
+    },
+    {
+      "Name": "Sundial of the Infinite",
+      "Rarity": "rare",
+      "Cost": "{2}",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "{2}",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/6/36d3da9c-cb7a-4cea-b6e6-6722bd16c73c.jpg?1562638658"
+    },
+    {
+      "Name": "Fabled Passage",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/a/6a21ecc8-f6fd-4670-91d8-94b9ce94c2fe.jpg?1752944504"
+    },
+    {
+      "Name": "Sunbaked Canyon",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c36820fa-ee86-4206-9a0d-737a67cf5208.jpg?1562202603"
+    },
+    {
+      "Name": "Tarnished Citadel",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/0/30375d24-ccfe-47a2-babd-1bda0a6298fe.jpg?1562903894"
+    },
+    {
+      "Name": "Treetop Village",
+      "Rarity": "uncommon",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/14394198-0993-46ee-a3ea-5c7084a78772.jpg?1561758885"
+    },
+    {
+      "Name": "Valakut, the Molten Pinnacle",
+      "Rarity": "rare",
+      "Cost": "",
+      "GihWinrate": null,
+      "Expansion": "TLA",
+      "BonusSheet": true,
+      "CastingCost": "",
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1562611305"
+    }
+  ]
+}

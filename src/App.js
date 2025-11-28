@@ -107,10 +107,55 @@ function App() {
     if (!cost || cost === '') return ['C'];
     const colors = new Set();
     if (cost.includes('{W}')) colors.add('W');
+    if (cost.includes('{G/W}')){
+      colors.add('W');
+      colors.add('G');
+    } 
+    if (cost.includes('{W/U}')){
+      colors.add('W');
+      colors.add('U');
+    } 
+    if (cost.includes('{W/B}')){
+      colors.add('W');
+      colors.add('B');
+    } 
+    if (cost.includes('{R/W}')){
+      colors.add('W');
+      colors.add('R');
+    } 
+
     if (cost.includes('{U}')) colors.add('U');
+    if (cost.includes('{G/U}')){
+      colors.add('G');
+      colors.add('U');
+    } 
+    if (cost.includes('{U/R}')){
+      colors.add('R');
+      colors.add('U');
+    } 
+    if (cost.includes('{U/B}')){
+      colors.add('U');
+      colors.add('B');
+    } 
+
     if (cost.includes('{B}')) colors.add('B');
+    if (cost.includes('{B/G}')){
+      colors.add('G');
+      colors.add('B');
+    } 
+    if (cost.includes('{B/R}')){
+      colors.add('R');
+      colors.add('B');
+    }
+    
     if (cost.includes('{R}')) colors.add('R');
+    if (cost.includes('{R/G}')){
+      colors.add('R');
+      colors.add('G');
+    }
+
     if (cost.includes('{G}')) colors.add('G');
+
     return colors.size > 0 ? Array.from(colors) : ['C'];
   };
 

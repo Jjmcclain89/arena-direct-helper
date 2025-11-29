@@ -11,6 +11,7 @@ function App() {
   const [topCardsCount, setTopCardsCount] = useState(5);
   const [filtersCollapsed, setFiltersCollapsed] = useState(false);
   const [analyticsCollapsed, setAnalyticsCollapsed] = useState(false);
+  const [colorMatchMode, setColorMatchMode] = useState('any');
   const [filters, setFilters] = useState({
     colors: { W: false, U: false, B: false, R: false, G: false, C: false },
     rarities: { common: false, uncommon: false, rare: false, mythic: false }
@@ -225,7 +226,20 @@ function App() {
       let passesColorFilter = true;
       if (hasActiveColorFilters) {
         const cardColors = getCardColors(card.CastingCost || card.Cost);
-        passesColorFilter = cardColors.some(color => filters.colors[color]);
+        const selectedColors = Object.keys(filters.colors).filter(c => filters.colors[c]);
+        
+        if (colorMatchMode === 'only') {
+          // Match Only: card colors must exactly match selected colors
+          const cardColorSet = new Set(cardColors);
+          const selectedColorSet = new Set(selectedColors);
+          
+          // Check if sets are equal (same size and all elements match)
+          passesColorFilter = cardColorSet.size === selectedColorSet.size && 
+                             [...cardColorSet].every(c => selectedColorSet.has(c));
+        } else {
+          // Match Any: card must have at least one of the selected colors
+          passesColorFilter = cardColors.some(color => filters.colors[color]);
+        }
       }
 
       // Rarity filter - if none selected, show all
@@ -254,7 +268,7 @@ function App() {
     });
 
     return filtered;
-  }, [deckCards, filters, sortBy, sortDirection]);
+  }, [deckCards, filters, sortBy, sortDirection, colorMatchMode]);
 
   const renderSortIcon = (column) => {
     if (sortBy !== column) {
@@ -391,7 +405,7 @@ function App() {
                 {/* Color Filters */}
                 <div className="mb-6">
                   <label className="font-semibold text-gray-400 text-xs uppercase tracking-wide mb-3 block">Colors</label>
-                  <div className="grid grid-cols-2 gap-2">
+                  <div className="grid grid-cols-2 gap-2 mb-3">
                     {[
                       { key: 'W', label: 'W', color: 'text-yellow-300' },
                       { key: 'U', label: 'U', color: 'text-blue-400' },
@@ -413,6 +427,32 @@ function App() {
                         <span className={`font-bold text-sm ${color}`}>{label}</span>
                       </label>
                     ))}
+                  </div>
+                  
+                  {/* Color Match Mode */}
+                  <div className="flex gap-4 text-sm">
+                    <label className="flex items-center gap-2 cursor-pointer">
+                      <input
+                        type="radio"
+                        name="colorMatchMode"
+                        value="any"
+                        checked={colorMatchMode === 'any'}
+                        onChange={(e) => setColorMatchMode(e.target.value)}
+                        className="cursor-pointer"
+                      />
+                      <span className="text-gray-300">Match Any</span>
+                    </label>
+                    <label className="flex items-center gap-2 cursor-pointer">
+                      <input
+                        type="radio"
+                        name="colorMatchMode"
+                        value="only"
+                        checked={colorMatchMode === 'only'}
+                        onChange={(e) => setColorMatchMode(e.target.value)}
+                        className="cursor-pointer"
+                      />
+                      <span className="text-gray-300">Match Only</span>
+                    </label>
                   </div>
                 </div>
 

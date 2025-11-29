@@ -8,7 +8,9 @@ function App() {
   const [sortDirection, setSortDirection] = useState('desc');
   const [hoveredCard, setHoveredCard] = useState(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
-  const [topCardsCount, setTopCardsCount] = useState(12);
+  const [topCardsCount, setTopCardsCount] = useState(5);
+  const [filtersCollapsed, setFiltersCollapsed] = useState(false);
+  const [analyticsCollapsed, setAnalyticsCollapsed] = useState(false);
   const [filters, setFilters] = useState({
     colors: { W: false, U: false, B: false, R: false, G: false, C: false },
     rarities: { common: false, uncommon: false, rare: false, mythic: false }
@@ -345,9 +347,9 @@ function App() {
   const totalCards = deckCards.reduce((sum, card) => sum + card.count, 0);
 
   return (
-    <div className="min-h-screen p-8 max-w-7xl mx-auto">
+    <div className="min-h-screen p-8">
       {/* Header */}
-      <div className="flex justify-between items-center mb-8">
+      <div className="flex justify-between items-center mb-8 max-w-7xl mx-auto">
         <div>
           <h1 className="text-3xl font-bold text-white">MTG Sealed Pool</h1>
           <p className="text-gray-400 text-sm mt-1">{totalCards} cards total</p>
@@ -363,192 +365,232 @@ function App() {
         </button>
       </div>
 
-      {/* Analytics Panel */}
-      {colorAnalytics && (
-        <div className="bg-gray-900 p-6 rounded-lg mb-6 border border-gray-800">
-          <div className="flex justify-between items-center mb-4">
-            <h2 className="text-lg font-semibold text-white">Color Analytics (Top Cards Average)</h2>
-            <div className="flex items-center gap-4">
-              <label className="text-sm text-gray-400">
-                Top <span className="text-white font-semibold">{topCardsCount}</span> cards per color
-              </label>
-              <input
-                type="range"
-                min="0"
-                max="14"
-                value={topCardsCount}
-                onChange={(e) => setTopCardsCount(parseInt(e.target.value))}
-                className="w-32 h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500"
-              />
+      {/* Main Layout with Sidebar */}
+      <div className="flex gap-6 max-w-7xl mx-auto">
+        {/* Sidebar */}
+        <div className="w-80 flex-shrink-0 space-y-6">
+          {/* Filters */}
+          <div className="bg-gray-900 rounded-lg border border-gray-800">
+            <div 
+              className="p-6 cursor-pointer flex items-center justify-between hover:bg-gray-800/50 transition-colors"
+              onClick={() => setFiltersCollapsed(!filtersCollapsed)}
+            >
+              <h2 className="text-lg font-semibold text-white">Filters</h2>
+              <svg 
+                className={`w-5 h-5 text-gray-400 transition-transform ${filtersCollapsed ? '' : 'rotate-180'}`}
+                fill="none" 
+                stroke="currentColor" 
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
             </div>
-          </div>
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-            {[
-              { key: 'W', bg: 'bg-yellow-900/20', border: 'border-yellow-600/30' },
-              { key: 'U', bg: 'bg-blue-900/20', border: 'border-blue-600/30' },
-              { key: 'B', bg: 'bg-purple-900/20', border: 'border-purple-600/30' },
-              { key: 'R', bg: 'bg-red-900/20', border: 'border-red-600/30' },
-              { key: 'G', bg: 'bg-green-900/20', border: 'border-green-600/30' },
-              { key: 'C', bg: 'bg-gray-800/20', border: 'border-gray-600/30' },
-            ].map(({ key, bg, border }) => {
-              const stats = colorAnalytics[key];
-              return (
-                <div 
-                  key={key} 
-                  className={`${bg} ${border} border-2 rounded-lg p-4 text-center`}
-                >
-                  <div className="text-4xl mb-2">
-                    <i className={`ms ms-cost ms-${key.toLowerCase()} ms-shadow`}></i>
-                  </div>
-                  <div className="text-sm text-gray-400 mb-2">
-                    {stats.name}
-                  </div>
-                  <div className="text-xl font-semibold text-white">
-                    {stats.cardCount > 0 ? `${stats.avgWinRate?.toFixed(1)}%` : '—'}
-                  </div>
-                  <div className="text-xs text-gray-500 mt-1">
-                    {stats.cardCount} card{stats.cardCount !== 1 ? 's' : ''}
+            
+            {!filtersCollapsed && (
+              <div className="px-6 pb-6">
+                {/* Color Filters */}
+                <div className="mb-6">
+                  <label className="font-semibold text-gray-400 text-xs uppercase tracking-wide mb-3 block">Colors</label>
+                  <div className="grid grid-cols-2 gap-2">
+                    {[
+                      { key: 'W', label: 'W', color: 'text-yellow-300' },
+                      { key: 'U', label: 'U', color: 'text-blue-400' },
+                      { key: 'B', label: 'B', color: 'text-purple-400' },
+                      { key: 'R', label: 'R', color: 'text-red-400' },
+                      { key: 'G', label: 'G', color: 'text-green-400' },
+                      { key: 'C', label: 'C', color: 'text-gray-400' },
+                    ].map(({ key, label, color }) => (
+                      <label 
+                        key={key} 
+                        className="flex items-center gap-2 px-3 py-2 bg-gray-950 rounded-lg cursor-pointer hover:bg-gray-800 transition-colors"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={filters.colors[key]}
+                          onChange={() => toggleColorFilter(key)}
+                          className="cursor-pointer"
+                        />
+                        <span className={`font-bold text-sm ${color}`}>{label}</span>
+                      </label>
+                    ))}
                   </div>
                 </div>
-              );
-            })}
+
+                {/* Rarity Filters */}
+                <div>
+                  <label className="font-semibold text-gray-400 text-xs uppercase tracking-wide mb-3 block">Rarity</label>
+                  <div className="space-y-2">
+                    {['common', 'uncommon', 'rare', 'mythic'].map(rarity => (
+                      <label 
+                        key={rarity} 
+                        className="flex items-center gap-2 px-3 py-2 bg-gray-950 rounded-lg cursor-pointer hover:bg-gray-800 transition-colors"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={filters.rarities[rarity]}
+                          onChange={() => toggleRarityFilter(rarity)}
+                          className="cursor-pointer"
+                        />
+                        <span className="text-sm text-gray-100">{rarity.charAt(0).toUpperCase() + rarity.slice(1)}</span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+
+          {/* Analytics Panel */}
+          {colorAnalytics && (
+            <div className="bg-gray-900 rounded-lg border border-gray-800">
+              <div 
+                className="p-6 cursor-pointer flex items-center justify-between hover:bg-gray-800/50 transition-colors"
+                onClick={() => setAnalyticsCollapsed(!analyticsCollapsed)}
+              >
+                <h2 className="text-lg font-semibold text-white">Color Analytics</h2>
+                <svg 
+                  className={`w-5 h-5 text-gray-400 transition-transform ${analyticsCollapsed ? '' : 'rotate-180'}`}
+                  fill="none" 
+                  stroke="currentColor" 
+                  viewBox="0 0 24 24"
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+              
+              {!analyticsCollapsed && (
+                <div className="px-6 pb-6">
+                  <div className="mb-4">
+                    <div className="flex items-center gap-2 text-sm text-gray-400">
+                      <label>Top {topCardsCount} cards</label>
+                      <input
+                        type="range"
+                        min="0"
+                        max="14"
+                        value={topCardsCount}
+                        onChange={(e) => setTopCardsCount(parseInt(e.target.value))}
+                        className="flex-1 h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500"
+                      />
+                    </div>
+                  </div>
+                  <div className="space-y-3">
+                    {[
+                      { key: 'W', bg: 'bg-yellow-900/20', border: 'border-yellow-600/30' },
+                      { key: 'U', bg: 'bg-blue-900/20', border: 'border-blue-600/30' },
+                      { key: 'B', bg: 'bg-purple-900/20', border: 'border-purple-600/30' },
+                      { key: 'R', bg: 'bg-red-900/20', border: 'border-red-600/30' },
+                      { key: 'G', bg: 'bg-green-900/20', border: 'border-green-600/30' },
+                      { key: 'C', bg: 'bg-gray-800/20', border: 'border-gray-600/30' },
+                    ].map(({ key, bg, border }) => {
+                      const stats = colorAnalytics[key];
+                      return (
+                        <div 
+                          key={key} 
+                          className={`${bg} ${border} border-2 rounded-lg p-3 flex items-center justify-between`}
+                        >
+                          <div className="flex items-center gap-3">
+                            <i className={`ms ms-cost ms-${key.toLowerCase()} ms-shadow text-2xl`}></i>
+                            <div>
+                              <div className="text-sm text-gray-400">{stats.name}</div>
+                              <div className="text-xs text-gray-500">{stats.cardCount} card{stats.cardCount !== 1 ? 's' : ''}</div>
+                            </div>
+                          </div>
+                          <div className="text-lg font-semibold text-white">
+                            {stats.cardCount > 0 ? `${stats.avgWinRate?.toFixed(1)}%` : '—'}
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
+        {/* Main Content */}
+        <div className="flex-1 min-w-0">
+          {/* Results Info */}
+          <div className="text-gray-400 mb-4 text-sm">
+            Showing {filteredAndSortedCards.length} of {deckCards.length} unique cards
+          </div>
+
+          {/* Table */}
+          <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800 w-fit">
+            <table>
+              <thead className="bg-gray-950">
+                <tr>
+                  <th 
+                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                    onClick={() => handleSort('count')}
+                  >
+                    <div className="flex items-center gap-2">
+                      #
+                      {renderSortIcon('count')}
+                    </div>
+                  </th>
+                  <th 
+                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                    onClick={() => handleSort('rarity')}
+                  >
+                    <div className="flex items-center gap-2">
+                      Rarity
+                      {renderSortIcon('rarity')}
+                    </div>
+                  </th>
+                  <th 
+                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                    onClick={() => handleSort('name')}
+                  >
+                    <div className="flex items-center gap-2">
+                      Card Name
+                      {renderSortIcon('name')}
+                    </div>
+                  </th>
+                  <th 
+                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                    onClick={() => handleSort('winrate')}
+                  >
+                    <div className="flex items-center gap-2">
+                      Win Rate
+                      {renderSortIcon('winrate')}
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                {filteredAndSortedCards.map((card, idx) => (
+                  <tr 
+                    key={idx} 
+                    className="border-b border-gray-800 hover:bg-gray-800/50 transition-colors"
+                    onMouseEnter={() => handleRowHover(card)}
+                    onMouseMove={handleMouseMove}
+                    onMouseLeave={handleRowLeave}
+                  >
+                    <td className="px-3 py-2 text-gray-100 font-semibold">{card.count}</td>
+                    <td className="px-3 py-2">
+                      <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
+                        card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
+                        card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
+                        card.Rarity.toLowerCase() === 'uncommon' ? 'bg-gray-500 text-white' :
+                        'bg-gray-700 text-white'
+                      }`}>
+                        {card.Rarity.charAt(0).toUpperCase()}
+                      </span>
+                    </td>
+                    <td className="px-3 py-2">
+                      <div className="flex items-center gap-2">
+                        <span className="text-gray-100 font-medium">{card.Name}</span>
+                        {renderManaCost(card.CastingCost || card.Cost)}
+                      </div>
+                    </td>
+                    <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </div>
-      )}
-
-      {/* Filters */}
-      <div className="bg-gray-900 p-6 rounded-lg mb-6 border border-gray-800">
-        <div className="flex flex-wrap gap-8">
-          {/* Color Filters */}
-          <div className="flex items-center gap-4">
-            <label className="font-semibold text-gray-400 text-sm uppercase tracking-wide">Colors:</label>
-            <div className="flex gap-2 flex-wrap">
-              {[
-                { key: 'W', label: 'W', color: 'text-yellow-300' },
-                { key: 'U', label: 'U', color: 'text-blue-400' },
-                { key: 'B', label: 'B', color: 'text-purple-400' },
-                { key: 'R', label: 'R', color: 'text-red-400' },
-                { key: 'G', label: 'G', color: 'text-green-400' },
-                { key: 'C', label: 'C', color: 'text-gray-400' },
-              ].map(({ key, label, color }) => (
-                <label 
-                  key={key} 
-                  className="flex items-center gap-2 px-3 py-2 bg-gray-950 rounded-lg cursor-pointer hover:bg-gray-800 transition-colors"
-                >
-                  <input
-                    type="checkbox"
-                    checked={filters.colors[key]}
-                    onChange={() => toggleColorFilter(key)}
-                    className="cursor-pointer"
-                  />
-                  <span className={`font-bold text-sm ${color}`}>{label}</span>
-                </label>
-              ))}
-            </div>
-          </div>
-
-          {/* Rarity Filters */}
-          <div className="flex items-center gap-4">
-            <label className="font-semibold text-gray-400 text-sm uppercase tracking-wide">Rarity:</label>
-            <div className="flex gap-2 flex-wrap">
-              {['common', 'uncommon', 'rare', 'mythic'].map(rarity => (
-                <label 
-                  key={rarity} 
-                  className="flex items-center gap-2 px-3 py-2 bg-gray-950 rounded-lg cursor-pointer hover:bg-gray-800 transition-colors"
-                >
-                  <input
-                    type="checkbox"
-                    checked={filters.rarities[rarity]}
-                    onChange={() => toggleRarityFilter(rarity)}
-                    className="cursor-pointer"
-                  />
-                  <span className="text-sm text-gray-100">{rarity.charAt(0).toUpperCase() + rarity.slice(1)}</span>
-                </label>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Results Info */}
-      <div className="text-gray-400 mb-4 text-sm">
-        Showing {filteredAndSortedCards.length} of {deckCards.length} unique cards
-      </div>
-
-      {/* Table */}
-      <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800 mx-auto w-fit">
-        <table>
-          <thead className="bg-gray-950">
-            <tr>
-              <th 
-                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                onClick={() => handleSort('count')}
-              >
-                <div className="flex items-center gap-2">
-                  #
-                  {renderSortIcon('count')}
-                </div>
-              </th>
-              <th 
-                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                onClick={() => handleSort('rarity')}
-              >
-                <div className="flex items-center gap-2">
-                  Rarity
-                  {renderSortIcon('rarity')}
-                </div>
-              </th>
-              <th 
-                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                onClick={() => handleSort('name')}
-              >
-                <div className="flex items-center gap-2">
-                  Card Name
-                  {renderSortIcon('name')}
-                </div>
-              </th>
-              <th 
-                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                onClick={() => handleSort('winrate')}
-              >
-                <div className="flex items-center gap-2">
-                  Win Rate
-                  {renderSortIcon('winrate')}
-                </div>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            {filteredAndSortedCards.map((card, idx) => (
-              <tr 
-                key={idx} 
-                className="border-b border-gray-800 hover:bg-gray-800/50 transition-colors"
-                onMouseEnter={() => handleRowHover(card)}
-                onMouseMove={handleMouseMove}
-                onMouseLeave={handleRowLeave}
-              >
-                <td className="px-3 py-2 text-gray-100 font-semibold">{card.count}</td>
-                <td className="px-3 py-2">
-                  <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
-                    card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
-                    card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
-                    card.Rarity.toLowerCase() === 'uncommon' ? 'bg-gray-500 text-white' :
-                    'bg-gray-700 text-white'
-                  }`}>
-                    {card.Rarity.charAt(0).toUpperCase()}
-                  </span>
-                </td>
-                <td className="px-3 py-2">
-                  <div className="flex items-center gap-2">
-                    <span className="text-gray-100 font-medium">{card.Name}</span>
-                    {renderManaCost(card.CastingCost || card.Cost)}
-                  </div>
-                </td>
-                <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
       </div>
 
       {/* Card Image Tooltip */}

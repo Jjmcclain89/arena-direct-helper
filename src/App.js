@@ -12,6 +12,10 @@ function App() {
   const [filtersCollapsed, setFiltersCollapsed] = useState(false);
   const [analyticsCollapsed, setAnalyticsCollapsed] = useState(false);
   const [colorMatchMode, setColorMatchMode] = useState('any');
+  const [deckList, setDeckList] = useState([]);
+  const [showLoadModal, setShowLoadModal] = useState(false);
+  const [modalDecklistInput, setModalDecklistInput] = useState('');
+  const [deckCollapsed, setDeckCollapsed] = useState(false);
   const [filters, setFilters] = useState({
     colors: { W: false, U: false, B: false, R: false, G: false, C: false },
     rarities: { common: false, uncommon: false, rare: false, mythic: false }
@@ -69,6 +73,62 @@ function App() {
     setDeckCards(matched);
   };
 
+  const loadNewDecklist = () => {
+    // Parse the modal decklist input
+    const lines = modalDecklistInput.trim().split('\n');
+    const cardCounts = {};
+    
+    for (const line of lines) {
+      const match = line.trim().match(/^(\d+)\s+(.+)$/);
+      if (match) {
+        const quantity = parseInt(match[1]);
+        const cardName = match[2].trim();
+        cardCounts[cardName] = quantity;
+      }
+    }
+
+    const cardNames = Object.keys(cardCounts);
+
+    if (cardNames.length === 0) {
+      alert('No valid cards found in decklist. Format should be:\n1 Card Name\n2 Another Card');
+      return;
+    }
+
+    // Match cards from decklist to database
+    const matched = [];
+    const notFound = [];
+
+    for (const cardName of cardNames) {
+      const found = cardData.cards.find(
+        card => card.Name.toLowerCase() === cardName.toLowerCase()
+      );
+      if (found) {
+        matched.push({
+          ...found,
+          count: cardCounts[cardName]
+        });
+      } else {
+        notFound.push(cardName);
+      }
+    }
+
+    if (notFound.length > 0) {
+      console.warn('Cards not found in database:', notFound);
+      alert(`Warning: ${notFound.length} cards not found in database:\n${notFound.join('\n')}\n\nCheck console for full list.`);
+    }
+
+    if (matched.length === 0) {
+      alert('No cards matched in database!');
+      return;
+    }
+
+    // Clear current deck and load new cards
+    setDeckCards(matched);
+    setDeckList([]);
+    setModalDecklistInput('');
+    setShowLoadModal(false);
+  };
+
   const handleSort = (column) => {
     if (sortBy === column) {
       // Toggle direction if clicking the same column
@@ -104,6 +164,24 @@ function App() {
       ...prev,
       rarities: { ...prev.rarities, [rarity]: !prev.rarities[rarity] }
     }));
+  };
+
+  const addToDeck = (card) => {
+    // Count how many copies of this card are already in the deck
+    const copiesInDeck = deckList.filter(c => c.Name === card.Name).length;
+    
+    // Only add if we haven't reached the max count from pool
+    if (copiesInDeck < card.count) {
+      setDeckList(prev => [...prev, card]);
+    }
+  };
+
+  const removeFromDeck = (index) => {
+    setDeckList(prev => prev.filter((_, i) => i !== index));
+  };
+
+  const clearDeck = () => {
+    setDeckList([]);
   };
 
   const getCardColors = (cost) => {
@@ -362,27 +440,16 @@ function App() {
 
   return (
     <div className="min-h-screen p-8">
-      {/* Header */}
-      <div className="flex justify-between items-center mb-8 max-w-7xl mx-auto">
-        <div>
-          <h1 className="text-3xl font-bold text-white">MTG Sealed Pool</h1>
-          <p className="text-gray-400 text-sm mt-1">{totalCards} cards total</p>
-        </div>
-        <button 
-          className="px-4 py-2 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
-          onClick={() => {
-            setDeckCards(null);
-            setDecklistInput('');
-          }}
-        >
-          Load New Decklist
-        </button>
-      </div>
-
       {/* Main Layout with Sidebar */}
       <div className="flex gap-6 max-w-7xl mx-auto">
         {/* Sidebar */}
         <div className="w-80 flex-shrink-0 space-y-6">
+          {/* Title */}
+          <div className="text-center">
+            <h1 className="text-2xl font-bold text-white">MTG Sealed Pool</h1>
+            <p className="text-gray-400 text-sm mt-1">{totalCards} cards total</p>
+          </div>
+
           {/* Filters */}
           <div className="bg-gray-900 rounded-lg border border-gray-800">
             <div 
@@ -549,89 +616,256 @@ function App() {
         </div>
 
         {/* Main Content */}
-        <div className="flex-1 min-w-0">
-          {/* Results Info */}
-          <div className="text-gray-400 mb-4 text-sm">
-            Showing {filteredAndSortedCards.length} of {deckCards.length} unique cards
+        <div className="flex-1 min-w-0 flex gap-6">
+          {/* Pool Section */}
+          <div className="flex-1">
+            <div className="flex justify-between items-center mb-4">
+              <div className="flex items-center gap-3">
+                <h2 className="text-xl font-bold text-white">Pool</h2>
+                <button 
+                  className="px-3 py-1 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors text-sm"
+                  onClick={() => setShowLoadModal(true)}
+                >
+                  Load New Decklist
+                </button>
+              </div>
+              
+              {/* Collapsed Deck Button */}
+              {deckCollapsed && (
+                <button
+                  onClick={() => setDeckCollapsed(false)}
+                  className="px-4 py-2 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors flex items-center gap-2"
+                >
+                  <span className="font-semibold">Deck ({deckList.length})</span>
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+              )}
+            </div>
+            
+            {/* Results Info */}
+            <div className="text-gray-400 mb-4 text-sm">
+              Showing {filteredAndSortedCards.length} of {deckCards.length} unique cards
+            </div>
+
+            {/* Table */}
+            <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800 w-fit">
+              <table>
+                <thead className="bg-gray-950">
+                  <tr>
+                    <th 
+                      className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                      onClick={() => handleSort('count')}
+                    >
+                      <div className="flex items-center gap-2">
+                        #
+                        {renderSortIcon('count')}
+                      </div>
+                    </th>
+                    <th 
+                      className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                      onClick={() => handleSort('rarity')}
+                    >
+                      <div className="flex items-center gap-2">
+                        Rarity
+                        {renderSortIcon('rarity')}
+                      </div>
+                    </th>
+                    <th 
+                      className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                      onClick={() => handleSort('name')}
+                    >
+                      <div className="flex items-center gap-2">
+                        Card Name
+                        {renderSortIcon('name')}
+                      </div>
+                    </th>
+                    <th 
+                      className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                      onClick={() => handleSort('winrate')}
+                    >
+                      <div className="flex items-center gap-2">
+                        Win Rate
+                        {renderSortIcon('winrate')}
+                      </div>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {filteredAndSortedCards.map((card, idx) => {
+                    const copiesInDeck = deckList.filter(c => c.Name === card.Name).length;
+                    const canAddMore = copiesInDeck < card.count;
+                    
+                    return (
+                      <tr 
+                        key={idx} 
+                        className={`border-b border-gray-800 transition-colors ${
+                          canAddMore ? 'hover:bg-green-900/20 cursor-pointer' : 'hover:bg-gray-800/50 cursor-not-allowed opacity-60'
+                        }`}
+                        onClick={() => canAddMore && addToDeck(card)}
+                        onMouseEnter={() => handleRowHover(card)}
+                        onMouseMove={handleMouseMove}
+                        onMouseLeave={handleRowLeave}
+                      >
+                        <td className="px-3 py-2 text-gray-100 font-semibold">{card.count}</td>
+                        <td className="px-3 py-2">
+                          <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
+                            card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
+                            card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
+                            card.Rarity.toLowerCase() === 'uncommon' ? 'bg-gray-500 text-white' :
+                            'bg-gray-700 text-white'
+                          }`}>
+                            {card.Rarity.charAt(0).toUpperCase()}
+                          </span>
+                        </td>
+                        <td className="px-3 py-2">
+                          <div className="flex items-center gap-2">
+                            <span className="text-gray-100 font-medium">{card.Name}</span>
+                            {renderManaCost(card.CastingCost || card.Cost)}
+                          </div>
+                        </td>
+                        <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
           </div>
 
-          {/* Table */}
-          <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800 w-fit">
-            <table>
-              <thead className="bg-gray-950">
-                <tr>
-                  <th 
-                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                    onClick={() => handleSort('count')}
+          {/* Deck Section */}
+          {!deckCollapsed && (
+            <div className="w-96 flex-shrink-0">
+              <div className="flex justify-between items-center mb-4">
+                <h2 className="text-xl font-bold text-white">Deck</h2>
+                <div className="flex gap-2">
+                  <button
+                    onClick={clearDeck}
+                    className="px-3 py-1 bg-red-900/30 text-red-400 border border-red-700 rounded-lg hover:bg-red-900/50 transition-colors text-sm"
+                    disabled={deckList.length === 0}
                   >
-                    <div className="flex items-center gap-2">
-                      #
-                      {renderSortIcon('count')}
-                    </div>
-                  </th>
-                  <th 
-                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                    onClick={() => handleSort('rarity')}
+                    Clear
+                  </button>
+                  <button
+                    onClick={() => setDeckCollapsed(true)}
+                    className="px-2 py-1 bg-gray-800 text-gray-400 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
                   >
-                    <div className="flex items-center gap-2">
-                      Rarity
-                      {renderSortIcon('rarity')}
-                    </div>
-                  </th>
-                  <th 
-                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                    onClick={() => handleSort('name')}
-                  >
-                    <div className="flex items-center gap-2">
-                      Card Name
-                      {renderSortIcon('name')}
-                    </div>
-                  </th>
-                  <th 
-                    className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                    onClick={() => handleSort('winrate')}
-                  >
-                    <div className="flex items-center gap-2">
-                      Win Rate
-                      {renderSortIcon('winrate')}
-                    </div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {filteredAndSortedCards.map((card, idx) => (
-                  <tr 
-                    key={idx} 
-                    className="border-b border-gray-800 hover:bg-gray-800/50 transition-colors"
-                    onMouseEnter={() => handleRowHover(card)}
-                    onMouseMove={handleMouseMove}
-                    onMouseLeave={handleRowLeave}
-                  >
-                    <td className="px-3 py-2 text-gray-100 font-semibold">{card.count}</td>
-                    <td className="px-3 py-2">
-                      <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
-                        card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
-                        card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
-                        card.Rarity.toLowerCase() === 'uncommon' ? 'bg-gray-500 text-white' :
-                        'bg-gray-700 text-white'
-                      }`}>
-                        {card.Rarity.charAt(0).toUpperCase()}
-                      </span>
-                    </td>
-                    <td className="px-3 py-2">
-                      <div className="flex items-center gap-2">
-                        <span className="text-gray-100 font-medium">{card.Name}</span>
-                        {renderManaCost(card.CastingCost || card.Cost)}
-                      </div>
-                    </td>
-                    <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+              
+              {/* Deck Info */}
+              <div className="text-gray-400 mb-4 text-sm">
+                {deckList.length} cards in deck
+              </div>
+              
+              <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800">
+                <table className="w-full">
+                  <thead className="bg-gray-950">
+                    <tr>
+                      <th className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800">
+                        #
+                      </th>
+                      <th className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800">
+                        Rarity
+                      </th>
+                      <th className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800">
+                        Card Name
+                      </th>
+                      <th className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800">
+                        Win Rate
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {deckList.map((card, idx) => (
+                      <tr 
+                        key={idx} 
+                        className="border-b border-gray-800 hover:bg-red-900/20 transition-colors cursor-pointer"
+                        onClick={() => removeFromDeck(idx)}
+                        onMouseEnter={() => handleRowHover(card)}
+                        onMouseMove={handleMouseMove}
+                        onMouseLeave={handleRowLeave}
+                      >
+                        <td className="px-3 py-2 text-gray-100 font-semibold">{idx + 1}</td>
+                        <td className="px-3 py-2">
+                          <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
+                            card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
+                            card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
+                            card.Rarity.toLowerCase() === 'uncommon' ? 'bg-gray-500 text-white' :
+                            'bg-gray-700 text-white'
+                          }`}>
+                            {card.Rarity.charAt(0).toUpperCase()}
+                          </span>
+                        </td>
+                        <td className="px-3 py-2">
+                          <div className="flex items-center gap-2">
+                            <span className="text-gray-100 font-medium">{card.Name}</span>
+                            {renderManaCost(card.CastingCost || card.Cost)}
+                          </div>
+                        </td>
+                        <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
         </div>
       </div>
+
+      {/* Load New Decklist Modal */}
+      {showLoadModal && (
+        <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50">
+          <div className="bg-gray-900 border-2 border-gray-700 rounded-lg p-8 max-w-2xl w-full mx-4 relative">
+            {/* Close button */}
+            <button
+              onClick={() => {
+                setShowLoadModal(false);
+                setModalDecklistInput('');
+              }}
+              className="absolute top-4 right-4 text-gray-400 hover:text-white transition-colors"
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+
+            <h2 className="text-2xl font-bold text-white mb-4">Load New Decklist</h2>
+            <p className="text-gray-400 mb-4">Paste your decklist below. This will replace your current pool and clear your deck.</p>
+            
+            <textarea
+              className="w-full min-h-[400px] p-4 bg-gray-950 border-2 border-gray-700 rounded-lg text-gray-100 font-mono text-sm resize-y focus:outline-none focus:border-blue-500"
+              value={modalDecklistInput}
+              onChange={(e) => setModalDecklistInput(e.target.value)}
+              placeholder="Paste your decklist here. You can export this from 17lands deck export-> copy as plain text&#10;(format: '1 Card Name' per line)&#10;&#10;Example:&#10;1 Zuko's Exile&#10;2 Avatar Enthusiasts&#10;1 Curious Farm Animals"
+            />
+            
+            <div className="flex gap-3 mt-6">
+              <button 
+                className="flex-1 px-6 py-3 bg-gradient-to-r from-indigo-500 to-blue-500 text-white rounded-lg font-semibold hover:shadow-lg hover:shadow-indigo-500/50 transition-all hover:-translate-y-0.5"
+                onClick={loadNewDecklist}
+              >
+                Load Cards
+              </button>
+              <button 
+                className="px-6 py-3 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
+                onClick={() => {
+                  setShowLoadModal(false);
+                  setModalDecklistInput('');
+                }}
+              >
+                Cancel
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Card Image Tooltip */}
       {hoveredCard && hoveredCard.ImageUrl && (

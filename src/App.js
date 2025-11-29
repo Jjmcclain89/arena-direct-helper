@@ -476,12 +476,12 @@ function App() {
       </div>
 
       {/* Table */}
-      <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800">
-        <table className="w-full">
+      <div className="bg-gray-900 rounded-lg overflow-hidden border border-gray-800 mx-auto w-fit">
+        <table>
           <thead className="bg-gray-950">
             <tr>
               <th 
-                className="px-4 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
                 onClick={() => handleSort('count')}
               >
                 <div className="flex items-center gap-2">
@@ -490,19 +490,7 @@ function App() {
                 </div>
               </th>
               <th 
-                className="px-4 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
-                onClick={() => handleSort('name')}
-              >
-                <div className="flex items-center gap-2">
-                  Card Name
-                  {renderSortIcon('name')}
-                </div>
-              </th>
-              <th className="px-4 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800">
-                Mana Cost
-              </th>
-              <th 
-                className="px-4 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
                 onClick={() => handleSort('rarity')}
               >
                 <div className="flex items-center gap-2">
@@ -511,7 +499,16 @@ function App() {
                 </div>
               </th>
               <th 
-                className="px-4 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
+                onClick={() => handleSort('name')}
+              >
+                <div className="flex items-center gap-2">
+                  Card Name
+                  {renderSortIcon('name')}
+                </div>
+              </th>
+              <th 
+                className="px-3 py-3 text-left text-xs font-semibold text-gray-400 uppercase tracking-wide border-b-2 border-gray-800 cursor-pointer hover:bg-gray-900 transition-colors"
                 onClick={() => handleSort('winrate')}
               >
                 <div className="flex items-center gap-2">
@@ -530,10 +527,8 @@ function App() {
                 onMouseMove={handleMouseMove}
                 onMouseLeave={handleRowLeave}
               >
-                <td className="px-4 py-3 text-gray-100 font-semibold">{card.count}</td>
-                <td className="px-4 py-3 text-gray-100 font-medium">{card.Name}</td>
-                <td className="px-4 py-3">{renderManaCost(card.CastingCost || card.Cost)}</td>
-                <td className="px-4 py-3">
+                <td className="px-3 py-2 text-gray-100 font-semibold">{card.count}</td>
+                <td className="px-3 py-2">
                   <span className={`inline-block w-6 h-6 leading-6 text-center rounded font-bold text-xs ${
                     card.Rarity.toLowerCase() === 'mythic' ? 'bg-orange-600 text-white' :
                     card.Rarity.toLowerCase() === 'rare' ? 'bg-yellow-600 text-white' :
@@ -543,7 +538,13 @@ function App() {
                     {card.Rarity.charAt(0).toUpperCase()}
                   </span>
                 </td>
-                <td className="px-4 py-3 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
+                <td className="px-3 py-2">
+                  <div className="flex items-center gap-2">
+                    <span className="text-gray-100 font-medium">{card.Name}</span>
+                    {renderManaCost(card.CastingCost || card.Cost)}
+                  </div>
+                </td>
+                <td className="px-3 py-2 text-gray-100">{card.GihWinrate?.toFixed(1)}%</td>
               </tr>
             ))}
           </tbody>

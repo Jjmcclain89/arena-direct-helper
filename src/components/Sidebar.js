@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+// src/components/Sidebar.js
+import React from 'react';
 import { FilterPanel } from './FilterPanel';
 import { ColorAnalytics } from './ColorAnalytics';
 
-export const Sidebar = ({ 
+export const Sidebar = ({
   totalCards,
+  filteredCards,
   filters,
   colorMatchMode,
   onToggleColor,
@@ -13,17 +15,8 @@ export const Sidebar = ({
   topCardsCount,
   onTopCardsCountChange
 }) => {
-  const [filtersCollapsed, setFiltersCollapsed] = useState(false);
-  const [analyticsCollapsed, setAnalyticsCollapsed] = useState(false);
-
   return (
-    <div className="w-80 flex-shrink-0 space-y-6">
-      {/* Title */}
-      <div className="text-center">
-        <h1 className="text-2xl font-bold text-white">MTG Sealed Pool</h1>
-        <p className="text-gray-400 text-sm mt-1">{totalCards} cards total</p>
-      </div>
-
+    <div className="w-64 flex-shrink-0 space-y-4">
       {/* Filters */}
       <FilterPanel
         filters={filters}
@@ -31,8 +24,8 @@ export const Sidebar = ({
         onToggleColor={onToggleColor}
         onToggleRarity={onToggleRarity}
         onColorMatchModeChange={onColorMatchModeChange}
-        isCollapsed={filtersCollapsed}
-        onToggleCollapse={() => setFiltersCollapsed(!filtersCollapsed)}
+        filteredCards={filteredCards}
+        totalCards={totalCards}
       />
 
       {/* Analytics Panel */}
@@ -40,8 +33,6 @@ export const Sidebar = ({
         analytics={colorAnalytics}
         topCardsCount={topCardsCount}
         onTopCardsCountChange={onTopCardsCountChange}
-        isCollapsed={analyticsCollapsed}
-        onToggleCollapse={() => setAnalyticsCollapsed(!analyticsCollapsed)}
       />
     </div>
   );

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(node generate-ecl-data.js:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(python fetch-ecl-data.py:*)",
+      "Bash(python -m json.tool:*)",
+      "Bash(python -c:*)"
+    ]
+  }
+}

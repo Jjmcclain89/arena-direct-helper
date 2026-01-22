@@ -1,34 +1,35 @@
-import React from 'react';
+// src/components/ColorAnalytics.js
+import React, { useState } from 'react';
 import { COLOR_ANALYTICS_STYLES } from '../constants/colors';
 
-export const ColorAnalytics = ({ 
-  analytics, 
-  topCardsCount, 
-  onTopCardsCountChange,
-  isCollapsed,
-  onToggleCollapse
+export const ColorAnalytics = ({
+  analytics,
+  topCardsCount,
+  onTopCardsCountChange
 }) => {
+  const [isCollapsed, setIsCollapsed] = useState(false);
+
   if (!analytics) return null;
 
   return (
     <div className="bg-gray-900 rounded-lg border border-gray-800">
-      <div 
-        className="p-6 cursor-pointer flex items-center justify-between hover:bg-gray-800/50 transition-colors"
-        onClick={onToggleCollapse}
+      <div
+        className="p-4 cursor-pointer flex items-center justify-between hover:bg-gray-800/50 transition-colors"
+        onClick={() => setIsCollapsed(!isCollapsed)}
       >
-        <h2 className="text-lg font-semibold text-white">Color Analytics</h2>
-        <svg 
+        <h2 className="text-sm font-semibold text-white">Color Analytics</h2>
+        <svg
           className={`w-5 h-5 text-gray-400 transition-transform ${isCollapsed ? '' : 'rotate-180'}`}
-          fill="none" 
-          stroke="currentColor" 
+          fill="none"
+          stroke="currentColor"
           viewBox="0 0 24 24"
         >
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
         </svg>
       </div>
-      
+
       {!isCollapsed && (
-        <div className="px-6 pb-6">
+        <div className="px-4 pb-4">
           <div className="mb-4">
             <div className="flex items-center gap-2 text-sm text-gray-400">
               <label>Top {topCardsCount} cards</label>
@@ -38,6 +39,7 @@ export const ColorAnalytics = ({
                 max="14"
                 value={topCardsCount}
                 onChange={(e) => onTopCardsCountChange(parseInt(e.target.value))}
+                onClick={(e) => e.stopPropagation()}
                 className="flex-1 h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500"
               />
             </div>
@@ -46,8 +48,8 @@ export const ColorAnalytics = ({
             {COLOR_ANALYTICS_STYLES.map(({ key, bg, border }) => {
               const stats = analytics[key];
               return (
-                <div 
-                  key={key} 
+                <div
+                  key={key}
                   className={`${bg} ${border} border-2 rounded-lg p-3 flex items-center justify-between`}
                 >
                   <div className="flex items-center gap-3">

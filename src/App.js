@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import cardData from './data/data.json';
+import cardData from './data/ecl-data.json';
 
 // Components
 import { DecklistInput } from './components/DecklistInput';
@@ -123,42 +123,36 @@ function App() {
 
   return (
     <div className="min-h-screen p-8">
-      {/* Main Layout with Sidebar */}
-      <div className="flex gap-6 max-w-7xl mx-auto">
-        {/* Sidebar */}
-        <Sidebar
-          totalCards={totalCards}
-          filters={filters}
-          colorMatchMode={colorMatchMode}
-          onToggleColor={toggleColorFilter}
-          onToggleRarity={toggleRarityFilter}
-          onColorMatchModeChange={setColorMatchMode}
-          colorAnalytics={colorAnalytics}
-          topCardsCount={topCardsCount}
-          onTopCardsCountChange={setTopCardsCount}
-        />
+      <div className="max-w-7xl mx-auto">
+        {/* Header */}
+        <div className="flex justify-between items-center mb-6">
+          <h1 className="text-2xl font-bold text-white">MTG Sealed Pool</h1>
+          <button
+            className="px-4 py-2 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors text-sm"
+            onClick={() => setShowLoadModal(true)}
+          >
+            Load New Decklist
+          </button>
+        </div>
 
-        {/* Main Content */}
-        <div className="flex-1 min-w-0 flex gap-6">
+        {/* Main Layout with Sidebar */}
+        <div className="flex gap-6">
+          {/* Sidebar */}
+          <Sidebar
+            totalCards={totalCards}
+            filteredCards={filteredAndSortedCards.reduce((sum, card) => sum + card.count, 0)}
+            filters={filters}
+            colorMatchMode={colorMatchMode}
+            onToggleColor={toggleColorFilter}
+            onToggleRarity={toggleRarityFilter}
+            onColorMatchModeChange={setColorMatchMode}
+            colorAnalytics={colorAnalytics}
+            topCardsCount={topCardsCount}
+            onTopCardsCountChange={setTopCardsCount}
+          />
+
           {/* Pool Section */}
-          <div className="flex-1">
-            <div className="flex justify-between items-center mb-4">
-              <div className="flex items-center gap-3">
-                <h2 className="text-xl font-bold text-white">Pool</h2>
-                <button 
-                  className="px-3 py-1 bg-gray-800 text-gray-100 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors text-sm"
-                  onClick={() => setShowLoadModal(true)}
-                >
-                  Load New Decklist
-                </button>
-              </div>
-            </div>
-            
-            {/* Results Info */}
-            <div className="text-gray-400 mb-4 text-sm">
-              Showing {filteredAndSortedCards.length} of {deckCards.length} unique cards
-            </div>
-
+          <div className="flex-1 min-w-0">
             {/* Table */}
             <CardTable
               cards={filteredAndSortedCards}

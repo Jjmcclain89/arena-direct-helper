@@ -19,8 +19,8 @@ export const CardRow = ({ card, onMouseEnter, onMouseMove, onMouseLeave }) => {
         </span>
       </td>
       <td className="px-3 py-2">
-        <div className="flex items-center gap-2">
-          <span className="text-gray-100 font-medium">{card.Name}</span>
+        <div className="flex items-center gap-2 whitespace-nowrap overflow-hidden">
+          <span className="text-gray-100 font-medium truncate text-sm">{card.Name}</span>
           <ManaCost cost={card.CastingCost || card.Cost} />
         </div>
       </td>

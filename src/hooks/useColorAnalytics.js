@@ -17,12 +17,13 @@ export const useColorAnalytics = (deckCards, topCardsCount) => {
 
       // Sort by win rate descending and take top N
       const topN = colorCards
-        .sort((a, b) => b.GihWinrate - a.GihWinrate)
+        .sort((a, b) => (b.GihWinrate || 0) - (a.GihWinrate || 0))
         .slice(0, topCardsCount);
 
-      // Calculate average
-      const avgWinRate = topN.length > 0
-        ? topN.reduce((sum, card) => sum + card.GihWinrate, 0) / topN.length
+      // Calculate average, excluding cards with null winrates
+      const cardsWithWinrate = topN.filter(card => card.GihWinrate !== null && card.GihWinrate !== undefined);
+      const avgWinRate = cardsWithWinrate.length > 0
+        ? cardsWithWinrate.reduce((sum, card) => sum + card.GihWinrate, 0) / cardsWithWinrate.length
         : 0;
 
       analytics[color] = {

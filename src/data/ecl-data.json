@@ -4,61 +4,34 @@
       "Name": "Abigale, Eloquent First-Year",
       "Rarity": "Rare",
       "Cost": "{W/B}{W/B}",
-      "GihWinrate": 60.978670012547056,
+      "GihWinrate": 59.05101481075151,
       "Expansion": "ECL",
       "CastingCost": "{W/B}{W/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/f/bf708169-a307-494b-b8d8-baae53b2e2f2.jpg?1767658678"
     },
     {
-      "Name": "Abigale, Eloquent First-Year",
-      "Rarity": "Rare",
-      "Cost": "{W/B}{W/B}",
-      "GihWinrate": 60.978670012547056,
-      "Expansion": "ECL",
-      "CastingCost": "{W/B}{W/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/8/c8d85a84-42a2-47d1-8fc2-1a081fd6bd2a.jpg?1767659848"
-    },
-    {
       "Name": "Adept Watershaper",
       "Rarity": "Rare",
       "Cost": "{2}{W}",
-      "GihWinrate": 57.84658691062632,
+      "GihWinrate": 58.12718166641372,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/e/6e53f246-8347-4632-9d5b-4aeb12f7b762.jpg?1767951683"
     },
     {
-      "Name": "Adept Watershaper",
-      "Rarity": "Rare",
-      "Cost": "{2}{W}",
-      "GihWinrate": 57.84658691062632,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/8700c0ce-2a71-4bc8-a14c-685b5d188b54.jpg?1767952530"
-    },
-    {
       "Name": "Ajani, Outland Chaperone",
       "Rarity": "Mythic",
       "Cost": "{1}{W}{W}",
-      "GihWinrate": 62.89017341040463,
+      "GihWinrate": 60.85198166621731,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/1/6124a691-ae83-4d22-a177-0aee65b47064.jpg?1767951721"
     },
     {
-      "Name": "Ajani, Outland Chaperone",
-      "Rarity": "Mythic",
-      "Cost": "{1}{W}{W}",
-      "GihWinrate": 62.89017341040463,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b5734a2c-0e8f-4087-97ee-51e26cfbf62d.jpg?1767952488"
-    },
-    {
       "Name": "Appeal to Eirdu",
       "Rarity": "Common",
       "Cost": "{3}{W}",
-      "GihWinrate": 50.043066322136085,
+      "GihWinrate": 50.0,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/68ce9752-21f9-48e9-bf48-7f76f1cecbc5.jpg?1767692118"
@@ -67,7 +40,7 @@
       "Name": "Aquitect's Defenses",
       "Rarity": "Common",
       "Cost": "{1}{U}",
-      "GihWinrate": 52.36920039486673,
+      "GihWinrate": 52.41683711917322,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9af9a907-fd2e-4ae0-ac7b-529074b79a14.jpg?1767871750"
@@ -76,43 +49,25 @@
       "Name": "Ashling's Command",
       "Rarity": "Rare",
       "Cost": "{3}{U}{R}",
-      "GihWinrate": 67.94202898550724,
+      "GihWinrate": 66.82915230055879,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fe3a421d-07b6-4b94-b177-aec44c7fe689.jpg?1759144840"
     },
     {
-      "Name": "Ashling's Command",
-      "Rarity": "Rare",
-      "Cost": "{3}{U}{R}",
-      "GihWinrate": 67.94202898550724,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{U}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/0/201c73b6-368f-4dac-b034-49c6aa6408ff.jpg?1758924662"
-    },
-    {
-      "Name": "Ashling, Rekindled // Ashling, Rimebound",
+      "Name": "Ashling, Rekindled",
       "Rarity": "Rare",
       "Cost": "{1}{R}",
-      "GihWinrate": null,
+      "GihWinrate": 60.35782936566613,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d7faefe-9c0d-45b6-8ea4-5fa666762a2c.jpg?1759144841"
     },
     {
-      "Name": "Ashling, Rekindled // Ashling, Rimebound",
-      "Rarity": "Rare",
-      "Cost": "{1}{R}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/7110cae6-b0ed-4495-9f36-751ce25c9538.jpg?1758923767"
-    },
-    {
       "Name": "Assert Perfection",
       "Rarity": "Common",
       "Cost": "{1}{G}",
-      "GihWinrate": 59.418563088287854,
+      "GihWinrate": 58.49931612241409,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/6995b308-5582-4ca1-ab10-a536d5ca0a6d.jpg?1767732784"
@@ -121,7 +76,7 @@
       "Name": "Auntie's Sentence",
       "Rarity": "Common",
       "Cost": "{1}{B}",
-      "GihWinrate": 53.26718296224588,
+      "GihWinrate": 53.15681259716163,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e64bfe16-7362-4982-9136-1f4e0d335441.jpg?1767871817"
@@ -130,25 +85,16 @@
       "Name": "Aurora Awakener",
       "Rarity": "Mythic",
       "Cost": "{6}{G}",
-      "GihWinrate": 63.76651982378855,
+      "GihWinrate": 60.94252873563219,
       "Expansion": "ECL",
       "CastingCost": "{6}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/913977c2-73f9-466b-bd01-827c1736e070.jpg?1767658343"
     },
     {
-      "Name": "Aurora Awakener",
-      "Rarity": "Mythic",
-      "Cost": "{6}{G}",
-      "GihWinrate": 63.76651982378855,
-      "Expansion": "ECL",
-      "CastingCost": "{6}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c87e3f0-4305-4b07-a92b-b61430e80e97.jpg?1767660330"
-    },
-    {
       "Name": "Barbed Bloodletter",
       "Rarity": "Common",
       "Cost": "{1}{B}",
-      "GihWinrate": 51.413108839446785,
+      "GihWinrate": 52.88180222352252,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8ff1a13c-e338-42e9-8eb3-b303fabd67de.jpg?1767957075"
@@ -157,7 +103,7 @@
       "Name": "Bark of Doran",
       "Rarity": "Uncommon",
       "Cost": "{1}{W}",
-      "GihWinrate": null,
+      "GihWinrate": 49.20255183413078,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/98210276-1b85-4db5-8ab4-ecb08f5d2ee2.jpg?1767862363"
@@ -166,7 +112,7 @@
       "Name": "Bile-Vial Boggart",
       "Rarity": "Common",
       "Cost": "{B}",
-      "GihWinrate": 51.50968904912122,
+      "GihWinrate": 51.41575390351899,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/c/2c0fcf98-1f3c-4cff-9234-7f3d0c8b22e9.jpg?1767732575"
@@ -175,34 +121,16 @@
       "Name": "Bitterbloom Bearer",
       "Rarity": "Mythic",
       "Cost": "{B}{B}",
-      "GihWinrate": 59.342301943198805,
+      "GihWinrate": 58.25092707045736,
       "Expansion": "ECL",
       "CastingCost": "{B}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/7127164d-f2a3-4d79-b6db-93507ff5ab47.jpg?1759144841"
     },
     {
-      "Name": "Bitterbloom Bearer",
-      "Rarity": "Mythic",
-      "Cost": "{B}{B}",
-      "GihWinrate": 59.342301943198805,
-      "Expansion": "ECL",
-      "CastingCost": "{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/8/58aa273f-9ec7-4024-b30e-e75fa404de72.jpg?1758924052"
-    },
-    {
-      "Name": "Bitterbloom Bearer",
-      "Rarity": "Mythic",
-      "Cost": "{B}{B}",
-      "GihWinrate": 59.342301943198805,
-      "Expansion": "ECL",
-      "CastingCost": "{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/9/895e7a6e-cd10-4a00-bfec-30e6330e193c.jpg?1758967745"
-    },
-    {
       "Name": "Blight Rot",
       "Rarity": "Common",
       "Cost": "{2}{B}",
-      "GihWinrate": 56.07887465460939,
+      "GihWinrate": 55.332134488583726,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/2/5201bdeb-ba47-459b-ac0d-603367914578.jpg?1767952066"
@@ -211,7 +139,7 @@
       "Name": "Blighted Blackthorn",
       "Rarity": "Common",
       "Cost": "{4}{B}",
-      "GihWinrate": 53.653217011995636,
+      "GihWinrate": 51.1364633611233,
       "Expansion": "ECL",
       "CastingCost": "{4}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/3515531a-45d6-4fe0-96a3-7ca1ce545068.jpg?1767871828"
@@ -220,97 +148,34 @@
       "Name": "Blood Crypt",
       "Rarity": "Rare",
       "Cost": "",
-      "GihWinrate": 50.51546391752577,
+      "GihWinrate": 51.19047619047619,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6da63cc5-4624-4491-abd9-9b600c3fefe2.jpg?1759144844"
     },
     {
-      "Name": "Blood Crypt // Blood Crypt",
-      "Rarity": "Rare",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28d37803-d3f9-4806-9a0b-79362a517a7a.jpg?1763522821"
-    },
-    {
       "Name": "Bloodline Bidding",
       "Rarity": "Rare",
       "Cost": "{6}{B}{B}",
-      "GihWinrate": 57.637231503579955,
+      "GihWinrate": 58.89904687803929,
       "Expansion": "ECL",
       "CastingCost": "{6}{B}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/877d9b75-ad2f-45a6-94d8-68e80d7db789.jpg?1767732723"
     },
     {
-      "Name": "Bloodline Bidding",
-      "Rarity": "Rare",
-      "Cost": "{6}{B}{B}",
-      "GihWinrate": 57.637231503579955,
-      "Expansion": "ECL",
-      "CastingCost": "{6}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/9/f99ccd3b-07f7-47c2-8de9-6aa5251d7a76.jpg?1767733109"
-    },
-    {
-      "Name": "Bloodline Bidding",
-      "Rarity": "Mythic",
-      "Cost": "{6}{B}{B}",
-      "GihWinrate": 57.637231503579955,
-      "Expansion": "ECL",
-      "CastingCost": "{6}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/c/aca1b882-0fe9-4022-98e4-bae528b2a1e2.jpg?1767873886"
-    },
-    {
-      "Name": "Bloodline Bidding",
-      "Rarity": "Mythic",
-      "Cost": "{6}{B}{B}",
-      "GihWinrate": 57.637231503579955,
-      "Expansion": "ECL",
-      "CastingCost": "{6}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/cc187974-f1e7-4fb4-9c81-51cd6b395974.jpg?1767873922"
-    },
-    {
       "Name": "Bloom Tender",
       "Rarity": "Mythic",
       "Cost": "{1}{G}",
-      "GihWinrate": 53.1951640759931,
+      "GihWinrate": 54.07589599437807,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1767658349"
     },
     {
-      "Name": "Bloom Tender",
-      "Rarity": "Mythic",
-      "Cost": "{1}{G}",
-      "GihWinrate": 53.1951640759931,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/46aa1d12-ee23-4b0f-b574-7f1a625ca279.jpg?1767659720"
-    },
-    {
-      "Name": "Bloom Tender",
-      "Rarity": "Mythic",
-      "Cost": "{1}{G}",
-      "GihWinrate": 53.1951640759931,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/b/0b5f1455-8124-408f-9ca5-9b281ec1708f.jpg?1767660400"
-    },
-    {
-      "Name": "Bloom Tender",
-      "Rarity": "Mythic",
-      "Cost": "{1}{G}",
-      "GihWinrate": 53.1951640759931,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/2/52c440f6-95f7-473a-8b81-0e423492f205.jpg?1767660416"
-    },
-    {
       "Name": "Blossombind",
       "Rarity": "Common",
       "Cost": "{1}{U}",
-      "GihWinrate": 56.500553709856035,
+      "GihWinrate": 54.81338826454743,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/382b83c0-bbbc-4db8-bc04-cfea79aed1b3.jpg?1767732510"
@@ -319,7 +184,7 @@
       "Name": "Blossoming Defense",
       "Rarity": "Uncommon",
       "Cost": "{G}",
-      "GihWinrate": 57.49258160237388,
+      "GihWinrate": 56.124367317425886,
       "Expansion": "ECL",
       "CastingCost": "{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3cce80d0-b937-4325-a603-1278c110f244.jpg?1767658356"
@@ -328,25 +193,16 @@
       "Name": "Boggart Cursecrafter",
       "Rarity": "Uncommon",
       "Cost": "{B}{R}",
-      "GihWinrate": 56.955093099671416,
+      "GihWinrate": 56.805884342238755,
       "Expansion": "ECL",
       "CastingCost": "{B}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/0/b0b67eb9-0d88-4f2c-8063-e8bedfa78556.jpg?1767952311"
     },
     {
-      "Name": "Boggart Cursecrafter",
-      "Rarity": "Uncommon",
-      "Cost": "{B}{R}",
-      "GihWinrate": 56.955093099671416,
-      "Expansion": "ECL",
-      "CastingCost": "{B}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a942f56d-69ee-4151-baae-9a718ff6e7b6.jpg?1767952621"
-    },
-    {
       "Name": "Boggart Mischief",
       "Rarity": "Uncommon",
       "Cost": "{2}{B}",
-      "GihWinrate": 55.35041446872645,
+      "GihWinrate": 56.52885052248978,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/a/aaeb9c9c-0f15-49dc-ae6d-2a958680f327.jpg?1767659614"
@@ -355,7 +211,7 @@
       "Name": "Boggart Prankster",
       "Rarity": "Common",
       "Cost": "{1}{B}",
-      "GihWinrate": 51.90580237921826,
+      "GihWinrate": 52.36591214833012,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb228ea6-9235-4093-aea7-708e743b1b44.jpg?1767957110"
@@ -364,7 +220,7 @@
       "Name": "Bogslither's Embrace",
       "Rarity": "Common",
       "Cost": "{1}{B}",
-      "GihWinrate": 56.218318990923024,
+      "GihWinrate": 55.84608299646933,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/b/4beca2e7-9c6d-493b-b15f-69e483a8dfff.jpg?1767957120"
@@ -373,7 +229,7 @@
       "Name": "Boldwyr Aggressor",
       "Rarity": "Uncommon",
       "Cost": "{3}{R}{R}",
-      "GihWinrate": 52.35803657362849,
+      "GihWinrate": 51.01596516690856,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/6/76bbccd2-8a90-49a7-921a-6565b495efdf.jpg?1767871989"
@@ -382,7 +238,7 @@
       "Name": "Boneclub Berserker",
       "Rarity": "Common",
       "Cost": "{3}{R}",
-      "GihWinrate": 49.44279346210996,
+      "GihWinrate": 50.509818731117825,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b3dbbe30-3d6e-46f8-92c1-caee995cba1a.jpg?1767732716"
@@ -391,7 +247,7 @@
       "Name": "Boulder Dash",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 56.79389312977099,
+      "GihWinrate": 55.55183274140588,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/5/657a2a24-22d1-4bc2-9f22-ed361ae487e3.jpg?1767952124"
@@ -400,7 +256,7 @@
       "Name": "Brambleback Brute",
       "Rarity": "Common",
       "Cost": "{2}{R}",
-      "GihWinrate": 53.63811976819059,
+      "GihWinrate": 52.128157156220766,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5ebb8365-c6e1-46e8-a242-6aa27b21e68a.jpg?1767952109"
@@ -409,79 +265,43 @@
       "Name": "Bre of Clan Stoutarm",
       "Rarity": "Rare",
       "Cost": "{2}{R}{W}",
-      "GihWinrate": 57.26351351351351,
+      "GihWinrate": 56.50535501785006,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/1/013cefb7-a059-45c2-81b0-187f35aac4a2.jpg?1767658514"
     },
     {
-      "Name": "Bre of Clan Stoutarm",
-      "Rarity": "Rare",
-      "Cost": "{2}{R}{W}",
-      "GihWinrate": 57.26351351351351,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{R}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0f5f63df-f401-4c13-a105-e831fd841e80.jpg?1767659867"
-    },
-    {
       "Name": "Brigid's Command",
       "Rarity": "Rare",
       "Cost": "{1}{G}{W}",
-      "GihWinrate": 60.773480662983424,
+      "GihWinrate": 60.4940635771735,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cf034777-3da7-4d5c-9213-5e9d235c315a.jpg?1767862610"
     },
     {
-      "Name": "Brigid's Command",
-      "Rarity": "Rare",
-      "Cost": "{1}{G}{W}",
-      "GihWinrate": 60.773480662983424,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/70b67bc1-0535-48bb-9f5c-4f43ddeb16cb.jpg?1767873877"
-    },
-    {
-      "Name": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
+      "Name": "Brigid, Clachan's Heart",
       "Rarity": "Rare",
       "Cost": "{2}{W}",
-      "GihWinrate": null,
+      "GihWinrate": 61.54814348646948,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cb7d5bbb-4f68-4e38-8bb0-a95af21b24c8.jpg?1767887768"
     },
     {
-      "Name": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
-      "Rarity": "Rare",
-      "Cost": "{2}{W}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/8/887002ae-794b-427c-9f98-e909b22313d9.jpg?1767862775"
-    },
-    {
       "Name": "Bristlebane Battler",
       "Rarity": "Rare",
       "Cost": "{1}{G}",
-      "GihWinrate": 62.720983858570335,
+      "GihWinrate": 60.56791569086651,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/8/c857fa32-1b5d-4139-8809-b4d0df44b472.jpg?1767732790"
     },
     {
-      "Name": "Bristlebane Battler",
-      "Rarity": "Rare",
-      "Cost": "{1}{G}",
-      "GihWinrate": 62.720983858570335,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/7028368a-5711-416c-b5d9-874ef373335d.jpg?1767732944"
-    },
-    {
       "Name": "Bristlebane Outrider",
       "Rarity": "Uncommon",
       "Cost": "{3}{G}",
-      "GihWinrate": 59.56006768189509,
+      "GihWinrate": 57.41751527494908,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/38b17a3c-4457-47e3-986e-ff0b94c41b1a.jpg?1767862561"
@@ -490,7 +310,7 @@
       "Name": "Burdened Stoneback",
       "Rarity": "Uncommon",
       "Cost": "{1}{W}",
-      "GihWinrate": 53.61397934868943,
+      "GihWinrate": 53.0557219892151,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/3278b8d0-3d2b-4d3d-bbf1-fd9b714b53ed.jpg?1767732463"
@@ -499,7 +319,7 @@
       "Name": "Burning Curiosity",
       "Rarity": "Common",
       "Cost": "{2}{R}",
-      "GihWinrate": 51.91897654584222,
+      "GihWinrate": 51.794137466307276,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/689ed288-6228-4d7e-b198-56a12b8be299.jpg?1767732735"
@@ -508,133 +328,70 @@
       "Name": "Catharsis",
       "Rarity": "Mythic",
       "Cost": "{4}{R/W}{R/W}",
-      "GihWinrate": 56.43564356435643,
+      "GihWinrate": 55.12630014858841,
       "Expansion": "ECL",
       "CastingCost": "{4}{R/W}{R/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/f/affb4500-2704-49fc-bbb4-02ed4bfb3b76.jpg?1767952383"
     },
     {
-      "Name": "Catharsis",
-      "Rarity": "Mythic",
-      "Cost": "{4}{R/W}{R/W}",
-      "GihWinrate": 56.43564356435643,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{R/W}{R/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f7604799-1d32-4c6c-92c6-0d1b274a1115.jpg?1767952501"
-    },
-    {
       "Name": "Celestial Reunion",
       "Rarity": "Mythic",
       "Cost": "{X}{G}",
-      "GihWinrate": null,
+      "GihWinrate": 54.3562066306862,
       "Expansion": "ECL",
       "CastingCost": "{X}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/8/583b2863-aca1-4dab-9196-ea453b5d9454.jpg?1767863436"
     },
     {
-      "Name": "Celestial Reunion",
-      "Rarity": "Mythic",
-      "Cost": "{X}{G}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{X}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/9/e9777cbc-064c-4c11-9a43-8d44f7e8e403.jpg?1767862820"
-    },
-    {
       "Name": "Champion of the Clachan",
       "Rarity": "Rare",
       "Cost": "{3}{W}",
-      "GihWinrate": 57.28813559322033,
+      "GihWinrate": 56.15763546798029,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/46ce3474-381c-433b-acd8-4e628d0048d2.jpg?1767692155"
     },
     {
-      "Name": "Champion of the Clachan",
-      "Rarity": "Rare",
-      "Cost": "{3}{W}",
-      "GihWinrate": 57.28813559322033,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/a/8a91a96d-843c-4ec6-8078-89f87c5ce85a.jpg?1767659782"
-    },
-    {
       "Name": "Champion of the Path",
       "Rarity": "Rare",
       "Cost": "{3}{R}",
-      "GihWinrate": 57.52636625119847,
+      "GihWinrate": 55.90118938700823,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e369cd31-3e22-47eb-bf6a-00d823651710.jpg?1767952132"
     },
     {
-      "Name": "Champion of the Path",
-      "Rarity": "Rare",
-      "Cost": "{3}{R}",
-      "GihWinrate": 57.52636625119847,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/874a32a5-0a9b-4225-a877-bb6e74cd6c5f.jpg?1767957424"
-    },
-    {
       "Name": "Champion of the Weird",
       "Rarity": "Rare",
       "Cost": "{3}{B}",
-      "GihWinrate": 58.362676056338024,
+      "GihWinrate": 58.811261730969754,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e600dd01-65ac-489c-a52a-decbc3a9a4f3.jpg?1767659622"
     },
     {
-      "Name": "Champion of the Weird",
-      "Rarity": "Rare",
-      "Cost": "{3}{B}",
-      "GihWinrate": 58.362676056338024,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3aeaeb01-eab1-4bc6-bd58-c00a7e41a8ce.jpg?1767659810"
-    },
-    {
       "Name": "Champions of the Perfect",
       "Rarity": "Rare",
       "Cost": "{3}{G}",
-      "GihWinrate": 61.86770428015564,
+      "GihWinrate": 62.50180557561751,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f359211-8be5-4818-b73c-14f24b7ddb21.jpg?1767658362"
     },
     {
-      "Name": "Champions of the Perfect",
-      "Rarity": "Rare",
-      "Cost": "{3}{G}",
-      "GihWinrate": 61.86770428015564,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/e/2e35eb02-d541-45fe-9de7-a3c6599a9b0c.jpg?1767659819"
-    },
-    {
       "Name": "Champions of the Shoal",
       "Rarity": "Rare",
       "Cost": "{3}{U}",
-      "GihWinrate": 62.861271676300575,
+      "GihWinrate": 61.111915448096134,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/1/e1acdd9c-4a6d-4373-950c-f5539b54679f.jpg?1767951924"
     },
     {
-      "Name": "Champions of the Shoal",
-      "Rarity": "Rare",
-      "Cost": "{3}{U}",
-      "GihWinrate": 62.861271676300575,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cbb067b0-1bb6-467c-b361-2c9ed6bd3a22.jpg?1767957351"
-    },
-    {
       "Name": "Changeling Wayfinder",
       "Rarity": "Common",
       "Cost": "{3}",
-      "GihWinrate": 54.15875427269275,
+      "GihWinrate": 54.07823493644497,
       "Expansion": "ECL",
       "CastingCost": "{3}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6c6061aa-a4da-4115-85b6-d0aa22f2386c.jpg?1767956913"
@@ -643,7 +400,7 @@
       "Name": "Chaos Spewer",
       "Rarity": "Common",
       "Cost": "{2}{B/R}",
-      "GihWinrate": 49.97514910536779,
+      "GihWinrate": 50.66632659567685,
       "Expansion": "ECL",
       "CastingCost": "{2}{B/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b5918fa5-1d13-447b-8838-633b6b61e791.jpg?1767749712"
@@ -652,7 +409,7 @@
       "Name": "Chitinous Graspling",
       "Rarity": "Common",
       "Cost": "{3}{G/U}",
-      "GihWinrate": 50.869452374772905,
+      "GihWinrate": 51.409664683312016,
       "Expansion": "ECL",
       "CastingCost": "{3}{G/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9767360-d536-4902-9d2d-1f3474ce89d6.jpg?1767872195"
@@ -661,7 +418,7 @@
       "Name": "Chomping Changeling",
       "Rarity": "Uncommon",
       "Cost": "{2}{G}",
-      "GihWinrate": 52.13675213675214,
+      "GihWinrate": 50.44141252006421,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/1/e187dcc6-19ad-4cf6-94b4-daf07f5144e5.jpg?1767658367"
@@ -670,25 +427,16 @@
       "Name": "Chronicle of Victory",
       "Rarity": "Mythic",
       "Cost": "{6}",
-      "GihWinrate": 62.28915662650603,
+      "GihWinrate": 62.8451513143362,
       "Expansion": "ECL",
       "CastingCost": "{6}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b3c2d68d-690b-41e7-99ed-2d20c7e0a9b4.jpg?1767658597"
     },
     {
-      "Name": "Chronicle of Victory",
-      "Rarity": "Mythic",
-      "Cost": "{6}",
-      "GihWinrate": 62.28915662650603,
-      "Expansion": "ECL",
-      "CastingCost": "{6}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/4/44407660-79ed-442d-a215-d388c27c5130.jpg?1767659752"
-    },
-    {
       "Name": "Cinder Strike",
       "Rarity": "Common",
       "Cost": "{R}",
-      "GihWinrate": 55.40986699367985,
+      "GihWinrate": 55.36181149466034,
       "Expansion": "ECL",
       "CastingCost": "{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/f/6fb6faa4-236c-4cae-9140-0981c44d2392.jpg?1767957230"
@@ -697,7 +445,7 @@
       "Name": "Clachan Festival",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 58.40867992766727,
+      "GihWinrate": 56.9754639823844,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/324b5234-ffbf-4801-a475-8f693679ae2f.jpg?1767871685"
@@ -706,43 +454,16 @@
       "Name": "Collective Inferno",
       "Rarity": "Rare",
       "Cost": "{3}{R}{R}",
-      "GihWinrate": 48.24399260628466,
+      "GihWinrate": 48.733896046201686,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1ec084cc-997d-4079-b445-8f701ec3c277.jpg?1767732728"
     },
     {
-      "Name": "Collective Inferno",
-      "Rarity": "Rare",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 48.24399260628466,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/2/7250001d-a170-4b23-8290-6fdad48b4ac8.jpg?1767733116"
-    },
-    {
-      "Name": "Collective Inferno",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 48.24399260628466,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/2/72bd8ce5-795a-4503-b92c-a4a39f0bd4db.jpg?1767870160"
-    },
-    {
-      "Name": "Collective Inferno",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 48.24399260628466,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/a/2ada6e6f-77bd-49cb-8aa7-933acc02a0f2.jpg?1767870183"
-    },
-    {
       "Name": "Creakwood Safewright",
       "Rarity": "Uncommon",
       "Cost": "{1}{B}",
-      "GihWinrate": 59.322651128914785,
+      "GihWinrate": 58.52425654828334,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3bcc24cf-776a-4182-bf77-a611ad90b28f.jpg?1767957099"
@@ -751,7 +472,7 @@
       "Name": "Crib Swap",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 46.758620689655174,
+      "GihWinrate": 49.66292134831461,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8f2fb3c6-af75-47a3-9f97-521872c32890.jpg?1767732469"
@@ -760,7 +481,7 @@
       "Name": "Crossroads Watcher",
       "Rarity": "Common",
       "Cost": "{2}{G}",
-      "GihWinrate": 56.69802867383512,
+      "GihWinrate": 55.24263248872212,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d62fcbb-f1a0-46ce-a4af-2a33bcc3ac8e.jpg?1767658374"
@@ -769,25 +490,16 @@
       "Name": "Curious Colossus",
       "Rarity": "Mythic",
       "Cost": "{5}{W}{W}",
-      "GihWinrate": 62.71870794078062,
+      "GihWinrate": 63.4712950600801,
       "Expansion": "ECL",
       "CastingCost": "{5}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/8/582b6e5d-0bab-471d-af4d-19438c5fd524.jpg?1767658165"
     },
     {
-      "Name": "Curious Colossus",
-      "Rarity": "Mythic",
-      "Cost": "{5}{W}{W}",
-      "GihWinrate": 62.71870794078062,
-      "Expansion": "ECL",
-      "CastingCost": "{5}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aef1f79b-c536-4bf3-ab71-0a812c4c0728.jpg?1767659302"
-    },
-    {
       "Name": "Darkness Descends",
       "Rarity": "Uncommon",
       "Cost": "{2}{B}{B}",
-      "GihWinrate": 49.8422712933754,
+      "GihWinrate": 48.86494805694498,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/8/c8aa3895-df83-4f8e-9e23-1a665614b662.jpg?1767863447"
@@ -796,7 +508,7 @@
       "Name": "Dawn's Light Archer",
       "Rarity": "Common",
       "Cost": "{2}{G}",
-      "GihWinrate": 56.12884834663626,
+      "GihWinrate": 56.099490244331164,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/6/76e80656-6bcb-4d99-8bd2-ca5f75f40daf.jpg?1767873724"
@@ -805,7 +517,7 @@
       "Name": "Dawn-Blessed Pennant",
       "Rarity": "Uncommon",
       "Cost": "{1}",
-      "GihWinrate": 53.2258064516129,
+      "GihWinrate": 54.66588739528541,
       "Expansion": "ECL",
       "CastingCost": "{1}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/294266b6-0343-4fa5-90b8-0adf7df490e4.jpg?1767658603"
@@ -814,25 +526,16 @@
       "Name": "Dawnhand Dissident",
       "Rarity": "Rare",
       "Cost": "{B}",
-      "GihWinrate": 59.7953216374269,
+      "GihWinrate": 59.235487091713026,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/a/6ac1f765-f348-4813-88dc-26376e0f3f33.jpg?1767659632"
     },
     {
-      "Name": "Dawnhand Dissident",
-      "Rarity": "Rare",
-      "Cost": "{B}",
-      "GihWinrate": 59.7953216374269,
-      "Expansion": "ECL",
-      "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fea91416-2836-447f-ad07-8b96ba727cbd.jpg?1767660464"
-    },
-    {
       "Name": "Dawnhand Eulogist",
       "Rarity": "Common",
       "Cost": "{3}{B}",
-      "GihWinrate": 58.86694161059257,
+      "GihWinrate": 58.38152066929134,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/5/75a97f69-f3dc-4d33-8008-c1f1a7c15a2f.jpg?1767732686"
@@ -841,97 +544,52 @@
       "Name": "Deceit",
       "Rarity": "Mythic",
       "Cost": "{4}{U/B}{U/B}",
-      "GihWinrate": 60.2125147579693,
+      "GihWinrate": 59.9157229391625,
       "Expansion": "ECL",
       "CastingCost": "{4}{U/B}{U/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1759144842"
     },
     {
-      "Name": "Deceit",
-      "Rarity": "Mythic",
-      "Cost": "{4}{U/B}{U/B}",
-      "GihWinrate": 60.2125147579693,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U/B}{U/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0a1c101b-3fad-421c-a081-69e75db95c46.jpg?1758923826"
-    },
-    {
       "Name": "Deepchannel Duelist",
       "Rarity": "Uncommon",
       "Cost": "{W}{U}",
-      "GihWinrate": 64.34885091337654,
+      "GihWinrate": 63.600233781414374,
       "Expansion": "ECL",
       "CastingCost": "{W}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/b/1b742172-7118-45e7-9945-62bd77d94e85.jpg?1767957310"
     },
     {
-      "Name": "Deepchannel Duelist",
-      "Rarity": "Uncommon",
-      "Cost": "{W}{U}",
-      "GihWinrate": 64.34885091337654,
-      "Expansion": "ECL",
-      "CastingCost": "{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0fe0730e-a549-427d-99be-68d6fded5ac5.jpg?1767957340"
-    },
-    {
       "Name": "Deepway Navigator",
       "Rarity": "Rare",
       "Cost": "{W}{U}",
-      "GihWinrate": 58.71143375680581,
+      "GihWinrate": 56.358917315535784,
       "Expansion": "ECL",
       "CastingCost": "{W}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/9/d988e28b-fa60-4b60-8229-7a15932c784b.jpg?1767659290"
     },
     {
-      "Name": "Deepway Navigator",
-      "Rarity": "Rare",
-      "Cost": "{W}{U}",
-      "GihWinrate": 58.71143375680581,
-      "Expansion": "ECL",
-      "CastingCost": "{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/0/c0c2b1a7-d03e-4266-9bae-f2deebd714af.jpg?1767659876"
-    },
-    {
       "Name": "Disruptor of Currents",
       "Rarity": "Rare",
       "Cost": "{3}{U}{U}",
-      "GihWinrate": 60.47869235259778,
+      "GihWinrate": 60.890104425658876,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/c/4c6dbbaa-6844-4d7c-abbb-472a83bb99ab.jpg?1767659142"
     },
     {
-      "Name": "Disruptor of Currents",
-      "Rarity": "Rare",
-      "Cost": "{3}{U}{U}",
-      "GihWinrate": 60.47869235259778,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/29c2c66e-a3d3-4993-82cc-adf8f6877204.jpg?1767659641"
-    },
-    {
       "Name": "Doran, Besieged by Time",
       "Rarity": "Rare",
       "Cost": "{1}{W}{B}{G}",
-      "GihWinrate": 58.098068350668655,
+      "GihWinrate": 58.60477045396255,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}{B}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/6/568aa70a-6765-486a-bd37-5d38b16c46de.jpg?1767732894"
     },
     {
-      "Name": "Doran, Besieged by Time",
-      "Rarity": "Rare",
-      "Cost": "{1}{W}{B}{G}",
-      "GihWinrate": 58.098068350668655,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/f/9f0a1644-58bb-4826-9832-0ffc372fac1e.jpg?1767732950"
-    },
-    {
       "Name": "Dose of Dawnglow",
       "Rarity": "Uncommon",
       "Cost": "{4}{B}",
-      "GihWinrate": 50.76370170709793,
+      "GihWinrate": 51.09717868338558,
       "Expansion": "ECL",
       "CastingCost": "{4}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47414323-ca30-45b7-a0b2-6668312bee04.jpg?1765883451"
@@ -940,25 +598,16 @@
       "Name": "Dream Harvest",
       "Rarity": "Rare",
       "Cost": "{5}{U/B}{U/B}",
-      "GihWinrate": 51.682692307692314,
+      "GihWinrate": 50.8280982295831,
       "Expansion": "ECL",
       "CastingCost": "{5}{U/B}{U/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/4/a4ebc0e7-02d7-4d38-9376-a39963e6d3fa.jpg?1767952434"
     },
     {
-      "Name": "Dream Harvest",
-      "Rarity": "Rare",
-      "Cost": "{5}{U/B}{U/B}",
-      "GihWinrate": 51.682692307692314,
-      "Expansion": "ECL",
-      "CastingCost": "{5}{U/B}{U/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/e/be97b021-0844-4bac-8d17-c96b4920744e.jpg?1767952581"
-    },
-    {
       "Name": "Dream Seizer",
       "Rarity": "Common",
       "Cost": "{3}{B}",
-      "GihWinrate": 51.978021978021985,
+      "GihWinrate": 51.14133833646029,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/3573f425-9251-4c17-9619-15278ce5d8fb.jpg?1767658140"
@@ -967,7 +616,7 @@
       "Name": "Dundoolin Weaver",
       "Rarity": "Uncommon",
       "Cost": "{1}{G}",
-      "GihWinrate": 57.50808110490744,
+      "GihWinrate": 56.595567206863684,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/2260912b-4dfb-49dd-bf95-060d44333645.jpg?1767862918"
@@ -976,124 +625,70 @@
       "Name": "Eclipsed Boggart",
       "Rarity": "Uncommon",
       "Cost": "{B/R}{B/R}{B/R}",
-      "GihWinrate": 57.995735607675904,
+      "GihWinrate": 58.943894389438945,
       "Expansion": "ECL",
       "CastingCost": "{B/R}{B/R}{B/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0ac1d0b2-92a4-4a10-b2d1-e9bb90265cc3.jpg?1767952361"
     },
     {
-      "Name": "Eclipsed Boggart",
-      "Rarity": "Uncommon",
-      "Cost": "{B/R}{B/R}{B/R}",
-      "GihWinrate": 57.995735607675904,
-      "Expansion": "ECL",
-      "CastingCost": "{B/R}{B/R}{B/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/4/343a04c9-ebf8-41d9-9ebf-9d17da5ad605.jpg?1767952629"
-    },
-    {
       "Name": "Eclipsed Elf",
       "Rarity": "Uncommon",
       "Cost": "{B/G}{B/G}{B/G}",
-      "GihWinrate": 65.062893081761,
+      "GihWinrate": 63.63786279683378,
       "Expansion": "ECL",
       "CastingCost": "{B/G}{B/G}{B/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c8579f3-6125-4f22-b1c2-b7a0cfc50eed.jpg?1767952353"
     },
     {
-      "Name": "Eclipsed Elf",
-      "Rarity": "Uncommon",
-      "Cost": "{B/G}{B/G}{B/G}",
-      "GihWinrate": 65.062893081761,
-      "Expansion": "ECL",
-      "CastingCost": "{B/G}{B/G}{B/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/7/57708ef7-ef10-49c4-8cf7-7055cf7280a0.jpg?1767952637"
-    },
-    {
       "Name": "Eclipsed Flamekin",
       "Rarity": "Uncommon",
       "Cost": "{1}{U/R}{U/R}",
-      "GihWinrate": 60.488626790227464,
+      "GihWinrate": 60.46622769753611,
       "Expansion": "ECL",
       "CastingCost": "{1}{U/R}{U/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/9/d907ae44-cd07-4409-946c-e97f584d9a81.jpg?1767749662"
     },
     {
-      "Name": "Eclipsed Flamekin",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{U/R}{U/R}",
-      "GihWinrate": 60.488626790227464,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{U/R}{U/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/2/6271b82d-5922-4de0-b763-129908ece6ee.jpg?1767733102"
-    },
-    {
       "Name": "Eclipsed Kithkin",
       "Rarity": "Uncommon",
       "Cost": "{G/W}{G/W}",
-      "GihWinrate": 63.20842366057603,
+      "GihWinrate": 62.462852897473994,
       "Expansion": "ECL",
       "CastingCost": "{G/W}{G/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/29e1cfa4-0ad8-4228-9f7e-cbab114d1d5f.jpg?1767952368"
     },
     {
-      "Name": "Eclipsed Kithkin",
-      "Rarity": "Uncommon",
-      "Cost": "{G/W}{G/W}",
-      "GihWinrate": 63.20842366057603,
-      "Expansion": "ECL",
-      "CastingCost": "{G/W}{G/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/4/e40d5d7c-4176-4faa-9701-933307eebb26.jpg?1767952645"
-    },
-    {
       "Name": "Eclipsed Merrow",
       "Rarity": "Uncommon",
       "Cost": "{W/U}{W/U}{W/U}",
-      "GihWinrate": 63.97464167585446,
+      "GihWinrate": 62.21927140465331,
       "Expansion": "ECL",
       "CastingCost": "{W/U}{W/U}{W/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/2352750d-404d-4928-9bdb-1b0db599b70f.jpg?1767952376"
     },
     {
-      "Name": "Eclipsed Merrow",
-      "Rarity": "Uncommon",
-      "Cost": "{W/U}{W/U}{W/U}",
-      "GihWinrate": 63.97464167585446,
-      "Expansion": "ECL",
-      "CastingCost": "{W/U}{W/U}{W/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/45d96555-4976-49d1-b529-09cc7ca37cd3.jpg?1767952653"
-    },
-    {
       "Name": "Eclipsed Realms",
       "Rarity": "Uncommon",
       "Cost": "",
-      "GihWinrate": 55.80975316074653,
+      "GihWinrate": 53.64253923635511,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/1/a174f0db-8b4f-4c37-9583-44c92d37b9c0.jpg?1767862754"
     },
     {
-      "Name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
+      "Name": "Eirdu, Carrier of Dawn",
       "Rarity": "Mythic",
       "Cost": "{3}{W}{W}",
-      "GihWinrate": null,
+      "GihWinrate": 61.6671091053889,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/2/b2d9d5ca-7e15-437a-bdfc-5972b42148fe.jpg?1759144812"
     },
     {
-      "Name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
-      "Rarity": "Mythic",
-      "Cost": "{3}{W}{W}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec3c80c4-4935-455c-a14f-a0532b6a41a8.jpg?1758923685"
-    },
-    {
       "Name": "Elder Auntie",
       "Rarity": "Common",
       "Cost": "{2}{R}",
-      "GihWinrate": 51.50037509377344,
+      "GihWinrate": 51.9187917801436,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/84678e98-2258-4ea1-aaf0-8ac4cc2ecf8d.jpg?1767658171"
@@ -1102,25 +697,16 @@
       "Name": "Emptiness",
       "Rarity": "Mythic",
       "Cost": "{4}{W/B}{W/B}",
-      "GihWinrate": 57.06666666666666,
+      "GihWinrate": 56.639181120272966,
       "Expansion": "ECL",
       "CastingCost": "{4}{W/B}{W/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/6/c6409eca-bef6-4f3a-8bbb-d69ec5dbfc13.jpg?1759144841"
     },
     {
-      "Name": "Emptiness",
-      "Rarity": "Mythic",
-      "Cost": "{4}{W/B}{W/B}",
-      "GihWinrate": 57.06666666666666,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{W/B}{W/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/f/9f53e76d-3038-41f7-b050-bb9d7c7d2ea3.jpg?1758923927"
-    },
-    {
       "Name": "Encumbered Reejerey",
       "Rarity": "Uncommon",
       "Cost": "{1}{W}",
-      "GihWinrate": 55.18105849582172,
+      "GihWinrate": 56.346949327817995,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/5/15ff6797-f59c-4333-98ea-5711150fd5b8.jpg?1767951670"
@@ -1129,25 +715,16 @@
       "Name": "End-Blaze Epiphany",
       "Rarity": "Rare",
       "Cost": "{X}{R}",
-      "GihWinrate": 62.90995825879547,
+      "GihWinrate": 60.444119082479254,
       "Expansion": "ECL",
       "CastingCost": "{X}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0f0a90ae-b3b3-4f52-8997-eac514b29e57.jpg?1767952140"
     },
     {
-      "Name": "End-Blaze Epiphany",
-      "Rarity": "Rare",
-      "Cost": "{X}{R}",
-      "GihWinrate": 62.90995825879547,
-      "Expansion": "ECL",
-      "CastingCost": "{X}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/8/d8adeb65-f6f4-4d21-bca7-71fe8ef71f3b.jpg?1767957450"
-    },
-    {
       "Name": "Enraged Flamecaster",
       "Rarity": "Common",
       "Cost": "{2}{R}",
-      "GihWinrate": 52.92318150917743,
+      "GihWinrate": 52.71396625330351,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/0/104baa2c-75c5-44fc-a3b9-b19efcf3d7c2.jpg?1767871913"
@@ -1156,7 +733,7 @@
       "Name": "Evershrike's Gift",
       "Rarity": "Uncommon",
       "Cost": "{W}",
-      "GihWinrate": 55.900202292650036,
+      "GihWinrate": 53.152724968314324,
       "Expansion": "ECL",
       "CastingCost": "{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/231e46b6-b91a-4582-8894-e7de1c50213f.jpg?1767956938"
@@ -1165,7 +742,7 @@
       "Name": "Evolving Wilds",
       "Rarity": "Common",
       "Cost": "",
-      "GihWinrate": 54.67612641665899,
+      "GihWinrate": 54.44917021099158,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/c/8c632984-5176-4c37-91df-6577cc294b85.jpg?1767863461"
@@ -1174,7 +751,7 @@
       "Name": "Explosive Prodigy",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 58.41053144807411,
+      "GihWinrate": 58.40230298668586,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/5/5515ea5e-ce28-4938-a31e-5e48522a5f93.jpg?1767658177"
@@ -1183,7 +760,7 @@
       "Name": "Feed the Flames",
       "Rarity": "Common",
       "Cost": "{3}{R}",
-      "GihWinrate": 54.15388904376917,
+      "GihWinrate": 54.71363332266791,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/9/59740755-c353-4b6c-a84c-3b76133ce3ec.jpg?1767957151"
@@ -1192,7 +769,7 @@
       "Name": "Feisty Spikeling",
       "Rarity": "Common",
       "Cost": "{1}{R/W}",
-      "GihWinrate": 50.94041409830884,
+      "GihWinrate": 51.028378026555586,
       "Expansion": "ECL",
       "CastingCost": "{1}{R/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/6/f69f3a27-ecda-4d27-82fe-612ed57dbb28.jpg?1767957251"
@@ -1201,25 +778,16 @@
       "Name": "Figure of Fable",
       "Rarity": "Rare",
       "Cost": "{G/W}",
-      "GihWinrate": 64.5049218297626,
+      "GihWinrate": 63.98580721466588,
       "Expansion": "ECL",
       "CastingCost": "{G/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/0/e0ef33dd-5f6d-48fa-8ef6-a8092868d50f.jpg?1759144844"
     },
     {
-      "Name": "Figure of Fable",
-      "Rarity": "Rare",
-      "Cost": "{G/W}",
-      "GihWinrate": 64.5049218297626,
-      "Expansion": "ECL",
-      "CastingCost": "{G/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb1dc48d-81c4-4ecb-b5b3-d75b198f61db.jpg?1758924722"
-    },
-    {
       "Name": "Firdoch Core",
       "Rarity": "Common",
       "Cost": "{3}",
-      "GihWinrate": 51.48936170212765,
+      "GihWinrate": 50.114234627992445,
       "Expansion": "ECL",
       "CastingCost": "{3}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/e/8e45cd37-bf97-4742-978d-96f96ed653cd.jpg?1767872077"
@@ -1228,7 +796,7 @@
       "Name": "Flame-Chain Mauler",
       "Rarity": "Common",
       "Cost": "{1}{R}",
-      "GihWinrate": 53.92405063291139,
+      "GihWinrate": 53.26159160356052,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/5/752d7e8e-0dd0-4ace-9c89-a8f9ce73775e.jpg?1767732741"
@@ -1237,7 +805,7 @@
       "Name": "Flamebraider",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 58.0038178347423,
+      "GihWinrate": 59.286458047898286,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8aa428c-5a77-444f-b75e-a113e46fe4e0.jpg?1767732747"
@@ -1246,7 +814,7 @@
       "Name": "Flamekin Gildweaver",
       "Rarity": "Common",
       "Cost": "{3}{R}",
-      "GihWinrate": 56.850839910949205,
+      "GihWinrate": 57.05909692181188,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b1628ece-a028-49d4-9065-ee997838c20a.jpg?1767862536"
@@ -1255,7 +823,7 @@
       "Name": "Flaring Cinder",
       "Rarity": "Common",
       "Cost": "{1}{U/R}{U/R}",
-      "GihWinrate": 56.38689668540415,
+      "GihWinrate": 55.376101197199,
       "Expansion": "ECL",
       "CastingCost": "{1}{U/R}{U/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/0691a1a9-18e7-44b7-9a34-764b1ab45a76.jpg?1767862636"
@@ -1264,25 +832,16 @@
       "Name": "Flitterwing Nuisance",
       "Rarity": "Rare",
       "Cost": "{U}",
-      "GihWinrate": 61.76678445229682,
+      "GihWinrate": 60.072696770585765,
       "Expansion": "ECL",
       "CastingCost": "{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad0f6536-5295-4835-8883-35d711dfe6de.jpg?1767862448"
     },
     {
-      "Name": "Flitterwing Nuisance",
-      "Rarity": "Rare",
-      "Cost": "{U}",
-      "GihWinrate": 61.76678445229682,
-      "Expansion": "ECL",
-      "CastingCost": "{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7ecc95a7-51c8-45a1-bebf-9dfa053f7403.jpg?1767862796"
-    },
-    {
       "Name": "Flock Impostor",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 55.37985562048814,
+      "GihWinrate": 54.94793617499438,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d32d0336-5140-41f9-bc67-f3d743b9231d.jpg?1767658337"
@@ -1291,61 +850,25 @@
       "Name": "Foraging Wickermaw",
       "Rarity": "Common",
       "Cost": "{2}",
-      "GihWinrate": 54.01060070671379,
+      "GihWinrate": 53.71695738176587,
       "Expansion": "ECL",
       "CastingCost": "{2}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f524bc08-caeb-4362-b960-eb8e0e4159d0.jpg?1767957290"
     },
     {
-      "Name": "Forest",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/4/b460f5f7-c7c9-400c-8419-23d614f45bf9.jpg?1767773926"
-    },
-    {
-      "Name": "Forest",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673"
-    },
-    {
-      "Name": "Forest",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bdbce923-c05e-4554-8c4c-5c4e6d791856.jpg?1767773806"
-    },
-    {
       "Name": "Formidable Speaker",
       "Rarity": "Rare",
       "Cost": "{2}{G}",
-      "GihWinrate": 59.905288082083665,
+      "GihWinrate": 57.76669688727713,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/6/265522eb-4f6a-40e7-b374-3833fa63c80b.jpg?1765118668"
     },
     {
-      "Name": "Formidable Speaker",
-      "Rarity": "Rare",
-      "Cost": "{2}{G}",
-      "GihWinrate": 59.905288082083665,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/1444f39f-042b-4bb3-8307-6b8878198086.jpg?1759187526"
-    },
-    {
       "Name": "Gallant Fowlknight",
       "Rarity": "Common",
       "Cost": "{3}{W}",
-      "GihWinrate": 55.45250140528387,
+      "GihWinrate": 54.858770196443096,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/b/fb6096ba-8083-4207-9a3f-c1e4ff095204.jpg?1767732475"
@@ -1354,7 +877,7 @@
       "Name": "Gangly Stompling",
       "Rarity": "Common",
       "Cost": "{2}{R/G}",
-      "GihWinrate": 54.15860735009671,
+      "GihWinrate": 53.82645141260478,
       "Expansion": "ECL",
       "CastingCost": "{2}{R/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/502000a7-a3c1-4259-aea5-ff01724396a1.jpg?1767749620"
@@ -1363,7 +886,7 @@
       "Name": "Gathering Stone",
       "Rarity": "Uncommon",
       "Cost": "{4}",
-      "GihWinrate": 59.684799186578545,
+      "GihWinrate": 59.23034021193531,
       "Expansion": "ECL",
       "CastingCost": "{4}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/81dfbfe1-143a-4637-b683-a34cfc51993d.jpg?1767732919"
@@ -1372,7 +895,7 @@
       "Name": "Giantfall",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 53.31375838926174,
+      "GihWinrate": 53.57985837922895,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1ac52728-adb3-4220-8392-73f7bd379ab4.jpg?1767957191"
@@ -1381,7 +904,7 @@
       "Name": "Gilt-Leaf's Embrace",
       "Rarity": "Common",
       "Cost": "{2}{G}",
-      "GihWinrate": 56.36856368563685,
+      "GihWinrate": 55.10574018126888,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/739e5ab5-d562-407a-906e-c5c5173ad325.jpg?1767957211"
@@ -1390,7 +913,7 @@
       "Name": "Glamer Gifter",
       "Rarity": "Uncommon",
       "Cost": "{1}{U}",
-      "GihWinrate": 57.58382118147951,
+      "GihWinrate": 56.52923003802282,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd764dd4-2395-4138-ac29-260eac1aeaae.jpg?1767732516"
@@ -1399,7 +922,7 @@
       "Name": "Glamermite",
       "Rarity": "Common",
       "Cost": "{2}{U}",
-      "GihWinrate": 53.8111217641419,
+      "GihWinrate": 53.118373456405145,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8b7c23a-0034-453c-ab44-f6ec0f31d1eb.jpg?1767956988"
@@ -1408,61 +931,25 @@
       "Name": "Glen Elendra Guardian",
       "Rarity": "Rare",
       "Cost": "{2}{U}",
-      "GihWinrate": 56.76567656765676,
+      "GihWinrate": 56.95086705202313,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.jpg?1767951867"
     },
     {
-      "Name": "Glen Elendra Guardian",
-      "Rarity": "Rare",
-      "Cost": "{2}{U}",
-      "GihWinrate": 56.76567656765676,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8b8996a5-4d22-42d3-a706-44c258c938e9.jpg?1767952547"
-    },
-    {
-      "Name": "Glen Elendra Guardian",
-      "Rarity": "Mythic",
-      "Cost": "{2}{U}",
-      "GihWinrate": 56.76567656765676,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7c5b57c-f6da-4de0-9645-42e30c25ca32.jpg?1767957667"
-    },
-    {
-      "Name": "Glen Elendra Guardian",
-      "Rarity": "Mythic",
-      "Cost": "{2}{U}",
-      "GihWinrate": 56.76567656765676,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/f/af008f52-d83d-455a-b217-7e40a8849a99.jpg?1767957674"
-    },
-    {
       "Name": "Glen Elendra's Answer",
       "Rarity": "Mythic",
       "Cost": "{2}{U}{U}",
-      "GihWinrate": null,
+      "GihWinrate": 58.09560524286815,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/a/fa5bfbf9-dca2-42b7-a431-f9afedb54528.jpg?1767659156"
     },
     {
-      "Name": "Glen Elendra's Answer",
-      "Rarity": "Mythic",
-      "Cost": "{2}{U}{U}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/3/8375ad0c-5d8d-47f6-bd04-ffd59fa9c0be.jpg?1767660600"
-    },
-    {
       "Name": "Glister Bairn",
       "Rarity": "Uncommon",
       "Cost": "{2}{G/U}{G/U}{G/U}",
-      "GihWinrate": 52.539682539682545,
+      "GihWinrate": 51.268848841485834,
       "Expansion": "ECL",
       "CastingCost": "{2}{G/U}{G/U}{G/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/c/dcccdd98-a1ba-41f4-a9ae-84d263da0af9.jpg?1767862652"
@@ -1471,25 +958,16 @@
       "Name": "Gloom Ripper",
       "Rarity": "Rare",
       "Cost": "{3}{B}{B}",
-      "GihWinrate": 65.66037735849056,
+      "GihWinrate": 66.79063360881543,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/9/e9ee5d4f-05d1-4e3a-b8d6-f22d0fddedf7.jpg?1767952022"
     },
     {
-      "Name": "Gloom Ripper",
-      "Rarity": "Rare",
-      "Cost": "{3}{B}{B}",
-      "GihWinrate": 65.66037735849056,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/8/d81ca098-2dca-48a2-876d-06e89c2b1d1c.jpg?1767952556"
-    },
-    {
       "Name": "Gnarlbark Elm",
       "Rarity": "Uncommon",
       "Cost": "{2}{B}",
-      "GihWinrate": 55.22660818713451,
+      "GihWinrate": 54.240828946268905,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1e9d65b6-22ff-49f2-8b2a-aeaef91088d3.jpg?1767871866"
@@ -1498,7 +976,7 @@
       "Name": "Goatnap",
       "Rarity": "Uncommon",
       "Cost": "{2}{R}",
-      "GihWinrate": null,
+      "GihWinrate": 48.881789137380196,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d8dbec5-ae71-4f82-898a-b930ec677403.jpg?1767658184"
@@ -1507,7 +985,7 @@
       "Name": "Goldmeadow Nomad",
       "Rarity": "Common",
       "Cost": "{W}",
-      "GihWinrate": 53.92376681614349,
+      "GihWinrate": 53.0406599882145,
       "Expansion": "ECL",
       "CastingCost": "{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/00ddbe6c-11de-4bc6-aabe-d6d8385a838a.jpg?1767871695"
@@ -1516,25 +994,16 @@
       "Name": "Goliath Daydreamer",
       "Rarity": "Rare",
       "Cost": "{2}{R}{R}",
-      "GihWinrate": 56.010568031704096,
+      "GihWinrate": 55.57277941404434,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/8/88e8cd13-2a29-4df6-937c-1bed68fbeafa.jpg?1767658300"
     },
     {
-      "Name": "Goliath Daydreamer",
-      "Rarity": "Rare",
-      "Cost": "{2}{R}{R}",
-      "GihWinrate": 56.010568031704096,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b5e1905d-4fd8-4923-8612-75678aa3f212.jpg?1767660627"
-    },
-    {
       "Name": "Gravelgill Scoundrel",
       "Rarity": "Common",
       "Cost": "{1}{U}",
-      "GihWinrate": 55.929203539823014,
+      "GihWinrate": 55.64196221672362,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/320bc30c-7a8a-411a-9f36-9c69126e131b.jpg?1767871759"
@@ -1543,7 +1012,7 @@
       "Name": "Graveshifter",
       "Rarity": "Uncommon",
       "Cost": "{3}{B}",
-      "GihWinrate": 55.063657407407405,
+      "GihWinrate": 54.32730656740229,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/a/dadb02b9-d3a0-4b51-bbc3-53b2316cd70d.jpg?1767873656"
@@ -1552,7 +1021,7 @@
       "Name": "Great Forest Druid",
       "Rarity": "Common",
       "Cost": "{1}{G}",
-      "GihWinrate": 54.92672279388837,
+      "GihWinrate": 54.1465241369919,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/8793a19e-6743-4031-86d9-2ff55f384549.jpg?1767732797"
@@ -1561,7 +1030,7 @@
       "Name": "Gristle Glutton",
       "Rarity": "Common",
       "Cost": "{1}{R}",
-      "GihWinrate": 53.984716157205234,
+      "GihWinrate": 53.29652351738241,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/4/a4164af6-356e-4de2-8377-dbe70434a996.jpg?1767862542"
@@ -1570,43 +1039,25 @@
       "Name": "Grub's Command",
       "Rarity": "Rare",
       "Cost": "{3}{B}{R}",
-      "GihWinrate": 65.11226252158895,
+      "GihWinrate": 63.23422770123278,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/73013908-feff-495a-a62e-1e19548ffe6f.jpg?1767662497"
     },
     {
-      "Name": "Grub's Command",
-      "Rarity": "Rare",
-      "Cost": "{3}{B}{R}",
-      "GihWinrate": 65.11226252158895,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{B}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/4/54a38e72-b308-410f-b182-454c935e2242.jpg?1767659731"
-    },
-    {
-      "Name": "Grub, Storied Matriarch // Grub, Notorious Auntie",
+      "Name": "Grub, Storied Matriarch",
       "Rarity": "Rare",
       "Cost": "{2}{B}",
-      "GihWinrate": null,
+      "GihWinrate": 56.862307520642716,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/f/1f51adf8-8234-4dae-aedf-7633310d5111.jpg?1767734188"
     },
     {
-      "Name": "Grub, Storied Matriarch // Grub, Notorious Auntie",
-      "Rarity": "Rare",
-      "Cost": "{2}{B}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/f/0f836c3b-d1fb-4b3b-9c14-cc9052be3a94.jpg?1767732957"
-    },
-    {
       "Name": "Gutsplitter Gang",
       "Rarity": "Uncommon",
       "Cost": "{3}{B}",
-      "GihWinrate": 52.544987146529564,
+      "GihWinrate": 51.563931422588674,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/f/9ff74349-693d-4373-a194-9796316dd1f1.jpg?1767732693"
@@ -1615,70 +1066,25 @@
       "Name": "Hallowed Fountain",
       "Rarity": "Rare",
       "Cost": "",
-      "GihWinrate": 51.31414267834794,
+      "GihWinrate": 52.95560461123375,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/0/e056b55f-82ed-4fe0-ab0c-bb20fa4a218a.jpg?1759144845"
     },
     {
-      "Name": "Hallowed Fountain // Hallowed Fountain",
-      "Rarity": "Rare",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/9/19cba6be-7291-4788-9241-87dad3b68363.jpg?1763522807"
-    },
-    {
       "Name": "Harmonized Crescendo",
       "Rarity": "Rare",
       "Cost": "{4}{U}{U}",
-      "GihWinrate": 53.53121801432958,
+      "GihWinrate": 53.135471517472475,
       "Expansion": "ECL",
       "CastingCost": "{4}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/7/2715e0c0-9913-4bea-9a42-ad1164f6130a.jpg?1767659551"
     },
     {
-      "Name": "Harmonized Crescendo",
-      "Rarity": "Rare",
-      "Cost": "{4}{U}{U}",
-      "GihWinrate": 53.53121801432958,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/2/42465c20-16f8-46a2-96fe-b52a9eac3df9.jpg?1767659829"
-    },
-    {
-      "Name": "Harmonized Crescendo",
-      "Rarity": "Mythic",
-      "Cost": "{4}{U}{U}",
-      "GihWinrate": 53.53121801432958,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/1/31764ac0-6acb-496f-bb44-d556235bb47e.jpg?1767660705"
-    },
-    {
-      "Name": "Harmonized Crescendo",
-      "Rarity": "Mythic",
-      "Cost": "{4}{U}{U}",
-      "GihWinrate": 53.53121801432958,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/b/7b200330-6463-4ce0-828e-5e1a4f074478.jpg?1767660720"
-    },
-    {
-      "Name": "Harmonized Crescendo",
-      "Rarity": "Rare",
-      "Cost": "{4}{U}{U}",
-      "GihWinrate": 53.53121801432958,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2dbd1ec1-2b66-4fcc-84cb-9d35afcec921.jpg?1767691540"
-    },
-    {
       "Name": "Heirloom Auntie",
       "Rarity": "Common",
       "Cost": "{2}{B}",
-      "GihWinrate": 49.412455934195066,
+      "GihWinrate": 48.297613619091045,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/a/cac251b2-d2cc-45b6-9ca8-678e0eab56ea.jpg?1767732699"
@@ -1687,43 +1093,25 @@
       "Name": "Hexing Squelcher",
       "Rarity": "Rare",
       "Cost": "{1}{R}",
-      "GihWinrate": 49.63414634146341,
+      "GihWinrate": 50.79407806191117,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1767658306"
     },
     {
-      "Name": "Hexing Squelcher",
-      "Rarity": "Rare",
-      "Cost": "{1}{R}",
-      "GihWinrate": 49.63414634146341,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/68618675-3e00-4b07-b1da-0e4be5700a1c.jpg?1767660870"
-    },
-    {
       "Name": "High Perfect Morcant",
       "Rarity": "Rare",
       "Cost": "{2}{B}{G}",
-      "GihWinrate": 62.66666666666667,
+      "GihWinrate": 62.615969581749056,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/dfe7b8bf-c150-4be0-aef4-e8bb6f09787a.jpg?1765451570"
     },
     {
-      "Name": "High Perfect Morcant",
-      "Rarity": "Rare",
-      "Cost": "{2}{B}{G}",
-      "GihWinrate": 62.66666666666667,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/d/fdb4192b-73ae-41e9-a3b7-a20c69350b79.jpg?1765451587"
-    },
-    {
       "Name": "Hovel Hurler",
       "Rarity": "Uncommon",
       "Cost": "{3}{R/W}{R/W}",
-      "GihWinrate": 56.00407055630936,
+      "GihWinrate": 54.52543838955729,
       "Expansion": "ECL",
       "CastingCost": "{3}{R/W}{R/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/adc6a4c5-4e92-43ee-8d0c-204042965eb7.jpg?1767774270"
@@ -1732,7 +1120,7 @@
       "Name": "Illusion Spinners",
       "Rarity": "Uncommon",
       "Cost": "{4}{U}",
-      "GihWinrate": 52.53648366921473,
+      "GihWinrate": 52.0222350009584,
       "Expansion": "ECL",
       "CastingCost": "{4}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb4229a9-8df4-4adc-9d3e-acd2221fa3e9.jpg?1767957009"
@@ -1741,7 +1129,7 @@
       "Name": "Impolite Entrance",
       "Rarity": "Uncommon",
       "Cost": "{R}",
-      "GihWinrate": null,
+      "GihWinrate": 45.86129753914989,
       "Expansion": "ECL",
       "CastingCost": "{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/45be88d8-0be1-47a2-a1c1-d6e693fc706f.jpg?1767732753"
@@ -1750,52 +1138,16 @@
       "Name": "Iron-Shield Elf",
       "Rarity": "Uncommon",
       "Cost": "{1}{B}",
-      "GihWinrate": 59.22761449077238,
+      "GihWinrate": 57.92667667667668,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e0140b2-0185-4adb-b365-2611ce89a0e2.jpg?1767658146"
     },
     {
-      "Name": "Iron-Shield Elf",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{B}",
-      "GihWinrate": 59.22761449077238,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3d47b1f2-da4a-42c4-992e-e0bfdd1a3e2a.jpg?1767660022"
-    },
-    {
-      "Name": "Island",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/0/b0da67fb-1cb2-4105-ab5c-b7c680b8116c.jpg?1767773855"
-    },
-    {
-      "Name": "Island",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615"
-    },
-    {
-      "Name": "Island",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/6/d6a5ba11-3156-4a0c-958d-5756e18b767b.jpg?1767773726"
-    },
-    {
       "Name": "Keep Out",
       "Rarity": "Common",
       "Cost": "{1}{W}",
-      "GihWinrate": 53.58943577430972,
+      "GihWinrate": 52.83538723574792,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/a/4ab1601c-634c-4f21-8926-ba3cb92008c1.jpg?1767956928"
@@ -1804,34 +1156,16 @@
       "Name": "Kinbinding",
       "Rarity": "Rare",
       "Cost": "{3}{W}{W}",
-      "GihWinrate": 67.73572803078896,
+      "GihWinrate": 64.59197786998617,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b6e35fd5-de7e-40a8-a23c-00d07fd1ac56.jpg?1767658490"
     },
     {
-      "Name": "Kinbinding",
-      "Rarity": "Rare",
-      "Cost": "{3}{W}{W}",
-      "GihWinrate": 67.73572803078896,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/6/c6ef5697-35ef-4603-92b9-ed1993f5d401.jpg?1767659043"
-    },
-    {
-      "Name": "Kinbinding",
-      "Rarity": "Rare",
-      "Cost": "{3}{W}{W}",
-      "GihWinrate": 67.73572803078896,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df94f428-f097-42cb-be03-3046e6867344.jpg?1767691537"
-    },
-    {
       "Name": "Kindle the Inner Flame",
       "Rarity": "Uncommon",
       "Cost": "{3}{R}",
-      "GihWinrate": 51.50078988941548,
+      "GihWinrate": 54.131534569983145,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a2adcea-f6b1-4611-b8b8-f19fdee2c571.jpg?1767871968"
@@ -1840,7 +1174,7 @@
       "Name": "Kinsbaile Aspirant",
       "Rarity": "Uncommon",
       "Cost": "{W}",
-      "GihWinrate": 59.32960893854749,
+      "GihWinrate": 58.083880911819584,
       "Expansion": "ECL",
       "CastingCost": "{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/6/56dfdab1-ea3f-4663-a855-a9e72505f85e.jpg?1767732481"
@@ -1849,43 +1183,25 @@
       "Name": "Kinscaer Sentry",
       "Rarity": "Rare",
       "Cost": "{1}{W}",
-      "GihWinrate": 57.561361836896275,
+      "GihWinrate": 58.090668431502316,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/3/333bf101-14e8-4753-99bc-9174f42c4122.jpg?1767951770"
     },
     {
-      "Name": "Kinscaer Sentry",
-      "Rarity": "Rare",
-      "Cost": "{1}{W}",
-      "GihWinrate": 57.561361836896275,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/f/bf7ab51b-301e-48fe-b1e8-0c33d057e7de.jpg?1767952539"
-    },
-    {
       "Name": "Kirol, Attentive First-Year",
       "Rarity": "Rare",
       "Cost": "{1}{R/W}{R/W}",
-      "GihWinrate": 53.6979969183359,
+      "GihWinrate": 52.48252374977594,
       "Expansion": "ECL",
       "CastingCost": "{1}{R/W}{R/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/1/c11cb0eb-819e-4905-ad95-e43618d3c81e.jpg?1765542087"
     },
     {
-      "Name": "Kirol, Attentive First-Year",
-      "Rarity": "Rare",
-      "Cost": "{1}{R/W}{R/W}",
-      "GihWinrate": 53.6979969183359,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{R/W}{R/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a77c3a75-4880-4b86-ab1e-92f045abc484.jpg?1765542078"
-    },
-    {
       "Name": "Kithkeeper",
       "Rarity": "Uncommon",
       "Cost": "{6}{W}",
-      "GihWinrate": 56.12602100350058,
+      "GihWinrate": 53.703474712501546,
       "Expansion": "ECL",
       "CastingCost": "{6}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/f/ef29eff7-72be-46e6-9275-0f0a44d29233.jpg?1767871704"
@@ -1894,7 +1210,7 @@
       "Name": "Kulrath Mystic",
       "Rarity": "Common",
       "Cost": "{2}{U}",
-      "GihWinrate": 53.69202226345083,
+      "GihWinrate": 54.02511078286558,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/7/377d257c-920c-4dd4-a4b1-01cbc631ef8f.jpg?1767732526"
@@ -1903,7 +1219,7 @@
       "Name": "Kulrath Zealot",
       "Rarity": "Common",
       "Cost": "{5}{R}",
-      "GihWinrate": 57.19492868462758,
+      "GihWinrate": 57.2417823228634,
       "Expansion": "ECL",
       "CastingCost": "{5}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/3502685d-4e57-4c5c-94c6-ae69048cdfbf.jpg?1767871934"
@@ -1912,7 +1228,7 @@
       "Name": "Lasting Tarfire",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 44.352617079889804,
+      "GihWinrate": 46.286588029707296,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c4a95ac-072f-4219-80a0-1ce71f1b8411.jpg?1767732759"
@@ -1921,25 +1237,16 @@
       "Name": "Lavaleaper",
       "Rarity": "Rare",
       "Cost": "{3}{R}",
-      "GihWinrate": null,
+      "GihWinrate": 48.34761321909425,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/82902488-d178-4752-bcfb-dd3050654d23.jpg?1767658312"
     },
     {
-      "Name": "Lavaleaper",
-      "Rarity": "Rare",
-      "Cost": "{3}{R}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0eee01c8-6588-407c-9e19-97699e43e713.jpg?1767660895"
-    },
-    {
       "Name": "Liminal Hold",
       "Rarity": "Common",
       "Cost": "{3}{W}",
-      "GihWinrate": 56.34151835999099,
+      "GihWinrate": 55.59396126671072,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5a40c16-7a5c-4ad1-be53-6b1b1be2affe.jpg?1767732486"
@@ -1948,43 +1255,25 @@
       "Name": "Lluwen, Imperfect Naturalist",
       "Rarity": "Rare",
       "Cost": "{B/G}{B/G}",
-      "GihWinrate": 58.37755875663382,
+      "GihWinrate": 59.48725592487703,
       "Expansion": "ECL",
       "CastingCost": "{B/G}{B/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/2/127a30a6-c25a-448a-a242-dc04f273a854.jpg?1767862678"
     },
     {
-      "Name": "Lluwen, Imperfect Naturalist",
-      "Rarity": "Rare",
-      "Cost": "{B/G}{B/G}",
-      "GihWinrate": 58.37755875663382,
-      "Expansion": "ECL",
-      "CastingCost": "{B/G}{B/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/7/57289725-5ad2-46dd-a7f9-a78db67022e5.jpg?1767872852"
-    },
-    {
       "Name": "Loch Mare",
       "Rarity": "Mythic",
       "Cost": "{1}{U}",
-      "GihWinrate": 62.5531914893617,
+      "GihWinrate": 62.29693140794224,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad6c4baf-a803-45e4-81ac-708a41631a28.jpg?1767862352"
     },
     {
-      "Name": "Loch Mare",
-      "Rarity": "Mythic",
-      "Cost": "{1}{U}",
-      "GihWinrate": 62.5531914893617,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/3/539a7e8f-97a9-4aa2-957b-0cc30de797bb.jpg?1767873865"
-    },
-    {
       "Name": "Lofty Dreams",
       "Rarity": "Uncommon",
       "Cost": "{3}{U}{U}",
-      "GihWinrate": 54.95533815397703,
+      "GihWinrate": 55.64589804494793,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a2908ed1-517e-4f1a-94e5-b06fb033c1a6.jpg?1767871777"
@@ -1993,7 +1282,7 @@
       "Name": "Luminollusk",
       "Rarity": "Uncommon",
       "Cost": "{3}{G}",
-      "GihWinrate": 52.43055555555556,
+      "GihWinrate": 52.32895646164478,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3d591e66-4bf9-47e7-bcef-57769ec3edc6.jpg?1767872025"
@@ -2002,7 +1291,7 @@
       "Name": "Lys Alana Dignitary",
       "Rarity": "Uncommon",
       "Cost": "{1}{G}",
-      "GihWinrate": 59.03345724907063,
+      "GihWinrate": 58.08740632667949,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/4/94e8d6a9-7aa3-4e93-8e4d-e50da7ff09d2.jpg?1767957201"
@@ -2011,7 +1300,7 @@
       "Name": "Lys Alana Informant",
       "Rarity": "Common",
       "Cost": "{1}{G}",
-      "GihWinrate": 57.824684054853456,
+      "GihWinrate": 57.29414682539683,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a79649c4-559e-4306-a102-5fd8750629c7.jpg?1767658380"
@@ -2020,25 +1309,16 @@
       "Name": "Maralen, Fae Ascendant",
       "Rarity": "Rare",
       "Cost": "{2}{B}{G}{U}",
-      "GihWinrate": 61.56202143950995,
+      "GihWinrate": 59.70672617150144,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}{G}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/5/c50f5408-5b5c-41dc-807e-136233403a09.jpg?1767862685"
     },
     {
-      "Name": "Maralen, Fae Ascendant",
-      "Rarity": "Rare",
-      "Cost": "{2}{B}{G}{U}",
-      "GihWinrate": 61.56202143950995,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B}{G}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/b/4b1ace1f-84ec-499d-8a52-c0ad26a70d77.jpg?1767872862"
-    },
-    {
       "Name": "Meanders Guide",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 55.1203590371277,
+      "GihWinrate": 54.0799856527977,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/c/8c41a0ad-138e-4eef-8f7f-35017e3b086f.jpg?1767871713"
@@ -2050,40 +1330,13 @@
       "GihWinrate": null,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/21157461-5435-4879-80a9-100afc5bbf4c.jpg?1767658318"
-    },
-    {
-      "Name": "Meek Attack",
-      "Rarity": "Mythic",
-      "Cost": "{2}{R}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d6a0d52-08af-45d1-9c4c-3d694c40b372.jpg?1767660926"
-    },
-    {
-      "Name": "Meek Attack",
-      "Rarity": "Mythic",
-      "Cost": "{2}{R}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/3/530aa72f-0a77-443b-9ad9-cce8d91b8657.jpg?1767659924"
-    },
-    {
-      "Name": "Meek Attack",
-      "Rarity": "Mythic",
-      "Cost": "{2}{R}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/d/ed87df86-3a71-444b-a7a0-8221b1627610.jpg?1767659973"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/21157461-5435-4879-80a9-100afc5bbf4c.jpg?1769242221"
     },
     {
       "Name": "Merrow Skyswimmer",
       "Rarity": "Common",
       "Cost": "{3}{W/U}{W/U}",
-      "GihWinrate": 57.301492537313436,
+      "GihWinrate": 57.17088002353922,
       "Expansion": "ECL",
       "CastingCost": "{3}{W/U}{W/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/075b419a-fd44-4a9a-8c40-474562b7e11a.jpg?1767872219"
@@ -2092,7 +1345,7 @@
       "Name": "Midnight Tilling",
       "Rarity": "Common",
       "Cost": "{1}{G}",
-      "GihWinrate": 58.305292138268584,
+      "GihWinrate": 57.065094125652074,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/5/c5112bbf-752c-41e7-9c61-4c81e6a77463.jpg?1767732843"
@@ -2101,19 +1354,10 @@
       "Name": "Mirrorform",
       "Rarity": "Mythic",
       "Cost": "{4}{U}{U}",
-      "GihWinrate": null,
+      "GihWinrate": 54.839896945160106,
       "Expansion": "ECL",
       "CastingCost": "{4}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/5/55d30256-f5d8-4f61-a3f5-878970ced6d1.jpg?1767659560"
-    },
-    {
-      "Name": "Mirrorform",
-      "Rarity": "Mythic",
-      "Cost": "{4}{U}{U}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/02a9adde-1604-46c1-b481-fa0a73c72bd9.jpg?1767659761"
     },
     {
       "Name": "Mirrormind Crown",
@@ -2125,19 +1369,10 @@
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/6/061d765e-df27-406a-9ba0-b51b0cbb65da.jpg?1767658634"
     },
     {
-      "Name": "Mirrormind Crown",
-      "Rarity": "Rare",
-      "Cost": "{4}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{4}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/00b44e41-828b-4da4-b625-92943b8989ac.jpg?1767659885"
-    },
-    {
       "Name": "Mischievous Sneakling",
       "Rarity": "Common",
       "Cost": "{1}{U/B}",
-      "GihWinrate": 53.737304576058435,
+      "GihWinrate": 52.78262035671182,
       "Expansion": "ECL",
       "CastingCost": "{1}{U/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b66fa00-2fa6-4060-9e7f-8e3fde6deb73.jpg?1767957261"
@@ -2146,7 +1381,7 @@
       "Name": "Mistmeadow Council",
       "Rarity": "Common",
       "Cost": "{4}{G}",
-      "GihWinrate": 58.75263633624586,
+      "GihWinrate": 57.353429788262304,
       "Expansion": "ECL",
       "CastingCost": "{4}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/4/d4a7c9bc-81c8-4c31-96a9-eb6ba7715e7f.jpg?1767872109"
@@ -2155,7 +1390,7 @@
       "Name": "Moon-Vigil Adherents",
       "Rarity": "Uncommon",
       "Cost": "{2}{G}{G}",
-      "GihWinrate": 61.048416454313795,
+      "GihWinrate": 59.60031585980684,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/0/60621c37-62e1-4261-ae76-3946b4a0cfa3.jpg?1767957171"
@@ -2164,7 +1399,7 @@
       "Name": "Moonglove Extractor",
       "Rarity": "Common",
       "Cost": "{2}{B}",
-      "GihWinrate": 54.376334248246415,
+      "GihWinrate": 52.68923076923077,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/3/8383e0ab-81b4-4a6b-b87b-dd9180dca1c2.jpg?1767658152"
@@ -2173,7 +1408,7 @@
       "Name": "Moonlit Lamenter",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 56.25396825396825,
+      "GihWinrate": 55.04958349861167,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/b/fb8fc509-cff6-470f-abf6-b07f6c3f94e1.jpg?1767956948"
@@ -2182,43 +1417,16 @@
       "Name": "Moonshadow",
       "Rarity": "Mythic",
       "Cost": "{B}",
-      "GihWinrate": 56.719022687609076,
+      "GihWinrate": 57.18446601941748,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/5/2573e694-eaa0-42ca-b470-2ab507cbcec1.jpg?1767952044"
     },
     {
-      "Name": "Moonshadow",
-      "Rarity": "Mythic",
-      "Cost": "{B}",
-      "GihWinrate": 56.719022687609076,
-      "Expansion": "ECL",
-      "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/3/4366c1d7-d5b7-4f63-94fa-9d0e5edd9a73.jpg?1767952565"
-    },
-    {
-      "Name": "Moonshadow",
-      "Rarity": "Mythic",
-      "Cost": "{B}",
-      "GihWinrate": 56.719022687609076,
-      "Expansion": "ECL",
-      "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/485a801c-0e10-4943-8456-852aacb24d9d.jpg?1767957686"
-    },
-    {
-      "Name": "Moonshadow",
-      "Rarity": "Mythic",
-      "Cost": "{B}",
-      "GihWinrate": 56.719022687609076,
-      "Expansion": "ECL",
-      "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/e/deb91ea3-f355-4aa2-a029-908cecc55fc2.jpg?1767957692"
-    },
-    {
       "Name": "Morcant's Eyes",
       "Rarity": "Uncommon",
       "Cost": "{1}{G}",
-      "GihWinrate": 61.64817749603804,
+      "GihWinrate": 60.99913441325584,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a730b254-ff7c-4f89-a559-b44ad7fd6c6c.jpg?1767732849"
@@ -2227,37 +1435,19 @@
       "Name": "Morcant's Loyalist",
       "Rarity": "Uncommon",
       "Cost": "{1}{B}{G}",
-      "GihWinrate": 63.42838196286472,
+      "GihWinrate": 62.222096188747734,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/175c6b1c-8790-41a2-ae15-5031206c410f.jpg?1767952302"
     },
     {
-      "Name": "Morcant's Loyalist",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{B}{G}",
-      "GihWinrate": 63.42838196286472,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/1/c157b97e-905e-4c68-b6ae-9c43caa7c6e7.jpg?1767952661"
-    },
-    {
       "Name": "Morningtide's Light",
       "Rarity": "Mythic",
       "Cost": "{3}{W}",
-      "GihWinrate": null,
+      "GihWinrate": 53.67142102482831,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/8/181ee045-5650-479a-8c03-015b38fdcd63.jpg?1767690057"
-    },
-    {
-      "Name": "Morningtide's Light",
-      "Rarity": "Mythic",
-      "Cost": "{3}{W}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/0/d0de86f5-4dd5-415f-ba9a-6321986fc9e2.jpg?1758924011"
     },
     {
       "Name": "Mornsong Aria",
@@ -2269,46 +1459,10 @@
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/9985c554-8338-46b1-ac36-526d2eb61570.jpg?1767658159"
     },
     {
-      "Name": "Mornsong Aria",
-      "Rarity": "Rare",
-      "Cost": "{1}{B}{B}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/5/05a553f3-3ff4-4601-bbf6-2f8b5ca6aaca.jpg?1767659838"
-    },
-    {
-      "Name": "Mountain",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/295b92bc-d66f-45d8-9bbe-5f5f13e39fd4.jpg?1767773878"
-    },
-    {
-      "Name": "Mountain",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/b/9b6fe3e2-a2cf-4209-ac9b-e04d02599360.jpg?1767773654"
-    },
-    {
-      "Name": "Mountain",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779"
-    },
-    {
       "Name": "Mudbutton Cursetosser",
       "Rarity": "Uncommon",
       "Cost": "{B}",
-      "GihWinrate": 55.58333333333333,
+      "GihWinrate": 57.00497221409769,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35bc841a-9a21-4c17-a60a-a3ee01472fcb.jpg?1767871878"
@@ -2317,25 +1471,16 @@
       "Name": "Mutable Explorer",
       "Rarity": "Rare",
       "Cost": "{2}{G}",
-      "GihWinrate": 56.006006006006004,
+      "GihWinrate": 55.231277533039645,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8f35d95a-caea-4d5e-b98e-55da1ba7c92d.jpg?1759120542"
     },
     {
-      "Name": "Mutable Explorer",
-      "Rarity": "Rare",
-      "Cost": "{2}{G}",
-      "GihWinrate": 56.006006006006004,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/d/8d10a060-5abd-4982-996c-a8fc420e44ba.jpg?1758924634"
-    },
-    {
       "Name": "Nameless Inversion",
       "Rarity": "Uncommon",
       "Cost": "{1}{B}",
-      "GihWinrate": 56.25338386572821,
+      "GihWinrate": 55.772732791064705,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/a/7a4944ac-839e-4aa1-8200-78cff36bb2ed.jpg?1767871890"
@@ -2344,7 +1489,7 @@
       "Name": "Nightmare Sower",
       "Rarity": "Uncommon",
       "Cost": "{3}{B}",
-      "GihWinrate": 51.16124751161247,
+      "GihWinrate": 50.508418069678285,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35dfa0f9-faf3-4a85-b02d-0c5830783511.jpg?1767957131"
@@ -2353,7 +1498,7 @@
       "Name": "Noggle Robber",
       "Rarity": "Uncommon",
       "Cost": "{1}{R/G}{R/G}",
-      "GihWinrate": 57.04678362573099,
+      "GihWinrate": 57.648444279162014,
       "Expansion": "ECL",
       "CastingCost": "{1}{R/G}{R/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/0082ca96-10f3-4823-be16-117556b2afc3.jpg?1767864446"
@@ -2362,34 +1507,25 @@
       "Name": "Noggle the Mind",
       "Rarity": "Uncommon",
       "Cost": "{1}{U}",
-      "GihWinrate": 54.50367647058824,
+      "GihWinrate": 54.90142882980648,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/076c0ac1-722e-49ef-b815-ace210069972.jpg?1767957020"
     },
     {
-      "Name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
+      "Name": "Oko, Lorwyn Liege",
       "Rarity": "Mythic",
       "Cost": "{2}{U}",
-      "GihWinrate": null,
+      "GihWinrate": 56.84613282317573,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/d/1dab370a-1067-4d94-be1f-10362d4abf5a.jpg?1767734249"
     },
     {
-      "Name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
-      "Rarity": "Mythic",
-      "Cost": "{2}{U}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/48d43194-cbcb-472f-b1c8-b97e347b654c.jpg?1767657538"
-    },
-    {
       "Name": "Omni-Changeling",
       "Rarity": "Uncommon",
       "Cost": "{3}{U}{U}",
-      "GihWinrate": 58.46013390139988,
+      "GihWinrate": 56.78371677333794,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f29ce8f9-42a3-43fa-8197-666cc26e2c76.jpg?1767732596"
@@ -2398,25 +1534,16 @@
       "Name": "Overgrown Tomb",
       "Rarity": "Rare",
       "Cost": "",
-      "GihWinrate": 55.10471204188482,
+      "GihWinrate": 54.726126999515266,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/45b92924-baa1-4c9b-9932-9a5eda8f3446.jpg?1759144847"
     },
     {
-      "Name": "Overgrown Tomb // Overgrown Tomb",
-      "Rarity": "Rare",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/0/307fdde3-43f6-4d80-884a-4a85314ab8e4.jpg?1763522827"
-    },
-    {
       "Name": "Perfect Intimidation",
       "Rarity": "Uncommon",
       "Cost": "{3}{B}",
-      "GihWinrate": null,
+      "GihWinrate": 47.501435956346924,
       "Expansion": "ECL",
       "CastingCost": "{3}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/f/ff05b7f4-e0d0-4304-99b3-66ac804129fe.jpg?1767970136"
@@ -2425,25 +1552,16 @@
       "Name": "Personify",
       "Rarity": "Uncommon",
       "Cost": "{1}{W}",
-      "GihWinrate": 54.97757847533632,
+      "GihWinrate": 54.498659517426276,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/1172582d-fb2d-4022-95b1-e48b03df3a95.jpg?1767658640"
     },
     {
-      "Name": "Personify",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{W}",
-      "GihWinrate": 54.97757847533632,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/08ed333b-358a-4e44-954e-562ecf5666b3.jpg?1767659982"
-    },
-    {
       "Name": "Pestered Wellguard",
       "Rarity": "Uncommon",
       "Cost": "{3}{U}",
-      "GihWinrate": 55.59189012426422,
+      "GihWinrate": 54.980914602200436,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/e/3e06c99e-ecb2-42e9-ac58-2542de8d54a5.jpg?1767871787"
@@ -2452,43 +1570,16 @@
       "Name": "Pitiless Fists",
       "Rarity": "Uncommon",
       "Cost": "{3}{G}",
-      "GihWinrate": 59.74754558204769,
+      "GihWinrate": 58.78441986349729,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/295d828b-b2e7-41c7-afbc-5fb5f4eb242c.jpg?1767872922"
     },
     {
-      "Name": "Plains",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a438199-54f8-4702-81cf-a9d42e7cd9f1.jpg?1767773831"
-    },
-    {
-      "Name": "Plains",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/2/6242dbef-8412-4ebd-9486-42cec1dc6794.jpg?1767773504"
-    },
-    {
-      "Name": "Plains",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699"
-    },
-    {
       "Name": "Prideful Feastling",
       "Rarity": "Common",
       "Cost": "{2}{W/B}",
-      "GihWinrate": 53.73518804739825,
+      "GihWinrate": 53.37311694927589,
       "Expansion": "ECL",
       "CastingCost": "{2}{W/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/5/7578cb61-f606-4559-a10a-343a583228ab.jpg?1767776681"
@@ -2497,7 +1588,7 @@
       "Name": "Prismabasher",
       "Rarity": "Uncommon",
       "Cost": "{4}{G}{G}",
-      "GihWinrate": 58.77283695277491,
+      "GihWinrate": 57.29137594194809,
       "Expansion": "ECL",
       "CastingCost": "{4}{G}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/5/65c057a7-70af-4464-bd8d-1e7e158d1ae7.jpg?1767872056"
@@ -2506,7 +1597,7 @@
       "Name": "Prismatic Undercurrents",
       "Rarity": "Uncommon",
       "Cost": "{3}{G}",
-      "GihWinrate": 50.51282051282051,
+      "GihWinrate": 48.93867924528302,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/b/bb7490f2-1425-495f-b7d4-2f1e0df7490e.jpg?1767952219"
@@ -2515,7 +1606,7 @@
       "Name": "Protective Response",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 57.99267846247712,
+      "GihWinrate": 57.63893413251677,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/113975e1-7712-4760-96ad-405f8b4e41e3.jpg?1767956959"
@@ -2524,7 +1615,7 @@
       "Name": "Puca's Eye",
       "Rarity": "Uncommon",
       "Cost": "{2}",
-      "GihWinrate": 55.601659751037346,
+      "GihWinrate": 54.709976798143856,
       "Expansion": "ECL",
       "CastingCost": "{2}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3a5ca02-3829-4c42-b0dc-98b660f8a8f0.jpg?1767872205"
@@ -2533,7 +1624,7 @@
       "Name": "Pummeler for Hire",
       "Rarity": "Uncommon",
       "Cost": "{4}{G}",
-      "GihWinrate": 58.40835433921499,
+      "GihWinrate": 56.193131787496334,
       "Expansion": "ECL",
       "CastingCost": "{4}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/2/42208996-7b99-474e-aba7-75190d7ee8e2.jpg?1767957240"
@@ -2542,7 +1633,7 @@
       "Name": "Pyrrhic Strike",
       "Rarity": "Uncommon",
       "Cost": "{2}{W}",
-      "GihWinrate": 59.09610983981693,
+      "GihWinrate": 58.879604566317525,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/cce5b16d-07fb-4e64-8ec9-b8b29ba86cff.jpg?1767732492"
@@ -2557,19 +1648,10 @@
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/b/0bab5da5-72a7-4340-9b53-492ab14a9f71.jpg?1767952283"
     },
     {
-      "Name": "Raiding Schemes",
-      "Rarity": "Rare",
-      "Cost": "{3}{R}{G}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0e04140a-11a1-4f4a-965a-5c3c6569595a.jpg?1767957396"
-    },
-    {
       "Name": "Reaping Willow",
       "Rarity": "Uncommon",
       "Cost": "{1}{W/B}{W/B}{W/B}",
-      "GihWinrate": 57.874762808349146,
+      "GihWinrate": 57.25499339395353,
       "Expansion": "ECL",
       "CastingCost": "{1}{W/B}{W/B}{W/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/7/97c33cc2-3573-410a-908b-c0392fff524b.jpg?1767952397"
@@ -2578,7 +1660,7 @@
       "Name": "Reckless Ransacking",
       "Rarity": "Common",
       "Cost": "{1}{R}",
-      "GihWinrate": 50.84594835262689,
+      "GihWinrate": 50.47191011235955,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/24a5b025-4cdb-416d-aad6-0fc7e8da3df2.jpg?1767957141"
@@ -2587,7 +1669,7 @@
       "Name": "Reluctant Dounguard",
       "Rarity": "Common",
       "Cost": "{2}{W}",
-      "GihWinrate": 52.46542393265183,
+      "GihWinrate": 52.26271245715884,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/dbce93c0-5efc-4b60-9cef-9d9b374d397b.jpg?1767871722"
@@ -2596,7 +1678,7 @@
       "Name": "Requiting Hex",
       "Rarity": "Uncommon",
       "Cost": "{B}",
-      "GihWinrate": 53.80972879896685,
+      "GihWinrate": 52.60936695831189,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f21b0fb7-91b6-403f-a81a-562665961276.jpg?1767732705"
@@ -2605,7 +1687,7 @@
       "Name": "Retched Wretch",
       "Rarity": "Uncommon",
       "Cost": "{2}{B}",
-      "GihWinrate": 52.23367697594502,
+      "GihWinrate": 52.44771863117871,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/7/c7a4d7f1-976a-4a28-97a9-ff089a241c9d.jpg?1767871902"
@@ -2614,25 +1696,16 @@
       "Name": "Rhys, the Evermore",
       "Rarity": "Rare",
       "Cost": "{1}{W}",
-      "GihWinrate": 55.00000000000001,
+      "GihWinrate": 52.99003322259136,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7072412-4aa2-40ef-a267-bd717551a42b.jpg?1767659090"
     },
     {
-      "Name": "Rhys, the Evermore",
-      "Rarity": "Rare",
-      "Cost": "{1}{W}",
-      "GihWinrate": 55.00000000000001,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3bef4e2-d5f4-4e95-a212-d8e02bef99f7.jpg?1767659792"
-    },
-    {
       "Name": "Rime Chill",
       "Rarity": "Uncommon",
       "Cost": "{6}{U}",
-      "GihWinrate": 51.51072124756335,
+      "GihWinrate": 52.20365741349823,
       "Expansion": "ECL",
       "CastingCost": "{6}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9a425f4-2103-4f96-88a0-91fe554037d7.jpg?1767957062"
@@ -2647,19 +1720,10 @@
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f8931b2-ff3f-4167-8a40-f33460c2d27e.jpg?1767952164"
     },
     {
-      "Name": "Rimefire Torque",
-      "Rarity": "Rare",
-      "Cost": "{1}{U}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/23d41fc1-5b74-4ab5-9b14-43aaf3a7d125.jpg?1767953101"
-    },
-    {
       "Name": "Rimekin Recluse",
       "Rarity": "Uncommon",
       "Cost": "{2}{U}",
-      "GihWinrate": 61.13288906311251,
+      "GihWinrate": 60.3111640001763,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/ba6b5368-3262-4002-bf1e-fce62f7f7901.jpg?1767957030"
@@ -2668,7 +1732,7 @@
       "Name": "Riverguard's Reflexes",
       "Rarity": "Common",
       "Cost": "{1}{W}",
-      "GihWinrate": 52.97002724795641,
+      "GihWinrate": 52.616343798708535,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/8/88a79f3e-ca74-467c-b0a8-22802ac5b465.jpg?1767956969"
@@ -2677,7 +1741,7 @@
       "Name": "Rooftop Percher",
       "Rarity": "Common",
       "Cost": "{5}",
-      "GihWinrate": 53.6996336996337,
+      "GihWinrate": 55.469267923098776,
       "Expansion": "ECL",
       "CastingCost": "{5}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d89595c-1542-41fe-8d23-997522922698.jpg?1767732447"
@@ -2686,7 +1750,7 @@
       "Name": "Run Away Together",
       "Rarity": "Common",
       "Cost": "{1}{U}",
-      "GihWinrate": 49.64705882352941,
+      "GihWinrate": 50.83677889348297,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35c56aff-1f0f-464a-b705-d67803e3d060.jpg?1767732563"
@@ -2695,7 +1759,7 @@
       "Name": "Safewright Cavalry",
       "Rarity": "Common",
       "Cost": "{3}{G}",
-      "GihWinrate": 58.32176155524698,
+      "GihWinrate": 56.87239210313258,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f7de412a-9731-4bfc-8fbc-c95988a3dd70.jpg?1767957270"
@@ -2704,43 +1768,25 @@
       "Name": "Sanar, Innovative First-Year",
       "Rarity": "Rare",
       "Cost": "{2}{U/R}{U/R}",
-      "GihWinrate": 62.92803970223325,
+      "GihWinrate": 60.841070453304205,
       "Expansion": "ECL",
       "CastingCost": "{2}{U/R}{U/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/11215561-bbcd-4564-a2e4-a1d77d177a1d.jpg?1767687679"
     },
     {
-      "Name": "Sanar, Innovative First-Year",
-      "Rarity": "Rare",
-      "Cost": "{2}{U/R}{U/R}",
-      "GihWinrate": 62.92803970223325,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U/R}{U/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/1/31075628-a238-4ed5-b126-16ef5c23d364.jpg?1767659895"
-    },
-    {
       "Name": "Sapling Nursery",
       "Rarity": "Rare",
       "Cost": "{6}{G}{G}",
-      "GihWinrate": 58.4070796460177,
+      "GihWinrate": 57.62264150943396,
       "Expansion": "ECL",
       "CastingCost": "{6}{G}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/1/3199bea9-fef7-45fe-8777-2103d84a9347.jpg?1767862603"
     },
     {
-      "Name": "Sapling Nursery",
-      "Rarity": "Rare",
-      "Cost": "{6}{G}{G}",
-      "GihWinrate": 58.4070796460177,
-      "Expansion": "ECL",
-      "CastingCost": "{6}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/f/ff984cb9-cd72-47a4-adce-2521c025679b.jpg?1767862834"
-    },
-    {
       "Name": "Scarblade Scout",
       "Rarity": "Common",
       "Cost": "{1}{B}",
-      "GihWinrate": 57.91395459596761,
+      "GihWinrate": 58.15751283768699,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/2/c2412fea-4591-4345-913f-edc2da9ad975.jpg?1767871946"
@@ -2749,7 +1795,7 @@
       "Name": "Scarblade's Malice",
       "Rarity": "Common",
       "Cost": "{B}",
-      "GihWinrate": 54.57822638788753,
+      "GihWinrate": 54.225015369902316,
       "Expansion": "ECL",
       "CastingCost": "{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aea9b5c0-3b32-44be-9773-566b9daafa6b.jpg?1767957161"
@@ -2758,97 +1804,43 @@
       "Name": "Scuzzback Scrounger",
       "Rarity": "Rare",
       "Cost": "{1}{R}",
-      "GihWinrate": 54.18569254185692,
+      "GihWinrate": 53.902358020591166,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0ea4a895-19c0-47af-ad9c-5db88ea9ae05.jpg?1767952147"
     },
     {
-      "Name": "Scuzzback Scrounger",
-      "Rarity": "Rare",
-      "Cost": "{1}{R}",
-      "GihWinrate": 54.18569254185692,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/9377b69c-9677-4865-a0c4-af0bfd7ebfd5.jpg?1767952787"
-    },
-    {
       "Name": "Sear",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 58.20393374741201,
+      "GihWinrate": 57.14448821145173,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aeb4612c-758b-4492-ba03-eb6741b4176e.jpg?1767658325"
     },
     {
-      "Name": "Sear",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{R}",
-      "GihWinrate": 58.20393374741201,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0a13f8e0-8b23-4553-ad76-9e52f8d4c63c.jpg?1767660043"
-    },
-    {
       "Name": "Selfless Safewright",
       "Rarity": "Rare",
       "Cost": "{3}{G}{G}",
-      "GihWinrate": 57.62439807383628,
+      "GihWinrate": 57.407708570499274,
       "Expansion": "ECL",
       "CastingCost": "{3}{G}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/c/ac95b1c3-9eb2-4f80-bb32-72b36817d622.jpg?1767658386"
     },
     {
-      "Name": "Selfless Safewright",
-      "Rarity": "Rare",
-      "Cost": "{3}{G}{G}",
-      "GihWinrate": 57.62439807383628,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/e/ee08e321-6011-4545-920f-5b35180e896b.jpg?1767659857"
-    },
-    {
-      "Name": "Selfless Safewright",
-      "Rarity": "Mythic",
-      "Cost": "{3}{G}{G}",
-      "GihWinrate": 57.62439807383628,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28ab33be-cbfc-46eb-a5fc-9c770e1051d6.jpg?1767659943"
-    },
-    {
-      "Name": "Selfless Safewright",
-      "Rarity": "Mythic",
-      "Cost": "{3}{G}{G}",
-      "GihWinrate": 57.62439807383628,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a7a526e-b5cc-4a44-9a2c-722603343b21.jpg?1767660000"
-    },
-    {
       "Name": "Shadow Urchin",
       "Rarity": "Rare",
       "Cost": "{2}{B/R}",
-      "GihWinrate": 54.33238636363637,
+      "GihWinrate": 53.16937997921718,
       "Expansion": "ECL",
       "CastingCost": "{2}{B/R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/e/4e54c39b-6149-467b-a9a8-7ad09ca0cbd4.jpg?1767952415"
     },
     {
-      "Name": "Shadow Urchin",
-      "Rarity": "Rare",
-      "Cost": "{2}{B/R}",
-      "GihWinrate": 54.33238636363637,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec1b5c33-2025-4d01-9b51-433a40a105ed.jpg?1767957361"
-    },
-    {
       "Name": "Shimmercreep",
       "Rarity": "Uncommon",
       "Cost": "{4}{B}",
-      "GihWinrate": 56.369896704377766,
+      "GihWinrate": 54.553058024045995,
       "Expansion": "ECL",
       "CastingCost": "{4}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f7c02899-5f0f-4b38-bbbc-fbc8c46419a6.jpg?1767732711"
@@ -2857,7 +1849,7 @@
       "Name": "Shimmerwilds Growth",
       "Rarity": "Uncommon",
       "Cost": "{1}{G}",
-      "GihWinrate": 49.85549132947977,
+      "GihWinrate": 50.40169604998884,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/1/c122719c-f0d1-4170-a0d1-d62172df1d21.jpg?1767732869"
@@ -2866,7 +1858,7 @@
       "Name": "Shinestriker",
       "Rarity": "Uncommon",
       "Cost": "{4}{U}{U}",
-      "GihWinrate": 59.8508746773731,
+      "GihWinrate": 59.01847256685966,
       "Expansion": "ECL",
       "CastingCost": "{4}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/214e78f9-5364-49ab-b17e-0c76549c583e.jpg?1767659586"
@@ -2875,7 +1867,7 @@
       "Name": "Shore Lurker",
       "Rarity": "Common",
       "Cost": "{3}{W}",
-      "GihWinrate": 54.327982373308146,
+      "GihWinrate": 53.422619047619044,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/b/bb353c27-e311-4677-9277-cab6820562ce.jpg?1767732498"
@@ -2884,25 +1876,16 @@
       "Name": "Silvergill Mentor",
       "Rarity": "Uncommon",
       "Cost": "{1}{U}",
-      "GihWinrate": 60.27190332326284,
+      "GihWinrate": 59.93503654194515,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e6e37fe8-459c-4992-8ae9-f782cddab2fe.jpg?1768338090"
     },
     {
-      "Name": "Silvergill Mentor",
-      "Rarity": "Uncommon",
-      "Cost": "{1}{U}",
-      "GihWinrate": 60.27190332326284,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/3841d32f-4e41-409a-b1ec-3db9390d61a1.jpg?1767659991"
-    },
-    {
       "Name": "Silvergill Peddler",
       "Rarity": "Common",
       "Cost": "{2}{U}",
-      "GihWinrate": 56.51476986489581,
+      "GihWinrate": 55.2463768115942,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/feba2bb6-6005-4ade-a4c5-97bbd54b43a3.jpg?1767732538"
@@ -2911,7 +1894,7 @@
       "Name": "Sizzling Changeling",
       "Rarity": "Uncommon",
       "Cost": "{2}{R}",
-      "GihWinrate": 55.46001719690455,
+      "GihWinrate": 54.400252525252526,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e58f0722-9ad1-4952-9aee-ea8137c58911.jpg?1767658331"
@@ -2920,43 +1903,25 @@
       "Name": "Slumbering Walker",
       "Rarity": "Rare",
       "Cost": "{3}{W}{W}",
-      "GihWinrate": 62.98611111111111,
+      "GihWinrate": 60.49218980253463,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/81e82915-e734-4754-829f-f5da6a7c550d.jpg?1767862426"
     },
     {
-      "Name": "Slumbering Walker",
-      "Rarity": "Rare",
-      "Cost": "{3}{W}{W}",
-      "GihWinrate": 62.98611111111111,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/69f6248e-d8d0-40eb-a89e-bc3017327711.jpg?1767873859"
-    },
-    {
       "Name": "Soul Immolation",
       "Rarity": "Mythic",
       "Cost": "{3}{R}{R}",
-      "GihWinrate": 62.818955042527335,
+      "GihWinrate": 63.00206564149644,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/234b70df-8c34-4da7-946e-b8b55a8df390.jpg?1767952116"
     },
     {
-      "Name": "Soul Immolation",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 62.818955042527335,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/7/c79d97c0-76aa-439c-b47d-dc4b00ffda96.jpg?1767952604"
-    },
-    {
       "Name": "Soulbright Seeker",
       "Rarity": "Uncommon",
       "Cost": "{R}",
-      "GihWinrate": 56.14538498326159,
+      "GihWinrate": 55.14087759815243,
       "Expansion": "ECL",
       "CastingCost": "{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/9/895ac890-608a-47de-8bc8-9337fd2064e8.jpg?1767957180"
@@ -2965,7 +1930,7 @@
       "Name": "Sourbread Auntie",
       "Rarity": "Uncommon",
       "Cost": "{2}{R}{R}",
-      "GihWinrate": 55.73186528497409,
+      "GihWinrate": 55.3735753482482,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/32fd226f-d1c6-432c-b846-9482f1944363.jpg?1767732766"
@@ -2974,7 +1939,7 @@
       "Name": "Spell Snare",
       "Rarity": "Uncommon",
       "Cost": "{U}",
-      "GihWinrate": 46.35658914728682,
+      "GihWinrate": 47.414512093411176,
       "Expansion": "ECL",
       "CastingCost": "{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/7/b7551b61-656e-4f37-b9da-73174db983b7.jpg?1767659595"
@@ -2983,43 +1948,16 @@
       "Name": "Spinerock Tyrant",
       "Rarity": "Mythic",
       "Cost": "{3}{R}{R}",
-      "GihWinrate": 61.98830409356725,
+      "GihWinrate": 61.83977760929997,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/478bbb7a-4b96-4e04-921e-bdf23185de25.jpg?1767862554"
     },
     {
-      "Name": "Spinerock Tyrant",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 61.98830409356725,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/5/65825a3c-a442-476d-b594-e61d6104dffa.jpg?1767862812"
-    },
-    {
-      "Name": "Spinerock Tyrant",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 61.98830409356725,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/933f0eb4-7c8a-44c9-b91b-f3ff35081d1d.jpg?1767872261"
-    },
-    {
-      "Name": "Spinerock Tyrant",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R}{R}",
-      "GihWinrate": 61.98830409356725,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/0/10808193-6ddc-4d53-a3fa-32d7ba80a04f.jpg?1767872271"
-    },
-    {
       "Name": "Spiral into Solitude",
       "Rarity": "Common",
       "Cost": "{1}{W}",
-      "GihWinrate": 55.54870530209618,
+      "GihWinrate": 54.53969827111551,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/7/e7a12664-a930-4159-8311-19862488fb05.jpg?1767871731"
@@ -3028,7 +1966,7 @@
       "Name": "Springleaf Drum",
       "Rarity": "Uncommon",
       "Cost": "{1}",
-      "GihWinrate": 47.76444929116685,
+      "GihWinrate": 49.75751697381183,
       "Expansion": "ECL",
       "CastingCost": "{1}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/1/e15ab0aa-4059-4923-9816-6f7a9e5b5a18.jpg?1767732925"
@@ -3037,25 +1975,16 @@
       "Name": "Spry and Mighty",
       "Rarity": "Rare",
       "Cost": "{4}{G}",
-      "GihWinrate": 58.49909584086799,
+      "GihWinrate": 54.199365503422946,
       "Expansion": "ECL",
       "CastingCost": "{4}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/5/152b7374-e991-443f-b6ca-914415635c4a.jpg?1767952201"
     },
     {
-      "Name": "Spry and Mighty",
-      "Rarity": "Rare",
-      "Cost": "{4}{G}",
-      "GihWinrate": 58.49909584086799,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/d/ddc88ce9-716c-4328-95ec-f1c336d04c33.jpg?1767952612"
-    },
-    {
       "Name": "Squawkroaster",
       "Rarity": "Uncommon",
       "Cost": "{3}{R}",
-      "GihWinrate": 51.52862701500833,
+      "GihWinrate": 51.51670293101242,
       "Expansion": "ECL",
       "CastingCost": "{3}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/1/4112f960-70af-4e2d-bcd4-9e9cf7aac4fb.jpg?1767871978"
@@ -3064,7 +1993,7 @@
       "Name": "Stalactite Dagger",
       "Rarity": "Common",
       "Cost": "{2}",
-      "GihWinrate": 52.259654889071484,
+      "GihWinrate": 51.67364016736402,
       "Expansion": "ECL",
       "CastingCost": "{2}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/6954df09-95f3-46cf-9ba8-2a1aea653d8f.jpg?1767957330"
@@ -3073,25 +2002,16 @@
       "Name": "Steam Vents",
       "Rarity": "Rare",
       "Cost": "",
-      "GihWinrate": 52.13483146067416,
+      "GihWinrate": 53.16091954022989,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b66daa94-d367-4812-9f18-f35378c1febb.jpg?1759144847"
     },
     {
-      "Name": "Steam Vents // Steam Vents",
-      "Rarity": "Rare",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb96c335-9ed3-4f7d-b07a-185ff4044976.jpg?1763522814"
-    },
-    {
       "Name": "Sting-Slinger",
       "Rarity": "Uncommon",
       "Cost": "{2}{R}",
-      "GihWinrate": 52.162629757785474,
+      "GihWinrate": 51.74458380843786,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/386c5f73-fb8f-46c8-ad45-56e2c19b7d1f.jpg?1767957220"
@@ -3100,7 +2020,7 @@
       "Name": "Stoic Grove-Guide",
       "Rarity": "Common",
       "Cost": "{4}{B/G}",
-      "GihWinrate": 54.403086699954606,
+      "GihWinrate": 53.52514919011083,
       "Expansion": "ECL",
       "CastingCost": "{4}{B/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3d5a3e25-c17a-47b1-a36d-d24d50e5bab3.jpg?1767984401"
@@ -3109,7 +2029,7 @@
       "Name": "Stratosoarer",
       "Rarity": "Common",
       "Cost": "{4}{U}",
-      "GihWinrate": 53.972846650344984,
+      "GihWinrate": 54.237366713027356,
       "Expansion": "ECL",
       "CastingCost": "{4}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f607889-6f3f-4511-8920-88a39f3b28ca.jpg?1767871852"
@@ -3118,7 +2038,7 @@
       "Name": "Summit Sentinel",
       "Rarity": "Common",
       "Cost": "{1}{U}",
-      "GihWinrate": 54.174428450465705,
+      "GihWinrate": 53.540621079046424,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/81251057-f270-4f05-9dc5-205c70e1f295.jpg?1767957040"
@@ -3127,7 +2047,7 @@
       "Name": "Sun-Dappled Celebrant",
       "Rarity": "Common",
       "Cost": "{4}{W}{W}",
-      "GihWinrate": 54.37008811621815,
+      "GihWinrate": 52.96610169491526,
       "Expansion": "ECL",
       "CastingCost": "{4}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/91c715a5-6643-4064-a8a8-3e05dce15979.jpg?1767659096"
@@ -3136,61 +2056,25 @@
       "Name": "Sunderflock",
       "Rarity": "Rare",
       "Cost": "{7}{U}{U}",
-      "GihWinrate": 63.118644067796616,
+      "GihWinrate": 63.429191535539886,
       "Expansion": "ECL",
       "CastingCost": "{7}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e5b6221e-cb22-45e4-bb98-2b960afc614c.jpg?1767732544"
     },
     {
-      "Name": "Sunderflock",
-      "Rarity": "Rare",
-      "Cost": "{7}{U}{U}",
-      "GihWinrate": 63.118644067796616,
-      "Expansion": "ECL",
-      "CastingCost": "{7}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/e/ee7486fc-844d-4515-9028-8d53ba396a61.jpg?1767732931"
-    },
-    {
       "Name": "Surly Farrier",
       "Rarity": "Common",
       "Cost": "{1}{G}",
-      "GihWinrate": 54.10913872452334,
+      "GihWinrate": 53.73292239753439,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/5/056f7f51-18a9-4d80-8928-decaf4d12c0d.jpg?1767732856"
     },
     {
-      "Name": "Swamp",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/d/1dd4d605-02a2-4183-b191-0bca8dfbf962.jpg?1767773902"
-    },
-    {
-      "Name": "Swamp",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637"
-    },
-    {
-      "Name": "Swamp",
-      "Rarity": "Common",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35fe42f9-dd55-4ca4-af0a-59ecdff0dba8.jpg?1767773753"
-    },
-    {
       "Name": "Swat Away",
       "Rarity": "Uncommon",
       "Cost": "{2}{U}{U}",
-      "GihWinrate": 56.0424605334785,
+      "GihWinrate": 54.39156195064783,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2fb0ea3f-2f6d-4b64-a9d7-e822c8854a03.jpg?1767732569"
@@ -3199,61 +2083,34 @@
       "Name": "Sygg's Command",
       "Rarity": "Rare",
       "Cost": "{1}{W}{U}",
-      "GihWinrate": 61.829375549692166,
+      "GihWinrate": 58.549981691688025,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8bc13fc2-e254-4db5-ad4d-f92711a1a6ca.jpg?1767862721"
     },
     {
-      "Name": "Sygg's Command",
-      "Rarity": "Rare",
-      "Cost": "{1}{W}{U}",
-      "GihWinrate": 61.829375549692166,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a2cb17e2-982e-4914-ab09-6edcf2546509.jpg?1767872250"
-    },
-    {
-      "Name": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
+      "Name": "Sygg, Wanderwine Wisdom",
       "Rarity": "Rare",
       "Cost": "{1}{U}",
-      "GihWinrate": null,
+      "GihWinrate": 60.38389762729939,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/70adc870-f0db-4d4b-863b-673c2c258751.jpg?1759144840"
     },
     {
-      "Name": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
-      "Rarity": "Rare",
-      "Cost": "{1}{U}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/2/62b5ab41-7a85-49aa-8669-8a09a09d02fa.jpg?1758923718"
-    },
-    {
       "Name": "Tam, Mindful First-Year",
       "Rarity": "Rare",
       "Cost": "{1}{G/U}",
-      "GihWinrate": 56.269302038295244,
+      "GihWinrate": 54.46887492861222,
       "Expansion": "ECL",
       "CastingCost": "{1}{G/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6cb0f825-b75b-4f2a-803c-08142ca07e76.jpg?1767862738"
     },
     {
-      "Name": "Tam, Mindful First-Year",
-      "Rarity": "Rare",
-      "Cost": "{1}{G/U}",
-      "GihWinrate": 56.269302038295244,
-      "Expansion": "ECL",
-      "CastingCost": "{1}{G/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/a/ca89fb7a-5575-4875-80d3-6a05f78ea65e.jpg?1767872872"
-    },
-    {
       "Name": "Tanufel Rimespeaker",
       "Rarity": "Uncommon",
       "Cost": "{3}{U}",
-      "GihWinrate": 56.644373364350095,
+      "GihWinrate": 56.369620870413264,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b357022c-7cd5-4e82-a183-7144f5a84102.jpg?1767871796"
@@ -3262,43 +2119,25 @@
       "Name": "Taster of Wares",
       "Rarity": "Rare",
       "Cost": "{2}{B}",
-      "GihWinrate": 61.17136659436009,
+      "GihWinrate": 61.50428921568627,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/c/bc0b64b6-8984-431c-8a2f-84402b429e2b.jpg?1767952030"
     },
     {
-      "Name": "Taster of Wares",
-      "Rarity": "Rare",
-      "Cost": "{2}{B}",
-      "GihWinrate": 61.17136659436009,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/a/8a6c2e99-2d4c-455a-a394-55ff32a95142.jpg?1767952694"
-    },
-    {
       "Name": "Temple Garden",
       "Rarity": "Rare",
       "Cost": "",
-      "GihWinrate": 52.46338215712384,
+      "GihWinrate": 53.28112341344855,
       "Expansion": "ECL",
       "CastingCost": "",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6cdd2a74-63b3-4ff2-9c5a-a85dee63c3c9.jpg?1759144838"
     },
     {
-      "Name": "Temple Garden // Temple Garden",
-      "Rarity": "Rare",
-      "Cost": "",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec75b840-420d-4512-a74a-d70f19be0085.jpg?1763522834"
-    },
-    {
       "Name": "Temporal Cleansing",
       "Rarity": "Common",
       "Cost": "{3}{U}",
-      "GihWinrate": 56.33165829145729,
+      "GihWinrate": 55.640487190256195,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50ee7315-ec53-43d2-841e-8ec192b850f1.jpg?1767732550"
@@ -3307,7 +2146,7 @@
       "Name": "Tend the Sprigs",
       "Rarity": "Common",
       "Cost": "{2}{G}",
-      "GihWinrate": 49.01065449010654,
+      "GihWinrate": 49.64173757277205,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/388f6d9d-bb9a-4a3d-93c5-701db194863c.jpg?1767658392"
@@ -3316,7 +2155,7 @@
       "Name": "Thirst for Identity",
       "Rarity": "Uncommon",
       "Cost": "{2}{U}",
-      "GihWinrate": 53.459119496855344,
+      "GihWinrate": 53.089359568868275,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3949f8c-d1c5-45c2-80ed-a57f4f9af86e.jpg?1767957051"
@@ -3325,7 +2164,7 @@
       "Name": "Thoughtweft Charge",
       "Rarity": "Uncommon",
       "Cost": "{1}{G}",
-      "GihWinrate": 56.317689530685925,
+      "GihWinrate": 54.556037675944545,
       "Expansion": "ECL",
       "CastingCost": "{1}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/9/19cfc015-b6d5-4918-99a7-990209e77441.jpg?1767872036"
@@ -3334,7 +2173,7 @@
       "Name": "Thoughtweft Imbuer",
       "Rarity": "Uncommon",
       "Cost": "{3}{W}",
-      "GihWinrate": 60.35605731654364,
+      "GihWinrate": 58.84306894596128,
       "Expansion": "ECL",
       "CastingCost": "{3}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7e585a6c-2d95-450e-98cb-8794d7d8ecca.jpg?1767871768"
@@ -3343,25 +2182,16 @@
       "Name": "Thoughtweft Lieutenant",
       "Rarity": "Uncommon",
       "Cost": "{G}{W}",
-      "GihWinrate": 59.31372549019608,
+      "GihWinrate": 58.9765100671141,
       "Expansion": "ECL",
       "CastingCost": "{G}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/c/2c54ec67-9317-455e-a045-fa4ed9cb676f.jpg?1767658549"
     },
     {
-      "Name": "Thoughtweft Lieutenant",
-      "Rarity": "Uncommon",
-      "Cost": "{G}{W}",
-      "GihWinrate": 59.31372549019608,
-      "Expansion": "ECL",
-      "CastingCost": "{G}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/e/fea71783-1ac5-483b-8a91-1ba45af4ea3c.jpg?1767660993"
-    },
-    {
       "Name": "Timid Shieldbearer",
       "Rarity": "Common",
       "Cost": "{1}{W}",
-      "GihWinrate": 54.88903184303635,
+      "GihWinrate": 55.16295025728988,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/c/1c672d38-a1a6-4912-a9a6-b11e7bf0cc67.jpg?1767956979"
@@ -3370,7 +2200,7 @@
       "Name": "Tributary Vaulter",
       "Rarity": "Common",
       "Cost": "{2}{W}",
-      "GihWinrate": 56.25500133368898,
+      "GihWinrate": 54.86487761165873,
       "Expansion": "ECL",
       "CastingCost": "{2}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/a/1/a1db2c83-41d1-4cc6-b9a3-fed504b01127.jpg?1767871741"
@@ -3379,43 +2209,25 @@
       "Name": "Trystan's Command",
       "Rarity": "Rare",
       "Cost": "{4}{B}{G}",
-      "GihWinrate": 65.12455516014235,
+      "GihWinrate": 63.599946588329544,
       "Expansion": "ECL",
       "CastingCost": "{4}{B}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/ba1d99ca-740a-481a-be89-615e40d56d06.jpg?1767952293"
     },
     {
-      "Name": "Trystan's Command",
-      "Rarity": "Rare",
-      "Cost": "{4}{B}{G}",
-      "GihWinrate": 65.12455516014235,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/e/aefed846-e367-4940-842f-b504c71d0a53.jpg?1767957372"
-    },
-    {
-      "Name": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
+      "Name": "Trystan, Callous Cultivator",
       "Rarity": "Rare",
       "Cost": "{2}{G}",
-      "GihWinrate": null,
+      "GihWinrate": 60.64374542794441,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/0/2094f9b6-ce84-47d9-8819-81db14ba483f.jpg?1767658448"
     },
     {
-      "Name": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
-      "Rarity": "Rare",
-      "Cost": "{2}{G}",
-      "GihWinrate": null,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/4086c9a8-f9bf-4359-a67a-9f7b45528ccf.jpg?1767657703"
-    },
-    {
       "Name": "Tweeze",
       "Rarity": "Common",
       "Cost": "{2}{R}",
-      "GihWinrate": 54.791035735917625,
+      "GihWinrate": 54.46587822078314,
       "Expansion": "ECL",
       "CastingCost": "{2}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3ceab0e6-1bb8-487d-ab4b-2da8457b970a.jpg?1767873738"
@@ -3424,43 +2236,25 @@
       "Name": "Twilight Diviner",
       "Rarity": "Rare",
       "Cost": "{2}{B}",
-      "GihWinrate": 59.395973154362416,
+      "GihWinrate": 56.07287449392713,
       "Expansion": "ECL",
       "CastingCost": "{2}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/4/443b6f30-1493-4d48-93d9-a91e22a7ebb3.jpg?1767952037"
     },
     {
-      "Name": "Twilight Diviner",
-      "Rarity": "Rare",
-      "Cost": "{2}{B}",
-      "GihWinrate": 59.395973154362416,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/40e615a7-93a9-4753-a96c-a18237ab240b.jpg?1767952573"
-    },
-    {
       "Name": "Twinflame Travelers",
       "Rarity": "Uncommon",
       "Cost": "{2}{U}{R}",
-      "GihWinrate": 59.600126943827355,
+      "GihWinrate": 58.14698492462311,
       "Expansion": "ECL",
       "CastingCost": "{2}{U}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/5/f/5fc9f409-3aef-4403-bf17-6e9a72ecfada.jpg?1767957280"
     },
     {
-      "Name": "Twinflame Travelers",
-      "Rarity": "Uncommon",
-      "Cost": "{2}{U}{R}",
-      "GihWinrate": 59.600126943827355,
-      "Expansion": "ECL",
-      "CastingCost": "{2}{U}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/4/a422ae59-abb6-423d-8400-670196560920.jpg?1767957463"
-    },
-    {
       "Name": "Unbury",
       "Rarity": "Uncommon",
       "Cost": "{1}{B}",
-      "GihWinrate": 55.31990102509721,
+      "GihWinrate": 55.60099313567986,
       "Expansion": "ECL",
       "CastingCost": "{1}{B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/0/b00766db-4109-4225-a62a-fa12fd526970.jpg?1767871924"
@@ -3469,7 +2263,7 @@
       "Name": "Unexpected Assistance",
       "Rarity": "Common",
       "Cost": "{3}{U}{U}",
-      "GihWinrate": 55.473907086810314,
+      "GihWinrate": 55.783020417100005,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/7/b/7b540a5f-7f1b-421a-864f-5af469556fc6.jpg?1765451670"
@@ -3478,7 +2272,7 @@
       "Name": "Unforgiving Aim",
       "Rarity": "Common",
       "Cost": "{2}{G}",
-      "GihWinrate": 51.221122112211226,
+      "GihWinrate": 51.411551411551415,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/b/0bef3905-24f8-419b-aeca-396adfc6d0dc.jpg?1767872046"
@@ -3487,7 +2281,7 @@
       "Name": "Unwelcome Sprite",
       "Rarity": "Uncommon",
       "Cost": "{1}{U}",
-      "GihWinrate": 57.2203196347032,
+      "GihWinrate": 56.42242470260693,
       "Expansion": "ECL",
       "CastingCost": "{1}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/902f8d86-fde2-4cdf-88f0-bf63d616f3af.jpg?1767732556"
@@ -3496,25 +2290,16 @@
       "Name": "Vibrance",
       "Rarity": "Mythic",
       "Cost": "{3}{R/G}{R/G}",
-      "GihWinrate": 62.485746864310144,
+      "GihWinrate": 61.40824337585868,
       "Expansion": "ECL",
       "CastingCost": "{3}{R/G}{R/G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/b/9/b9f71c3b-0840-475f-9c17-fdacbc7f3213.jpg?1767658560"
     },
     {
-      "Name": "Vibrance",
-      "Rarity": "Mythic",
-      "Cost": "{3}{R/G}{R/G}",
-      "GihWinrate": 62.485746864310144,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{R/G}{R/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/a/ea49c01f-3f32-4c66-893c-56931e0e8981.jpg?1767657794"
-    },
-    {
       "Name": "Vinebred Brawler",
       "Rarity": "Uncommon",
       "Cost": "{2}{G}",
-      "GihWinrate": 58.20132856412877,
+      "GihWinrate": 56.68837055963076,
       "Expansion": "ECL",
       "CastingCost": "{2}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/6/3/63c573fe-e74c-48ca-ad05-92f37dc466f1.jpg?1767658495"
@@ -3523,25 +2308,16 @@
       "Name": "Virulent Emissary",
       "Rarity": "Uncommon",
       "Cost": "{G}",
-      "GihWinrate": 59.79307884409562,
+      "GihWinrate": 58.71570995108056,
       "Expansion": "ECL",
       "CastingCost": "{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/0702efed-915e-466a-96bb-ac09af06b21e.jpg?1767658502"
     },
     {
-      "Name": "Virulent Emissary",
-      "Rarity": "Uncommon",
-      "Cost": "{G}",
-      "GihWinrate": 59.79307884409562,
-      "Expansion": "ECL",
-      "CastingCost": "{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/0/6044d540-70ff-4ce3-9a26-4164e7543baa.jpg?1767660033"
-    },
-    {
       "Name": "Voracious Tome-Skimmer",
       "Rarity": "Uncommon",
       "Cost": "{U/B}{U/B}{U/B}",
-      "GihWinrate": 54.483611626468765,
+      "GihWinrate": 53.42695771637918,
       "Expansion": "ECL",
       "CastingCost": "{U/B}{U/B}{U/B}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1a696fe5-410c-4699-b1d1-1a9c771d664a.jpg?1767658586"
@@ -3550,7 +2326,7 @@
       "Name": "Wanderbrine Preacher",
       "Rarity": "Common",
       "Cost": "{1}{W}",
-      "GihWinrate": 56.56580937972768,
+      "GihWinrate": 55.50618358088373,
       "Expansion": "ECL",
       "CastingCost": "{1}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/3/f/3fc3f5f2-5a83-4358-8f23-42f26f345140.jpg?1767732504"
@@ -3559,7 +2335,7 @@
       "Name": "Wanderbrine Trapper",
       "Rarity": "Uncommon",
       "Cost": "{W}",
-      "GihWinrate": 59.83356449375867,
+      "GihWinrate": 59.41938416089081,
       "Expansion": "ECL",
       "CastingCost": "{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f4c134ed-adbf-4e88-80e0-75c176ce94c3.jpg?1767956997"
@@ -3568,7 +2344,7 @@
       "Name": "Wanderwine Distracter",
       "Rarity": "Common",
       "Cost": "{3}{U}",
-      "GihWinrate": 53.41488277268094,
+      "GihWinrate": 51.71116504854369,
       "Expansion": "ECL",
       "CastingCost": "{3}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cbf593a7-d4ae-4771-926a-3c1b2c8c901a.jpg?1767732580"
@@ -3577,7 +2353,7 @@
       "Name": "Wanderwine Farewell",
       "Rarity": "Uncommon",
       "Cost": "{5}{U}{U}",
-      "GihWinrate": 56.04321404456448,
+      "GihWinrate": 56.56326405867971,
       "Expansion": "ECL",
       "CastingCost": "{5}{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/473123a0-1366-406b-9b9e-154c0e9c224f.jpg?1767659604"
@@ -3586,7 +2362,7 @@
       "Name": "Warren Torchmaster",
       "Rarity": "Uncommon",
       "Cost": "{1}{R}",
-      "GihWinrate": 49.82728842832469,
+      "GihWinrate": 50.93694755450795,
       "Expansion": "ECL",
       "CastingCost": "{1}{R}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8f067a14-6667-4acf-b33d-e1149188a84d.jpg?1767732778"
@@ -3595,7 +2371,7 @@
       "Name": "Wary Farmer",
       "Rarity": "Common",
       "Cost": "{1}{G/W}{G/W}",
-      "GihWinrate": 56.69800235017627,
+      "GihWinrate": 55.50948519429054,
       "Expansion": "ECL",
       "CastingCost": "{1}{G/W}{G/W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/22d20c0d-176d-49c9-aa0b-2c5778548cc5.jpg?1767749680"
@@ -3604,7 +2380,7 @@
       "Name": "Wild Unraveling",
       "Rarity": "Common",
       "Cost": "{U}{U}",
-      "GihWinrate": 53.360768175583,
+      "GihWinrate": 53.401736385161804,
       "Expansion": "ECL",
       "CastingCost": "{U}{U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/0/1/01522fec-9136-4fa6-91a3-370a8bb08b42.jpg?1767871807"
@@ -3613,7 +2389,7 @@
       "Name": "Wildvine Pummeler",
       "Rarity": "Common",
       "Cost": "{6}{G}",
-      "GihWinrate": 53.501750875437715,
+      "GihWinrate": 52.721973560945145,
       "Expansion": "ECL",
       "CastingCost": "{6}{G}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/11bad5c7-fe9a-4d89-a531-8d4f03d5a0e4.jpg?1767957300"
@@ -3622,55 +2398,19 @@
       "Name": "Winnowing",
       "Rarity": "Rare",
       "Cost": "{4}{W}{W}",
-      "GihWinrate": 52.93333333333333,
+      "GihWinrate": 53.13743495561677,
       "Expansion": "ECL",
       "CastingCost": "{4}{W}{W}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/f/9/f943a7d8-9550-427e-8c45-ef834329d345.jpg?1767659128"
     },
     {
-      "Name": "Winnowing",
-      "Rarity": "Rare",
-      "Cost": "{4}{W}{W}",
-      "GihWinrate": 52.93333333333333,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/e/6e434b0d-d438-432c-9684-5d3edf30790a.jpg?1767659801"
-    },
-    {
-      "Name": "Winnowing",
-      "Rarity": "Mythic",
-      "Cost": "{4}{W}{W}",
-      "GihWinrate": 52.93333333333333,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/9003e4f9-273f-4754-beaa-cd770c674a2b.jpg?1767661047"
-    },
-    {
-      "Name": "Winnowing",
-      "Rarity": "Mythic",
-      "Cost": "{4}{W}{W}",
-      "GihWinrate": 52.93333333333333,
-      "Expansion": "ECL",
-      "CastingCost": "{4}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/3/1384b7c7-81fe-4444-89a2-94c9de51df6a.jpg?1767873821"
-    },
-    {
       "Name": "Wistfulness",
       "Rarity": "Mythic",
       "Cost": "{3}{G/U}{G/U}",
-      "GihWinrate": 61.875761266747865,
+      "GihWinrate": 60.90564248458985,
       "Expansion": "ECL",
       "CastingCost": "{3}{G/U}{G/U}",
       "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db9aa986-ac2a-44bb-a88b-04c5d0d502b2.jpg?1767749668"
-    },
-    {
-      "Name": "Wistfulness",
-      "Rarity": "Mythic",
-      "Cost": "{3}{G/U}{G/U}",
-      "GihWinrate": 61.875761266747865,
-      "Expansion": "ECL",
-      "CastingCost": "{3}{G/U}{G/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/280eb666-e918-4640-9c43-19bc71af06b6.jpg?1767866211"
     }
   ]
 }

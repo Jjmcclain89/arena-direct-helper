@@ -5,7 +5,7 @@ export const DecklistInput = ({ decklistInput, onDecklistChange, onLoadCards }) 
     <div className="min-h-screen p-8 flex items-center justify-center">
       <div className="flex flex-col items-center gap-6 max-w-2xl w-full">
         <h1 className="text-4xl font-bold text-white mb-2">MTG Arena Sealed Pool Helper</h1>
-        <p className="text-xl text-gray-400">Paste your decklist below</p>
+        <p className="text-xl text-gray-400">Paste your sealed pool below</p>
         <textarea
           className="w-full min-h-[400px] p-4 bg-gray-900 border-2 border-gray-700 rounded-lg text-gray-100 font-mono text-sm resize-y focus:outline-none focus:border-blue-500"
           value={decklistInput}

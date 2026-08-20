@@ -19,7 +19,7 @@ import argparse
 SET_CODE = "HOB"
 OUTPUT_FILE = "src/data/hob-data.json"
 SCRYFALL_API = "https://api.scryfall.com"
-SEVENTEEN_LANDS_API = "https://www.17lands.com/card_ratings/data"
+SEVENTEEN_LANDS_API = "https://www.17lands.com/api/card_data"
 REQUEST_HEADERS = {
     'User-Agent': 'arena-direct-helper/1.0',
     'Accept': 'application/json'
@@ -67,7 +67,7 @@ def fetch_17lands_data(set_code, start_date, end_date):
         print(f"Error fetching from 17Lands: {response.status_code}")
         return {}
 
-    data = response.json()
+    data = response.json().get('data', [])
 
     # Create a map of card name to winrate
     winrate_map = {}

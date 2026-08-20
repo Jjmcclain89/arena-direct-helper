@@ -19,7 +19,11 @@ import argparse
 SET_CODE = "ECL"
 OUTPUT_FILE = "src/data/ecl-data.json"
 SCRYFALL_API = "https://api.scryfall.com"
-SEVENTEEN_LANDS_API = "https://www.17lands.com/card_ratings/data"
+SEVENTEEN_LANDS_API = "https://www.17lands.com/api/card_data"
+REQUEST_HEADERS = {
+    'User-Agent': 'arena-direct-helper/1.0',
+    'Accept': 'application/json'
+}
 
 def fetch_scryfall_cards(set_code):
     """Fetch all cards from a set using Scryfall API with pagination."""
@@ -29,7 +33,7 @@ def fetch_scryfall_cards(set_code):
     url = f"{SCRYFALL_API}/cards/search?q=set:{set_code}&unique=prints"
 
     while url:
-        response = requests.get(url)
+        response = requests.get(url, headers=REQUEST_HEADERS)
         if response.status_code != 200:
             print(f"Error fetching from Scryfall: {response.status_code}")
             return []
@@ -58,12 +62,12 @@ def fetch_17lands_data(set_code, start_date, end_date):
         'end_date': end_date
     }
 
-    response = requests.get(SEVENTEEN_LANDS_API, params=params)
+    response = requests.get(SEVENTEEN_LANDS_API, params=params, headers=REQUEST_HEADERS)
     if response.status_code != 200:
         print(f"Error fetching from 17Lands: {response.status_code}")
         return {}
 
-    data = response.json()
+    data = response.json().get('data', [])
 
     # Create a map of card name to winrate
     winrate_map = {}

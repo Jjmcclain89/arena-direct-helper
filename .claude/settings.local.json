@@ -12,7 +12,10 @@
       "Bash(pip show *)",
       "Bash(python -c ' *)",
       "Bash(python fetch-hob-data.py)",
-      "Bash(node -e \"const d=require\\('./src/data/hob-data.json'\\); console.log\\(d.cards.length, d.cards[0]\\);\")"
+      "Bash(node -e \"const d=require\\('./src/data/hob-data.json'\\); console.log\\(d.cards.length, d.cards[0]\\);\")",
+      "Bash(git status *)",
+      "Bash(git check-ignore *)",
+      "Bash(git fetch *)"
     ]
   }
 }

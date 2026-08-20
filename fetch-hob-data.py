@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Fetch ECL (Eclipsion) card data from Scryfall and 17Lands APIs.
-Generates ecl-data.json with card information and winrate statistics.
+Fetch HOB (The Hobbit) card data from Scryfall and 17Lands APIs.
+Generates hob-data.json with card information and winrate statistics.
 
 Usage:
-    python fetch-ecl-data.py [--start-date YYYY-MM-DD] [--end-date YYYY-MM-DD]
+    python fetch-hob-data.py [--start-date YYYY-MM-DD] [--end-date YYYY-MM-DD]
 
 If dates are not provided, uses all available data up to today.
 """
@@ -16,10 +16,14 @@ from datetime import datetime, timedelta
 import argparse
 
 # Configuration
-SET_CODE = "ECL"
-OUTPUT_FILE = "src/data/ecl-data.json"
+SET_CODE = "HOB"
+OUTPUT_FILE = "src/data/hob-data.json"
 SCRYFALL_API = "https://api.scryfall.com"
 SEVENTEEN_LANDS_API = "https://www.17lands.com/card_ratings/data"
+REQUEST_HEADERS = {
+    'User-Agent': 'arena-direct-helper/1.0',
+    'Accept': 'application/json'
+}
 
 def fetch_scryfall_cards(set_code):
     """Fetch all cards from a set using Scryfall API with pagination."""
@@ -29,7 +33,7 @@ def fetch_scryfall_cards(set_code):
     url = f"{SCRYFALL_API}/cards/search?q=set:{set_code}&unique=prints"
 
     while url:
-        response = requests.get(url)
+        response = requests.get(url, headers=REQUEST_HEADERS)
         if response.status_code != 200:
             print(f"Error fetching from Scryfall: {response.status_code}")
             return []
@@ -58,7 +62,7 @@ def fetch_17lands_data(set_code, start_date, end_date):
         'end_date': end_date
     }
 
-    response = requests.get(SEVENTEEN_LANDS_API, params=params)
+    response = requests.get(SEVENTEEN_LANDS_API, params=params, headers=REQUEST_HEADERS)
     if response.status_code != 200:
         print(f"Error fetching from 17Lands: {response.status_code}")
         return {}
@@ -154,7 +158,7 @@ def merge_data(scryfall_cards, winrate_map):
     return cards
 
 def main():
-    parser = argparse.ArgumentParser(description='Fetch ECL card data')
+    parser = argparse.ArgumentParser(description='Fetch HOB card data')
     parser.add_argument('--start-date', type=str,
                        help='Start date for 17Lands data (YYYY-MM-DD)')
     parser.add_argument('--end-date', type=str,
@@ -174,7 +178,7 @@ def main():
         # Use a date far in the past to get all available data
         start_date = (datetime.now() - timedelta(days=365)).strftime('%Y-%m-%d')
 
-    print(f"Fetching ECL data for date range: {start_date} to {end_date}")
+    print(f"Fetching HOB data for date range: {start_date} to {end_date}")
 
     # Fetch data from both sources
     scryfall_cards = fetch_scryfall_cards(SET_CODE)

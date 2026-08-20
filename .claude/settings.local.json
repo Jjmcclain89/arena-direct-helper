@@ -8,7 +8,11 @@
       "Bash(taskkill:*)",
       "Bash(python fetch-ecl-data.py:*)",
       "Bash(python -m json.tool:*)",
-      "Bash(python -c:*)"
+      "Bash(python -c:*)",
+      "Bash(pip show *)",
+      "Bash(python -c ' *)",
+      "Bash(python fetch-hob-data.py)",
+      "Bash(node -e \"const d=require\\('./src/data/hob-data.json'\\); console.log\\(d.cards.length, d.cards[0]\\);\")"
     ]
   }
 }

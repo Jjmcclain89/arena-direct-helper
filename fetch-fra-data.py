@@ -111,6 +111,7 @@ def merge_data(scryfall_cards, winrate_map):
 
     cards = []
     seen_names = set()  # Track unique card names
+    arena_ids = {}  # Card name -> Arena IDs of every printing (showcase, borderless, etc.)
 
     for card in scryfall_cards:
         # Get the card name - for double-faced cards, use the front face name
@@ -118,6 +119,9 @@ def merge_data(scryfall_cards, winrate_map):
             name = card['card_faces'][0]['name']
         else:
             name = card['name']
+
+        if card.get('arena_id') is not None:
+            arena_ids.setdefault(name, set()).add(card['arena_id'])
 
         # Skip if we've already seen this card name
         if name in seen_names:
@@ -147,6 +151,9 @@ def merge_data(scryfall_cards, winrate_map):
 
         cards.append(card_data)
         seen_names.add(name)
+
+    for card_data in cards:
+        card_data['ArenaIds'] = sorted(arena_ids.get(card_data['Name'], []))
 
     # Sort by name
     cards.sort(key=lambda x: x['Name'])

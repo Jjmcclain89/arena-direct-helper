@@ -7,7 +7,10 @@
       "GihWinrate": 52.615303000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/730d8c28-1e58-4b8e-89e9-445d154d2e83.jpg?1788878081"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/730d8c28-1e58-4b8e-89e9-445d154d2e83.jpg?1788878081",
+      "ArenaIds": [
+        106226
+      ]
     },
     {
       "Name": "Aerid Konstrari",
@@ -16,7 +19,10 @@
       "GihWinrate": 64.067954,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199",
+      "ArenaIds": [
+        106356
+      ]
     },
     {
       "Name": "Afterthought Sentry",
@@ -25,7 +31,10 @@
       "GihWinrate": 52.816711000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.jpg?1789385875"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.jpg?1789385875",
+      "ArenaIds": [
+        106411
+      ]
     },
     {
       "Name": "Ajani Resolute",
@@ -34,7 +43,10 @@
       "GihWinrate": 52.578528000000006,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1788329189"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1788329189",
+      "ArenaIds": [
+        106440
+      ]
     },
     {
       "Name": "Ajani Unrelenting",
@@ -43,7 +55,10 @@
       "GihWinrate": 73.174617,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1788329317"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1788329317",
+      "ArenaIds": [
+        106487
+      ]
     },
     {
       "Name": "Ajani's Anguish",
@@ -52,7 +67,10 @@
       "GihWinrate": 56.231666999999995,
       "Expansion": "FRA",
       "CastingCost": "{X}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674",
+      "ArenaIds": [
+        106302
+      ]
     },
     {
       "Name": "Apex Witchstalker",
@@ -61,7 +79,10 @@
       "GihWinrate": 55.319018,
       "Expansion": "FRA",
       "CastingCost": "{4}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/d/cd56f047-6bdc-4e83-8a7c-923ebad26302.jpg?1789556710"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/d/cd56f047-6bdc-4e83-8a7c-923ebad26302.jpg?1789556710",
+      "ArenaIds": [
+        106276
+      ]
     },
     {
       "Name": "Arcane Amphisbaena",
@@ -70,7 +91,10 @@
       "GihWinrate": 55.542548000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/b/1bf923c4-f0b7-4271-978c-fd2e79fe1cc8.jpg?1788878190"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/b/1bf923c4-f0b7-4271-978c-fd2e79fe1cc8.jpg?1788878190",
+      "ArenaIds": [
+        106330
+      ]
     },
     {
       "Name": "Archive Arbiter",
@@ -79,7 +103,10 @@
       "GihWinrate": 55.856792,
       "Expansion": "FRA",
       "CastingCost": "{6}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789614867"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789614867",
+      "ArenaIds": [
+        106412
+      ]
     },
     {
       "Name": "Arni, Humble Scribe",
@@ -88,7 +115,10 @@
       "GihWinrate": 54.360748,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789568409"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789568409",
+      "ArenaIds": [
+        106456
+      ]
     },
     {
       "Name": "Arni, Renowned Champion",
@@ -97,7 +127,10 @@
       "GihWinrate": 46.488294,
       "Expansion": "FRA",
       "CastingCost": "{3}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd8db649-1dba-457d-8327-e1f1da1aab36.jpg?1789557035"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd8db649-1dba-457d-8327-e1f1da1aab36.jpg?1789557035",
+      "ArenaIds": [
+        106488
+      ]
     },
     {
       "Name": "Artifist Acumen",
@@ -106,7 +139,10 @@
       "GihWinrate": 49.023830000000004,
       "Expansion": "FRA",
       "CastingCost": "{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d3b720d-f27c-462a-8f80-15748e5086e1.jpg?1789729762"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d3b720d-f27c-462a-8f80-15748e5086e1.jpg?1789729762",
+      "ArenaIds": [
+        106303
+      ]
     },
     {
       "Name": "Avatar of Burgeoning Echoes",
@@ -115,7 +151,10 @@
       "GihWinrate": 59.810207999999996,
       "Expansion": "FRA",
       "CastingCost": "{G}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/9/5905995b-7a20-4602-a7cc-90aa5089a082.jpg?1788878208"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/9/5905995b-7a20-4602-a7cc-90aa5089a082.jpg?1788878208",
+      "ArenaIds": [
+        106357
+      ]
     },
     {
       "Name": "Awaken the Inferno",
@@ -124,7 +163,10 @@
       "GihWinrate": 55.831992,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/5/c596c4ec-8480-4be9-a45d-700398a126f6.jpg?1789556812"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/5/c596c4ec-8480-4be9-a45d-700398a126f6.jpg?1789556812",
+      "ArenaIds": [
+        106304
+      ]
     },
     {
       "Name": "Bestial Incursion",
@@ -133,7 +175,10 @@
       "GihWinrate": 56.168362,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/0/e0de5f66-f0df-4866-9f73-104ce50411b4.jpg?1789127248"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/0/e0de5f66-f0df-4866-9f73-104ce50411b4.jpg?1789127248",
+      "ArenaIds": [
+        106331
+      ]
     },
     {
       "Name": "Blazing Crescendo",
@@ -142,7 +187,10 @@
       "GihWinrate": 52.041224,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/8414a98c-0c79-4884-bc9b-061a6456b392.jpg?1789060147"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/8414a98c-0c79-4884-bc9b-061a6456b392.jpg?1789060147",
+      "ArenaIds": [
+        106305
+      ]
     },
     {
       "Name": "Blessed Ghoul",
@@ -151,7 +199,10 @@
       "GihWinrate": 54.040724,
       "Expansion": "FRA",
       "CastingCost": "{W/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/b/bb975803-9bf2-401e-9414-d272df314398.jpg?1789556847"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/b/bb975803-9bf2-401e-9414-d272df314398.jpg?1789556847",
+      "ArenaIds": [
+        106358
+      ]
     },
     {
       "Name": "Bloodline Recollector",
@@ -160,7 +211,10 @@
       "GihWinrate": 51.415718,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4fcc913e-f736-460a-b24b-022fa2e861b9.jpg?1788329264"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4fcc913e-f736-460a-b24b-022fa2e861b9.jpg?1788329264",
+      "ArenaIds": [
+        106277
+      ]
     },
     {
       "Name": "Bloombrute",
@@ -169,7 +223,10 @@
       "GihWinrate": 57.336723,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b804503-9c70-4b1f-bb13-a65fb6dd3ef8.jpg?1789644843"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b804503-9c70-4b1f-bb13-a65fb6dd3ef8.jpg?1789644843",
+      "ArenaIds": [
+        106359
+      ]
     },
     {
       "Name": "Blossom-Blessed Angel",
@@ -178,7 +235,10 @@
       "GihWinrate": 55.878362,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e77fbf0-9d1f-4e7d-a02e-43065d11b0d9.jpg?1789692643"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/e/5e77fbf0-9d1f-4e7d-a02e-43065d11b0d9.jpg?1789692643",
+      "ArenaIds": [
+        106227
+      ]
     },
     {
       "Name": "Break Under Pressure",
@@ -187,7 +247,10 @@
       "GihWinrate": 59.489083,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789385622"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789385622",
+      "ArenaIds": [
+        106279
+      ]
     },
     {
       "Name": "Budding Insurgent",
@@ -196,7 +259,10 @@
       "GihWinrate": 50.721824000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/8/18c59d60-2640-4576-9375-3ba38aa3ecb7.jpg?1789127120"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/8/18c59d60-2640-4576-9375-3ba38aa3ecb7.jpg?1789127120",
+      "ArenaIds": [
+        106332
+      ]
     },
     {
       "Name": "Campus Crier",
@@ -205,7 +271,10 @@
       "GihWinrate": 55.615104,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/0/6047b14c-91d5-4f8e-af3f-057a541e2546.jpg?1788878120"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/0/6047b14c-91d5-4f8e-af3f-057a541e2546.jpg?1788878120",
+      "ArenaIds": [
+        106229
+      ]
     },
     {
       "Name": "Carnivorous Cultivator",
@@ -214,7 +283,10 @@
       "GihWinrate": 58.585801000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/9/79dd5c54-5ea5-47b5-8f9b-50ed57a5ea45.jpg?1789385967"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/9/79dd5c54-5ea5-47b5-8f9b-50ed57a5ea45.jpg?1789385967",
+      "ArenaIds": [
+        106333
+      ]
     },
     {
       "Name": "Cast Away Doubt",
@@ -223,7 +295,10 @@
       "GihWinrate": 52.906673000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b5b28a4-0abd-4dc2-9856-c9a8d27f6a2d.jpg?1788353191"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b5b28a4-0abd-4dc2-9856-c9a8d27f6a2d.jpg?1788353191",
+      "ArenaIds": [
+        106280
+      ]
     },
     {
       "Name": "Chandra's Emberling",
@@ -232,7 +307,10 @@
       "GihWinrate": 51.720892,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789385708"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789385708",
+      "ArenaIds": [
+        106306
+      ]
     },
     {
       "Name": "Chandra, Chill of Compliance",
@@ -241,7 +319,10 @@
       "GihWinrate": 58.766859000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/240f58ab-944c-4f4c-9df9-5f40b132bf3e.jpg?1788329242"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/4/240f58ab-944c-4f4c-9df9-5f40b132bf3e.jpg?1788329242",
+      "ArenaIds": [
+        106457
+      ]
     },
     {
       "Name": "Chandra, Torch of Defiance",
@@ -250,7 +331,10 @@
       "GihWinrate": 59.842707,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/40cb22c8-cb03-45c9-bb0e-b8cabdcc43cd.jpg?1788329325"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/0/40cb22c8-cb03-45c9-bb0e-b8cabdcc43cd.jpg?1788329325",
+      "ArenaIds": [
+        106489
+      ]
     },
     {
       "Name": "Charge the Sanctum",
@@ -259,7 +343,10 @@
       "GihWinrate": 50.704871,
       "Expansion": "FRA",
       "CastingCost": "{2}{R/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/87b40df5-5c0a-41f5-a09c-a04f17066a91.jpg?1788521570"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/7/87b40df5-5c0a-41f5-a09c-a04f17066a91.jpg?1788521570",
+      "ArenaIds": [
+        106360
+      ]
     },
     {
       "Name": "Clash of Elements",
@@ -268,7 +355,10 @@
       "GihWinrate": 58.232244,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b61bcef7-5832-45e6-a2bc-26d4f23707fc.jpg?1788878210"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b61bcef7-5832-45e6-a2bc-26d4f23707fc.jpg?1788878210",
+      "ArenaIds": [
+        106361
+      ]
     },
     {
       "Name": "Codie, Ravenous Codex",
@@ -277,7 +367,10 @@
       "GihWinrate": 46.484375,
       "Expansion": "FRA",
       "CastingCost": "{3}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3192390-1518-49fc-8716-f2c7a0384f39.jpg?1789646811"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3192390-1518-49fc-8716-f2c7a0384f39.jpg?1789646811",
+      "ArenaIds": [
+        106413
+      ]
     },
     {
       "Name": "Command the Stage",
@@ -286,7 +379,10 @@
       "GihWinrate": 49.737127,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/3/f3307da2-6dad-4ef2-9614-a7d34f38088e.jpg?1789644825"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/3/f3307da2-6dad-4ef2-9614-a7d34f38088e.jpg?1789644825",
+      "ArenaIds": [
+        106307
+      ]
     },
     {
       "Name": "Compel Brutality",
@@ -295,7 +391,10 @@
       "GihWinrate": 54.522096,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd32d736-7a58-46b9-90b4-2cac3c3e80a1.jpg?1788521235"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/d/bd32d736-7a58-46b9-90b4-2cac3c3e80a1.jpg?1788521235",
+      "ArenaIds": [
+        106335
+      ]
     },
     {
       "Name": "Countersculpt",
@@ -304,7 +403,10 @@
       "GihWinrate": 59.569896,
       "Expansion": "FRA",
       "CastingCost": "{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/145b928d-a7ff-4fe5-ae4d-bbae7b1d955b.jpg?1793032893"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/4/145b928d-a7ff-4fe5-ae4d-bbae7b1d955b.jpg?1793032893",
+      "ArenaIds": [
+        106250
+      ]
     },
     {
       "Name": "Craftwork Crusher",
@@ -313,7 +415,10 @@
       "GihWinrate": 61.907545,
       "Expansion": "FRA",
       "CastingCost": "{3}{R}{R}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/3/03f9839c-aa07-4ee7-847b-091e47ab80c4.jpg?1789470711"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/3/03f9839c-aa07-4ee7-847b-091e47ab80c4.jpg?1789470711",
+      "ArenaIds": [
+        106362
+      ]
     },
     {
       "Name": "Craterclaw Colossus",
@@ -322,7 +427,10 @@
       "GihWinrate": 56.76313,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47793a51-08c6-4ad2-a7e5-a4484d83a5cd.jpg?1788329298"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47793a51-08c6-4ad2-a7e5-a4484d83a5cd.jpg?1788329298",
+      "ArenaIds": [
+        106308
+      ]
     },
     {
       "Name": "Cruel Calculations",
@@ -331,7 +439,10 @@
       "GihWinrate": 49.740933,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f76c4d8e-3e1f-4264-99af-1b8adb9a06be.jpg?1789127482"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f76c4d8e-3e1f-4264-99af-1b8adb9a06be.jpg?1789127482",
+      "ArenaIds": [
+        106251
+      ]
     },
     {
       "Name": "Cryotheory Adept",
@@ -340,7 +451,10 @@
       "GihWinrate": 53.022774,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/b/9ba1f7ce-3404-4932-9795-22967707f762.jpg?1789556701"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/b/9ba1f7ce-3404-4932-9795-22967707f762.jpg?1789556701",
+      "ArenaIds": [
+        106252
+      ]
     },
     {
       "Name": "Curse-Marred Demon",
@@ -349,7 +463,10 @@
       "GihWinrate": 56.266254,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8f827e50-0a08-4bc8-98b1-b26c9af15ef2.jpg?1789470818"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/f/8f827e50-0a08-4bc8-98b1-b26c9af15ef2.jpg?1789470818",
+      "ArenaIds": [
+        106309
+      ]
     },
     {
       "Name": "Danitha, Spear of Agony",
@@ -358,7 +475,10 @@
       "GihWinrate": 50.359396000000004,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/6489814b-3d10-423e-988c-324740d36748.jpg?1789127194"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/6489814b-3d10-423e-988c-324740d36748.jpg?1789127194",
+      "ArenaIds": [
+        106472
+      ]
     },
     {
       "Name": "Danitha, Sword of Hope",
@@ -367,7 +487,10 @@
       "GihWinrate": 51.774796,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/5/d5cb9810-3c2d-4ae4-b8b6-0155ca3f47ad.jpg?1789127178"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/5/d5cb9810-3c2d-4ae4-b8b6-0155ca3f47ad.jpg?1789127178",
+      "ArenaIds": [
+        106441
+      ]
     },
     {
       "Name": "Dark Matter Manipulator",
@@ -376,7 +499,10 @@
       "GihWinrate": 57.166786,
       "Expansion": "FRA",
       "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959",
+      "ArenaIds": [
+        106281
+      ]
     },
     {
       "Name": "Darklight Phoenix",
@@ -385,7 +511,10 @@
       "GihWinrate": 52.979556,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810",
+      "ArenaIds": [
+        106282
+      ]
     },
     {
       "Name": "Dedicated Commons",
@@ -394,7 +523,10 @@
       "GihWinrate": 52.690882,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/3223e5db-5cc4-42f9-ae9e-ff58abc7c390.jpg?1789556950"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/3223e5db-5cc4-42f9-ae9e-ff58abc7c390.jpg?1789556950",
+      "ArenaIds": [
+        106420
+      ]
     },
     {
       "Name": "Denzilore Fatehold",
@@ -403,7 +535,10 @@
       "GihWinrate": 61.561959,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215",
+      "ArenaIds": [
+        106363
+      ]
     },
     {
       "Name": "Deserted Beach",
@@ -412,7 +547,10 @@
       "GihWinrate": 55.19936800000001,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/6/56dae4c4-3e71-4a32-979b-4e26d9c9e96c.jpg?1788878239"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/6/56dae4c4-3e71-4a32-979b-4e26d9c9e96c.jpg?1788878239",
+      "ArenaIds": [
+        106421
+      ]
     },
     {
       "Name": "Desperate Futurescribe",
@@ -421,7 +559,10 @@
       "GihWinrate": 57.475556000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cfaa3ebd-5c21-4e99-a0dd-8426d19b53a5.jpg?1789644852"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cfaa3ebd-5c21-4e99-a0dd-8426d19b53a5.jpg?1789644852",
+      "ArenaIds": [
+        106364
+      ]
     },
     {
       "Name": "Diviner of Victory",
@@ -430,7 +571,10 @@
       "GihWinrate": 59.498926,
       "Expansion": "FRA",
       "CastingCost": "{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/0853bb80-8664-432a-8457-600139fd96d5.jpg?1788878145"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/0853bb80-8664-432a-8457-600139fd96d5.jpg?1788878145",
+      "ArenaIds": [
+        106253
+      ]
     },
     {
       "Name": "Divining Duelist",
@@ -439,7 +583,10 @@
       "GihWinrate": 55.310163,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709",
+      "ArenaIds": [
+        106255
+      ]
     },
     {
       "Name": "Draconic Visitor",
@@ -448,7 +595,10 @@
       "GihWinrate": 52.951299,
       "Expansion": "FRA",
       "CastingCost": "{3}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/112f8478-bd89-4a14-9721-8ab750613129.jpg?1789470842",
+      "ArenaIds": [
+        106310
+      ]
     },
     {
       "Name": "Eardrum Rattler",
@@ -457,7 +607,10 @@
       "GihWinrate": 49.333223,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/f/5f8771f9-8128-4818-a11d-41ea368cf697.jpg?1789127173"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/f/5f8771f9-8128-4818-a11d-41ea368cf697.jpg?1789127173",
+      "ArenaIds": [
+        106311
+      ]
     },
     {
       "Name": "Edgar, Ancient Bloodlord",
@@ -466,7 +619,10 @@
       "GihWinrate": 52.974632,
       "Expansion": "FRA",
       "CastingCost": "{W}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7c619fed-2394-4efc-8cdc-6df5f51c1f57.jpg?1789127743"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7c619fed-2394-4efc-8cdc-6df5f51c1f57.jpg?1789127743",
+      "ArenaIds": [
+        106515
+      ]
     },
     {
       "Name": "Edgar, Moonlit Sovereign",
@@ -475,7 +631,10 @@
       "GihWinrate": 49.632911,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/a/dad6afc9-8505-4cdd-bf79-e9ba4670f2bb.jpg?1789127966"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/a/dad6afc9-8505-4cdd-bf79-e9ba4670f2bb.jpg?1789127966",
+      "ArenaIds": [
+        106502
+      ]
     },
     {
       "Name": "Emergency Phytomedic",
@@ -484,7 +643,10 @@
       "GihWinrate": 54.15467699999999,
       "Expansion": "FRA",
       "CastingCost": "{G/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/e/de94d388-919d-44ff-baef-8c90a417ac6d.jpg?1789637792"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/e/de94d388-919d-44ff-baef-8c90a417ac6d.jpg?1789637792",
+      "ArenaIds": [
+        106365
+      ]
     },
     {
       "Name": "Emrakul, the Exigent Doom",
@@ -493,7 +655,10 @@
       "GihWinrate": 51.733205999999996,
       "Expansion": "FRA",
       "CastingCost": "{10}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3ff8dd3-88a8-49dc-a59b-e2748680623c.jpg?1790829846"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/3/c3ff8dd3-88a8-49dc-a59b-e2748680623c.jpg?1790829846",
+      "ArenaIds": [
+        106225
+      ]
     },
     {
       "Name": "Enlightened Confidant",
@@ -502,7 +667,10 @@
       "GihWinrate": 57.932349,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184",
+      "ArenaIds": [
+        106230
+      ]
     },
     {
       "Name": "Entrust the Spark",
@@ -511,7 +679,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/a/ca894d25-b9fc-4cd6-8746-70d8c2868721.jpg?1789614779"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/a/ca894d25-b9fc-4cd6-8746-70d8c2868721.jpg?1789614779",
+      "ArenaIds": [
+        106367
+      ]
     },
     {
       "Name": "Essence Burn",
@@ -520,7 +691,10 @@
       "GihWinrate": 48.12099,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/2/d2e958de-70de-4156-8f9b-b2c0c1ba704a.jpg?1789470825"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/2/d2e958de-70de-4156-8f9b-b2c0c1ba704a.jpg?1789470825",
+      "ArenaIds": [
+        106312
+      ]
     },
     {
       "Name": "Extended Absence",
@@ -529,7 +703,10 @@
       "GihWinrate": 59.122772,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb4b6ed8-782e-4473-abc9-d50bf2275c6a.jpg?1789556713"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/b/eb4b6ed8-782e-4473-abc9-d50bf2275c6a.jpg?1789556713",
+      "ArenaIds": [
+        106283
+      ]
     },
     {
       "Name": "Extrapolate the Impossible",
@@ -538,7 +715,10 @@
       "GihWinrate": 46.401225000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/17fb6538-493c-41aa-ad13-3e63d3ad3317.jpg?1789729624"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/17fb6538-493c-41aa-ad13-3e63d3ad3317.jpg?1789729624",
+      "ArenaIds": [
+        106284
+      ]
     },
     {
       "Name": "Eye of Jace",
@@ -547,7 +727,10 @@
       "GihWinrate": 49.616157,
       "Expansion": "FRA",
       "CastingCost": "{1}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0edba64a-39cf-4a8d-ba20-4f7da10b6c3d.jpg?1789614864"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0edba64a-39cf-4a8d-ba20-4f7da10b6c3d.jpg?1789614864",
+      "ArenaIds": [
+        106415
+      ]
     },
     {
       "Name": "Face Yourself",
@@ -556,7 +739,10 @@
       "GihWinrate": 54.98268899999999,
       "Expansion": "FRA",
       "CastingCost": "{5}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.jpg?1789127528"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.jpg?1789127528",
+      "ArenaIds": [
+        106313
+      ]
     },
     {
       "Name": "Fatehold Annex",
@@ -565,7 +751,10 @@
       "GihWinrate": 55.199494,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.jpg?1789556955"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.jpg?1789556955",
+      "ArenaIds": [
+        106422
+      ]
     },
     {
       "Name": "Fatehold Charm",
@@ -574,7 +763,10 @@
       "GihWinrate": 57.59528900000001,
       "Expansion": "FRA",
       "CastingCost": "{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cfc54011-647e-4428-bcdb-59400e1da49d.jpg?1789127637"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cfc54011-647e-4428-bcdb-59400e1da49d.jpg?1789127637",
+      "ArenaIds": [
+        106368
+      ]
     },
     {
       "Name": "Fatehold Chronologist",
@@ -583,7 +775,10 @@
       "GihWinrate": 56.271950000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{W/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/29e7ec16-0c16-48aa-8e09-ce6e0d5bd40b.jpg?1789060173"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/9/29e7ec16-0c16-48aa-8e09-ce6e0d5bd40b.jpg?1789060173",
+      "ArenaIds": [
+        106369
+      ]
     },
     {
       "Name": "Fateshaper Aspirant",
@@ -592,7 +787,10 @@
       "GihWinrate": 51.973605,
       "Expansion": "FRA",
       "CastingCost": "{4}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/0/f0c8400d-824f-4d79-84bc-7615a0deb831.jpg?1789556683"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/0/f0c8400d-824f-4d79-84bc-7615a0deb831.jpg?1789556683",
+      "ArenaIds": [
+        106231
+      ]
     },
     {
       "Name": "Fblthp, Impossibly Lost",
@@ -601,7 +799,10 @@
       "GihWinrate": 59.528139,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.jpg?1789127697"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.jpg?1789127697",
+      "ArenaIds": [
+        106458
+      ]
     },
     {
       "Name": "Fblthp, Knows the Way",
@@ -610,7 +811,10 @@
       "GihWinrate": 57.63579599999999,
       "Expansion": "FRA",
       "CastingCost": "{X}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28fbb55a-5c9d-45ee-bf42-a84b1048f5d2.jpg?1789127976"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28fbb55a-5c9d-45ee-bf42-a84b1048f5d2.jpg?1789127976",
+      "ArenaIds": [
+        106503
+      ]
     },
     {
       "Name": "Ferocity of the Hunt",
@@ -619,7 +823,10 @@
       "GihWinrate": 52.686018000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{B/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9793ce9-5a0b-41fe-b9ad-02f6f7da2481.jpg?1789644856"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9793ce9-5a0b-41fe-b9ad-02f6f7da2481.jpg?1789644856",
+      "ArenaIds": [
+        106371
+      ]
     },
     {
       "Name": "Flickering Hound",
@@ -628,7 +835,10 @@
       "GihWinrate": 45.198135,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769",
+      "ArenaIds": [
+        106232
+      ]
     },
     {
       "Name": "Flourishing Grapple",
@@ -637,7 +847,10 @@
       "GihWinrate": 43.914080999999996,
       "Expansion": "FRA",
       "CastingCost": "{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f71958e9-6d6d-4393-8b49-567103b50877.jpg?1789470852"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/7/f71958e9-6d6d-4393-8b49-567103b50877.jpg?1789470852",
+      "ArenaIds": [
+        106336
+      ]
     },
     {
       "Name": "Formidable Commons",
@@ -646,7 +859,10 @@
       "GihWinrate": 55.43903999999999,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e6ca6c3e-f145-42d6-8a17-90770c15afaf.jpg?1789556960"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e6ca6c3e-f145-42d6-8a17-90770c15afaf.jpg?1789556960",
+      "ArenaIds": [
+        106423
+      ]
     },
     {
       "Name": "Frostbite Pyromental",
@@ -655,7 +871,10 @@
       "GihWinrate": 50.598451,
       "Expansion": "FRA",
       "CastingCost": "{U}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/a/7a44581f-8fc4-457d-888a-1e211090ee7e.jpg?1789470870"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/a/7a44581f-8fc4-457d-888a-1e211090ee7e.jpg?1789470870",
+      "ArenaIds": [
+        106372
+      ]
     },
     {
       "Name": "Fulminous Forte",
@@ -664,7 +883,10 @@
       "GihWinrate": 56.652314000000004,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/9/19acb2b5-3b3e-43f0-bd81-8426ed3d9c55.jpg?1789614832"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/9/19acb2b5-3b3e-43f0-bd81-8426ed3d9c55.jpg?1789614832",
+      "ArenaIds": [
+        106314
+      ]
     },
     {
       "Name": "Gallia, Tragic Host",
@@ -673,7 +895,10 @@
       "GihWinrate": 55.159673,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/9/498fa810-8522-4020-b773-52ad404c9f65.jpg?1789385697"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/9/498fa810-8522-4020-b773-52ad404c9f65.jpg?1789385697",
+      "ArenaIds": [
+        106473
+      ]
     },
     {
       "Name": "Gallia, the Merrymaker",
@@ -682,7 +907,10 @@
       "GihWinrate": 50.528991,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1791192275"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1791192275",
+      "ArenaIds": [
+        106490
+      ]
     },
     {
       "Name": "Gardenize",
@@ -691,7 +919,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/930b89c3-4433-48de-829f-20fc3dbfced9.jpg?1789644837"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/930b89c3-4433-48de-829f-20fc3dbfced9.jpg?1789644837",
+      "ArenaIds": [
+        106337
+      ]
     },
     {
       "Name": "Garruk, Curse Breaker",
@@ -700,7 +931,10 @@
       "GihWinrate": 65.490664,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1788329370"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1788329370",
+      "ArenaIds": [
+        106504
+      ]
     },
     {
       "Name": "Garruk, Veiled Butcher",
@@ -709,7 +943,10 @@
       "GihWinrate": 65.953363,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1788329269"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1788329269",
+      "ArenaIds": [
+        106474
+      ]
     },
     {
       "Name": "Geist of Saint Thalia",
@@ -718,7 +955,10 @@
       "GihWinrate": 56.787158000000005,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c334530-0880-46b5-a358-9603eee3cecf.jpg?1789128026"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/c/9c334530-0880-46b5-a358-9603eee3cecf.jpg?1789128026",
+      "ArenaIds": [
+        106459
+      ]
     },
     {
       "Name": "Generous Revival",
@@ -727,7 +967,10 @@
       "GihWinrate": 57.13075,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/8/f82f181b-a43b-4cec-b8f6-f6c1dd4c64fd.jpg?1788433351"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/8/f82f181b-a43b-4cec-b8f6-f6c1dd4c64fd.jpg?1788433351",
+      "ArenaIds": [
+        106233
+      ]
     },
     {
       "Name": "Germinate Recruits",
@@ -736,7 +979,10 @@
       "GihWinrate": 47.595561,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/b/1b5d7d19-b32a-4786-ae9a-00da5e6658ad.jpg?1789644810"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/b/1b5d7d19-b32a-4786-ae9a-00da5e6658ad.jpg?1789644810",
+      "ArenaIds": [
+        106234
+      ]
     },
     {
       "Name": "Ghalta the Immovable",
@@ -745,7 +991,10 @@
       "GihWinrate": 51.774031,
       "Expansion": "FRA",
       "CastingCost": "{8}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.jpg?1789014423"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.jpg?1789014423",
+      "ArenaIds": [
+        106442
+      ]
     },
     {
       "Name": "Ghalta the Unstoppable",
@@ -754,7 +1003,10 @@
       "GihWinrate": 53.302443,
       "Expansion": "FRA",
       "CastingCost": "{8}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.jpg?1788878290"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.jpg?1788878290",
+      "ArenaIds": [
+        106505
+      ]
     },
     {
       "Name": "Gideon the Oathless",
@@ -763,7 +1015,10 @@
       "GihWinrate": 59.156845000000004,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/9/c985b0d1-25bd-4069-aab7-a566ff27a8f6.jpg?1789127990"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/9/c985b0d1-25bd-4069-aab7-a566ff27a8f6.jpg?1789127990",
+      "ArenaIds": [
+        106475
+      ]
     },
     {
       "Name": "Gideon's Memorial",
@@ -772,7 +1027,10 @@
       "GihWinrate": 50.650976,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/6/768c0e64-9907-417a-a763-c836fdf36883.jpg?1789127685"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/6/768c0e64-9907-417a-a763-c836fdf36883.jpg?1789127685",
+      "ArenaIds": [
+        106443
+      ]
     },
     {
       "Name": "Graft Surgeon",
@@ -781,7 +1039,10 @@
       "GihWinrate": 51.488111,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/32a7a905-11bf-4b66-a28e-1066a0e372b8.jpg?1789644811"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/2/32a7a905-11bf-4b66-a28e-1066a0e372b8.jpg?1789644811",
+      "ArenaIds": [
+        106235
+      ]
     },
     {
       "Name": "Greenhouse Propagator",
@@ -790,7 +1051,10 @@
       "GihWinrate": 54.371024999999996,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a56e0f91-b128-4693-a949-53cb403f4fbf.jpg?1789127136"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a56e0f91-b128-4693-a949-53cb403f4fbf.jpg?1789127136",
+      "ArenaIds": [
+        106338
+      ]
     },
     {
       "Name": "Grim Repriser",
@@ -799,7 +1063,10 @@
       "GihWinrate": 53.307327,
       "Expansion": "FRA",
       "CastingCost": "{B}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/8295c48c-b4dd-4bc1-a206-04cf12b79bbd.jpg?1789470746"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/2/8295c48c-b4dd-4bc1-a206-04cf12b79bbd.jpg?1789470746",
+      "ArenaIds": [
+        106373
+      ]
     },
     {
       "Name": "Guiding Hydra",
@@ -808,7 +1075,10 @@
       "GihWinrate": 57.2961,
       "Expansion": "FRA",
       "CastingCost": "{X}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a53eb840-039d-4c45-b701-d58cb26b1a6c.jpg?1789644816"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a53eb840-039d-4c45-b701-d58cb26b1a6c.jpg?1789644816",
+      "ArenaIds": [
+        106236
+      ]
     },
     {
       "Name": "Hall of Echoes",
@@ -817,7 +1087,10 @@
       "GihWinrate": 52.944598,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/a/4a771010-b397-4849-ac9b-08e4dd5d6a72.jpg?1789644859"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/a/4a771010-b397-4849-ac9b-08e4dd5d6a72.jpg?1789644859",
+      "ArenaIds": [
+        106424
+      ]
     },
     {
       "Name": "Hallway Heckler",
@@ -826,7 +1099,10 @@
       "GihWinrate": 52.10772,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7e324816-552f-455d-97c4-5ea6b26d2e6e.jpg?1789127576"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7e324816-552f-455d-97c4-5ea6b26d2e6e.jpg?1789127576",
+      "ArenaIds": [
+        106315
+      ]
     },
     {
       "Name": "Hapatra, the Desert Fang",
@@ -835,7 +1111,10 @@
       "GihWinrate": 58.931363000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cf7c1534-af41-4991-b3c3-f0a34ae330b5.jpg?1789385991"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cf7c1534-af41-4991-b3c3-f0a34ae330b5.jpg?1789385991",
+      "ArenaIds": [
+        106516
+      ]
     },
     {
       "Name": "Hapatra, the Desert Frost",
@@ -844,7 +1123,10 @@
       "GihWinrate": 53.06533100000001,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/5/85faaa9d-4656-4365-871d-7cba53ed0996.jpg?1789387113"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/5/85faaa9d-4656-4365-871d-7cba53ed0996.jpg?1789387113",
+      "ArenaIds": [
+        106460
+      ]
     },
     {
       "Name": "Haunted Ridge",
@@ -853,7 +1135,10 @@
       "GihWinrate": 55.007342,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/4/a4e4966b-8963-4fac-a8bf-e778e063c7dd.jpg?1788878241"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/4/a4e4966b-8963-4fac-a8bf-e778e063c7dd.jpg?1788878241",
+      "ArenaIds": [
+        106425
+      ]
     },
     {
       "Name": "Heartstring Puller",
@@ -862,7 +1147,10 @@
       "GihWinrate": 54.507504,
       "Expansion": "FRA",
       "CastingCost": "{3}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cbfe3354-7ced-4773-9a4e-a937ae9f94f8.jpg?1789556808"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/b/cbfe3354-7ced-4773-9a4e-a937ae9f94f8.jpg?1789556808",
+      "ArenaIds": [
+        106317
+      ]
     },
     {
       "Name": "Heartwood Crafter",
@@ -871,7 +1159,10 @@
       "GihWinrate": 56.726314,
       "Expansion": "FRA",
       "CastingCost": "{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.jpg?1789127630"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.jpg?1789127630",
+      "ArenaIds": [
+        106339
+      ]
     },
     {
       "Name": "Hexhaven Battalion",
@@ -880,7 +1171,10 @@
       "GihWinrate": 57.472365,
       "Expansion": "FRA",
       "CastingCost": "{4}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b6ac80e-c726-4bd0-893a-e666041a04a6.jpg?1789556695"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/b/3b6ac80e-c726-4bd0-893a-e666041a04a6.jpg?1789556695",
+      "ArenaIds": [
+        106237
+      ]
     },
     {
       "Name": "Hexhaven Dueling Arena",
@@ -889,7 +1183,10 @@
       "GihWinrate": 49.865832,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985",
+      "ArenaIds": [
+        106426
+      ]
     },
     {
       "Name": "Hexhaven Invigorator",
@@ -898,7 +1195,10 @@
       "GihWinrate": 53.830645,
       "Expansion": "FRA",
       "CastingCost": "{G}{G}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191",
+      "ArenaIds": [
+        106341
+      ]
     },
     {
       "Name": "Hungering Puppetbeast",
@@ -907,7 +1207,10 @@
       "GihWinrate": 61.504616999999996,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3db2da7a-8088-4117-916b-f9c905d1b45b.jpg?1789127646"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3db2da7a-8088-4117-916b-f9c905d1b45b.jpg?1789127646",
+      "ArenaIds": [
+        106342
+      ]
     },
     {
       "Name": "Hunter's Axe",
@@ -916,7 +1219,10 @@
       "GihWinrate": 51.15820599999999,
       "Expansion": "FRA",
       "CastingCost": "{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a2cc5d0e-9643-4ee2-81de-fa2c3bd1ab09.jpg?1789556822"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a2cc5d0e-9643-4ee2-81de-fa2c3bd1ab09.jpg?1789556822",
+      "ArenaIds": [
+        106343
+      ]
     },
     {
       "Name": "Icy Reception",
@@ -925,7 +1231,10 @@
       "GihWinrate": 57.641509,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/d/8d754b96-5e44-45af-9c7a-b0da59fbe4c3.jpg?1788779540"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/d/8d754b96-5e44-45af-9c7a-b0da59fbe4c3.jpg?1788779540",
+      "ArenaIds": [
+        106256
+      ]
     },
     {
       "Name": "Identity Echo",
@@ -934,7 +1243,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e600b33b-8916-43dd-95d3-d7cbf874933d.jpg?1789385968"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e600b33b-8916-43dd-95d3-d7cbf874933d.jpg?1789385968",
+      "ArenaIds": [
+        106318
+      ]
     },
     {
       "Name": "Infinite Coursework",
@@ -943,7 +1255,10 @@
       "GihWinrate": 55.84521099999999,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5988272-faaa-463d-a0a1-a8e96b946bad.jpg?1789385916"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5988272-faaa-463d-a0a1-a8e96b946bad.jpg?1789385916",
+      "ArenaIds": [
+        106257
+      ]
     },
     {
       "Name": "Ingris Stingerquill",
@@ -952,7 +1267,10 @@
       "GihWinrate": 57.045901,
       "Expansion": "FRA",
       "CastingCost": "{B}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/6471b135-33a8-4005-9a07-ebb74e0bf145.jpg?1788878212"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/4/6471b135-33a8-4005-9a07-ebb74e0bf145.jpg?1788878212",
+      "ArenaIds": [
+        106374
+      ]
     },
     {
       "Name": "Innovative Commons",
@@ -961,7 +1279,10 @@
       "GihWinrate": 55.852503,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/84ea799a-faa2-4ff1-a933-432d4ee31a3b.jpg?1789556991"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/84ea799a-faa2-4ff1-a933-432d4ee31a3b.jpg?1789556991",
+      "ArenaIds": [
+        106427
+      ]
     },
     {
       "Name": "Inspired Tethermage",
@@ -970,7 +1291,10 @@
       "GihWinrate": 51.62944699999999,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/073f4998-a204-447b-93d5-746ae87fd6a1.jpg?1788878192"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/073f4998-a204-447b-93d5-746ae87fd6a1.jpg?1788878192",
+      "ArenaIds": [
+        106344
+      ]
     },
     {
       "Name": "Jace's Machinations",
@@ -979,7 +1303,10 @@
       "GihWinrate": 57.633864,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150",
+      "ArenaIds": [
+        106258
+      ]
     },
     {
       "Name": "Jace, Reality Sculptor",
@@ -988,7 +1315,10 @@
       "GihWinrate": 57.88726,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861",
+      "ArenaIds": [
+        106461
+      ]
     },
     {
       "Name": "Jiang Yanggu, Alone",
@@ -997,7 +1327,10 @@
       "GihWinrate": 52.864648,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e8c1ce21-b77d-40bf-9ed1-478604e71f5f.jpg?1789014416"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/8/e8c1ce21-b77d-40bf-9ed1-478604e71f5f.jpg?1789014416",
+      "ArenaIds": [
+        106491
+      ]
     },
     {
       "Name": "Jiang Yanggu, Never Alone",
@@ -1006,7 +1339,10 @@
       "GihWinrate": 55.244775000000004,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f5a0bb3e-8119-4739-8684-e61d1d607dcb.jpg?1789014406"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f5a0bb3e-8119-4739-8684-e61d1d607dcb.jpg?1789014406",
+      "ArenaIds": [
+        106506
+      ]
     },
     {
       "Name": "Karn, Argent Defender",
@@ -1015,7 +1351,10 @@
       "GihWinrate": 49.870354,
       "Expansion": "FRA",
       "CastingCost": "{2}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1ebbbddb-2dc3-4194-b72b-13bcebe2ab89.jpg?1788878301"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1ebbbddb-2dc3-4194-b72b-13bcebe2ab89.jpg?1788878301",
+      "ArenaIds": [
+        106524
+      ]
     },
     {
       "Name": "Karn, Gilded Guardian",
@@ -1024,7 +1363,10 @@
       "GihWinrate": 52.69121799999999,
       "Expansion": "FRA",
       "CastingCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541",
+      "ArenaIds": [
+        106517
+      ]
     },
     {
       "Name": "Keeper of the Quiet Hour",
@@ -1033,7 +1375,10 @@
       "GihWinrate": 56.049842999999996,
       "Expansion": "FRA",
       "CastingCost": "{3}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b6331218-dbb8-44a9-8ba5-5fb1ab41c5c0.jpg?1788878239"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b6331218-dbb8-44a9-8ba5-5fb1ab41c5c0.jpg?1788878239",
+      "ArenaIds": [
+        106416
+      ]
     },
     {
       "Name": "Kindred Judgment",
@@ -1042,7 +1387,10 @@
       "GihWinrate": 61.240433,
       "Expansion": "FRA",
       "CastingCost": "{5}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/f/6f9f814b-8249-4e48-a05e-4c84060fe6fb.jpg?1789470776"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/f/6f9f814b-8249-4e48-a05e-4c84060fe6fb.jpg?1789470776",
+      "ArenaIds": [
+        106238
+      ]
     },
     {
       "Name": "Kiora of Fire and Ashes",
@@ -1051,7 +1399,10 @@
       "GihWinrate": 61.223382,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995",
+      "ArenaIds": [
+        106492
+      ]
     },
     {
       "Name": "Kiora of Salt and Sand",
@@ -1060,7 +1411,10 @@
       "GihWinrate": 53.76194399999999,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745",
+      "ArenaIds": [
+        106518
+      ]
     },
     {
       "Name": "Konstrari Annex",
@@ -1069,7 +1423,10 @@
       "GihWinrate": 54.327165,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/9/39c805e3-82cd-42a9-80fe-8d81712a94ea.jpg?1789556993"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/9/39c805e3-82cd-42a9-80fe-8d81712a94ea.jpg?1789556993",
+      "ArenaIds": [
+        106428
+      ]
     },
     {
       "Name": "Konstrari Charm",
@@ -1078,7 +1435,10 @@
       "GihWinrate": 55.774204000000005,
       "Expansion": "FRA",
       "CastingCost": "{R}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.jpg?1789127645"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.jpg?1789127645",
+      "ArenaIds": [
+        106375
+      ]
     },
     {
       "Name": "Konstrari Improviser",
@@ -1087,7 +1447,10 @@
       "GihWinrate": 53.872443000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{R/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/2/42e28bd2-486b-45d4-8840-6e33c19c2d57.jpg?1789556881"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/2/42e28bd2-486b-45d4-8840-6e33c19c2d57.jpg?1789556881",
+      "ArenaIds": [
+        106376
+      ]
     },
     {
       "Name": "Koth of the Homestead",
@@ -1096,7 +1459,10 @@
       "GihWinrate": 53.976703,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/920703fd-2a2f-454b-8829-af8f2afda4f4.jpg?1789568532"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/920703fd-2a2f-454b-8829-af8f2afda4f4.jpg?1789568532",
+      "ArenaIds": [
+        106444
+      ]
     },
     {
       "Name": "Koth, the Geomancer",
@@ -1105,7 +1471,10 @@
       "GihWinrate": 51.526975,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/4/54f64e95-5a97-4d7c-9939-7f33a3165562.jpg?1789470892"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/4/54f64e95-5a97-4d7c-9939-7f33a3165562.jpg?1789470892",
+      "ArenaIds": [
+        106493
+      ]
     },
     {
       "Name": "Kwia Vigorbloom",
@@ -1114,7 +1483,10 @@
       "GihWinrate": 62.018797000000006,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d6ff182-a853-4898-895b-072c89324ca7.jpg?1788878236"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d6ff182-a853-4898-895b-072c89324ca7.jpg?1788878236",
+      "ArenaIds": [
+        106378
+      ]
     },
     {
       "Name": "Last Gasp",
@@ -1123,7 +1495,10 @@
       "GihWinrate": 56.674148,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/2381d123-d8c7-4822-98fe-b1c365beb5ed.jpg?1789127524"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/3/2381d123-d8c7-4822-98fe-b1c365beb5ed.jpg?1789127524",
+      "ArenaIds": [
+        106285
+      ]
     },
     {
       "Name": "Lich's Relic",
@@ -1132,7 +1507,10 @@
       "GihWinrate": 62.29263699999999,
       "Expansion": "FRA",
       "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b105511d-5022-4a84-b6ce-4bb433e93a62.jpg?1789644819"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/1/b105511d-5022-4a84-b6ce-4bb433e93a62.jpg?1789644819",
+      "ArenaIds": [
+        106286
+      ]
     },
     {
       "Name": "Liliana the Faultless",
@@ -1141,7 +1519,10 @@
       "GihWinrate": 57.635123,
       "Expansion": "FRA",
       "CastingCost": "{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/70d8c400-87dc-4f15-808f-e54a95d779fc.jpg?1788329194"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/0/70d8c400-87dc-4f15-808f-e54a95d779fc.jpg?1788329194",
+      "ArenaIds": [
+        106445
+      ]
     },
     {
       "Name": "Liliana the Repentant",
@@ -1150,7 +1531,10 @@
       "GihWinrate": 56.119474000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1eb25a6c-d6b4-465d-990e-f1ab86b26b69.jpg?1788329273"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1eb25a6c-d6b4-465d-990e-f1ab86b26b69.jpg?1788329273",
+      "ArenaIds": [
+        106476
+      ]
     },
     {
       "Name": "Living Library",
@@ -1159,7 +1543,10 @@
       "GihWinrate": 52.828547,
       "Expansion": "FRA",
       "CastingCost": "{2}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/d/5d4a8e5f-0024-4da3-a2f5-edb48b12e733.jpg?1789556949"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/d/5d4a8e5f-0024-4da3-a2f5-edb48b12e733.jpg?1789556949",
+      "ArenaIds": [
+        106417
+      ]
     },
     {
       "Name": "Loot, the Anomaly",
@@ -1168,7 +1555,10 @@
       "GihWinrate": 47.704485000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f6fd2fa-8bc8-4743-bbc8-b56475d64eff.jpg?1789568430"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4f6fd2fa-8bc8-4743-bbc8-b56475d64eff.jpg?1789568430",
+      "ArenaIds": [
+        106477
+      ]
     },
     {
       "Name": "Loot, the Nexus",
@@ -1177,7 +1567,10 @@
       "GihWinrate": 52.299169,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3cfa4fc6-4d90-4576-a83f-6496c7f21104.jpg?1789614764"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/c/3cfa4fc6-4d90-4576-a83f-6496c7f21104.jpg?1789614764",
+      "ArenaIds": [
+        106507
+      ]
     },
     {
       "Name": "Loyal Tutor",
@@ -1186,7 +1579,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/9/490dae91-94ce-42a9-a11f-6c5e77c4e486.jpg?1788878096"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/9/490dae91-94ce-42a9-a11f-6c5e77c4e486.jpg?1788878096",
+      "ArenaIds": [
+        106239
+      ]
     },
     {
       "Name": "Lyra, Archangel of Dawn",
@@ -1195,7 +1591,10 @@
       "GihWinrate": 58.744427,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693",
+      "ArenaIds": [
+        106446
+      ]
     },
     {
       "Name": "Lyra, Tolarian Archangel",
@@ -1204,7 +1603,10 @@
       "GihWinrate": 60.698008,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5183681-447b-4023-91f7-00e9338f4417.jpg?1789128032"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/5/a5183681-447b-4023-91f7-00e9338f4417.jpg?1789128032",
+      "ArenaIds": [
+        106462
+      ]
     },
     {
       "Name": "Mabel, Bitter Recluse",
@@ -1213,7 +1615,10 @@
       "GihWinrate": 53.607534,
       "Expansion": "FRA",
       "CastingCost": "{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789385677"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789385677",
+      "ArenaIds": [
+        106478
+      ]
     },
     {
       "Name": "Mabel, Valley Hero",
@@ -1222,7 +1627,10 @@
       "GihWinrate": 50.569933,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1790135467"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1790135467",
+      "ArenaIds": [
+        106519
+      ]
     },
     {
       "Name": "Marwyn, the Clearcutter",
@@ -1231,7 +1639,10 @@
       "GihWinrate": 55.152478,
       "Expansion": "FRA",
       "CastingCost": "{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789644549"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789644549",
+      "ArenaIds": [
+        106494
+      ]
     },
     {
       "Name": "Marwyn, the Preserver",
@@ -1240,7 +1651,10 @@
       "GihWinrate": 53.958504,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90f33f99-7bc5-42e1-815e-bfb4c2b74107.jpg?1789644564"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90f33f99-7bc5-42e1-815e-bfb4c2b74107.jpg?1789644564",
+      "ArenaIds": [
+        106508
+      ]
     },
     {
       "Name": "Massacre Girl, Most Wanted",
@@ -1249,7 +1663,10 @@
       "GihWinrate": 49.820911,
       "Expansion": "FRA",
       "CastingCost": "{4}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/9028d31f-9c41-47e3-885b-6a869bca8178.jpg?1789644882"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/9028d31f-9c41-47e3-885b-6a869bca8178.jpg?1789644882",
+      "ArenaIds": [
+        106479
+      ]
     },
     {
       "Name": "Master of Barbs",
@@ -1258,7 +1675,10 @@
       "GihWinrate": 53.468176,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596",
+      "ArenaIds": [
+        106319
+      ]
     },
     {
       "Name": "Medic's Kitesail",
@@ -1267,7 +1687,10 @@
       "GihWinrate": 54.151625,
       "Expansion": "FRA",
       "CastingCost": "{2}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8b07409a-1dce-461d-95e4-1130521ff4c4.jpg?1789556945"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8b07409a-1dce-461d-95e4-1130521ff4c4.jpg?1789556945",
+      "ArenaIds": [
+        106418
+      ]
     },
     {
       "Name": "Memory Trap",
@@ -1276,7 +1699,10 @@
       "GihWinrate": 55.7513,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2f5345ae-4489-4d05-b2d5-c71285254f05.jpg?1788866058"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2f5345ae-4489-4d05-b2d5-c71285254f05.jpg?1788866058",
+      "ArenaIds": [
+        106240
+      ]
     },
     {
       "Name": "Meticulous Commons",
@@ -1285,7 +1711,10 @@
       "GihWinrate": 54.196588,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/93ac525e-1919-43dd-aba4-073b7e4c1768.jpg?1789557002"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/3/93ac525e-1919-43dd-aba4-073b7e4c1768.jpg?1789557002",
+      "ArenaIds": [
+        106429
+      ]
     },
     {
       "Name": "Mind Meanderer",
@@ -1294,7 +1723,10 @@
       "GihWinrate": 57.240990000000004,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/4/94c290ce-252c-42b3-bcb0-c1ef621df566.jpg?1789470861"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/4/94c290ce-252c-42b3-bcb0-c1ef621df566.jpg?1789470861",
+      "ArenaIds": [
+        106379
+      ]
     },
     {
       "Name": "Mindseeker Oculus",
@@ -1303,7 +1735,10 @@
       "GihWinrate": 59.67791,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f5324741-353a-4a70-adb2-b631b00806dd.jpg?1789556707"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/5/f5324741-353a-4a70-adb2-b631b00806dd.jpg?1789556707",
+      "ArenaIds": [
+        106259
+      ]
     },
     {
       "Name": "Multiply by Zero",
@@ -1312,7 +1747,10 @@
       "GihWinrate": 58.741595999999994,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90d684a4-9639-4792-8760-2011a7a85370.jpg?1789644823"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/0/90d684a4-9639-4792-8760-2011a7a85370.jpg?1789644823",
+      "ArenaIds": [
+        106287
+      ]
     },
     {
       "Name": "Murmuring Volume",
@@ -1321,7 +1759,10 @@
       "GihWinrate": 56.035994,
       "Expansion": "FRA",
       "CastingCost": "{3}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/6/d68eab2e-89dd-4377-b7af-01512b1804a0.jpg?1789385977"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/6/d68eab2e-89dd-4377-b7af-01512b1804a0.jpg?1789385977",
+      "ArenaIds": [
+        106419
+      ]
     },
     {
       "Name": "No Admittance",
@@ -1330,7 +1771,10 @@
       "GihWinrate": 56.626467999999996,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/11ba4fdd-cc03-4bb6-a493-91a9785771d0.jpg?1788878170"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/1/11ba4fdd-cc03-4bb6-a493-91a9785771d0.jpg?1788878170",
+      "ArenaIds": [
+        106320
+      ]
     },
     {
       "Name": "Null Summoner",
@@ -1339,7 +1783,10 @@
       "GihWinrate": 62.40841700000001,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3afdc75a-1bf5-4f2f-84eb-d82f77a095cd.jpg?1789127648"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/a/3afdc75a-1bf5-4f2f-84eb-d82f77a095cd.jpg?1789127648",
+      "ArenaIds": [
+        106380
+      ]
     },
     {
       "Name": "Omnipresence",
@@ -1348,7 +1795,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{5}{G}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/a/eaf9dc77-c83b-49cf-84be-6bd791cb925e.jpg?1790558797"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/a/eaf9dc77-c83b-49cf-84be-6bd791cb925e.jpg?1790558797",
+      "ArenaIds": [
+        106345
+      ]
     },
     {
       "Name": "Overgrown Farmland",
@@ -1357,7 +1807,10 @@
       "GihWinrate": 52.755368999999995,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/178e61e4-472f-42cd-9d3b-4880c2acc527.jpg?1788878246"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/178e61e4-472f-42cd-9d3b-4880c2acc527.jpg?1788878246",
+      "ArenaIds": [
+        106430
+      ]
     },
     {
       "Name": "Overwrite the Multiverse",
@@ -1366,7 +1819,10 @@
       "GihWinrate": 65.151951,
       "Expansion": "FRA",
       "CastingCost": "{4}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/4/c4554f5b-791b-48f6-bf54-ad28699e1beb.jpg?1788952080"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/4/c4554f5b-791b-48f6-bf54-ad28699e1beb.jpg?1788952080",
+      "ArenaIds": [
+        106288
+      ]
     },
     {
       "Name": "Paradox Shaper",
@@ -1375,7 +1831,10 @@
       "GihWinrate": 54.693229,
       "Expansion": "FRA",
       "CastingCost": "{1}{U/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e61b9d48-0ace-4453-afe0-a1024444bac0.jpg?1788329390"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/6/e61b9d48-0ace-4453-afe0-a1024444bac0.jpg?1788329390",
+      "ArenaIds": [
+        106381
+      ]
     },
     {
       "Name": "Perfected Theory",
@@ -1384,7 +1843,10 @@
       "GihWinrate": 51.853542,
       "Expansion": "FRA",
       "CastingCost": "{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/0/d0ecae06-bc5a-4886-84df-c2900816f226.jpg?1788329222"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/0/d0ecae06-bc5a-4886-84df-c2900816f226.jpg?1788329222",
+      "ArenaIds": [
+        106260
+      ]
     },
     {
       "Name": "Pia, Aether Ascetic",
@@ -1393,7 +1855,10 @@
       "GihWinrate": 49.750881,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/f/ff0bc30f-9d20-458e-808f-bdc2825905a5.jpg?1789387120"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/f/ff0bc30f-9d20-458e-808f-bdc2825905a5.jpg?1789387120",
+      "ArenaIds": [
+        106509
+      ]
     },
     {
       "Name": "Pia, Determined Rebuilder",
@@ -1402,7 +1867,10 @@
       "GihWinrate": 56.159695,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789385851"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789385851",
+      "ArenaIds": [
+        106495
+      ]
     },
     {
       "Name": "Plan for All Outcomes",
@@ -1411,7 +1879,10 @@
       "GihWinrate": 58.936478,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1790746542"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1790746542",
+      "ArenaIds": [
+        106261
+      ]
     },
     {
       "Name": "Pompous Battlemage",
@@ -1420,7 +1891,10 @@
       "GihWinrate": 53.624094,
       "Expansion": "FRA",
       "CastingCost": "{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/a/aa0f77ac-741a-444a-8bf0-a42c644726bf.jpg?1788878186"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/a/aa0f77ac-741a-444a-8bf0-a42c644726bf.jpg?1788878186",
+      "ArenaIds": [
+        106321
+      ]
     },
     {
       "Name": "Precise Redaction",
@@ -1429,7 +1903,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/9244efad-35ab-45c0-b173-4bc68276cb67.jpg?1789470790"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/2/9244efad-35ab-45c0-b173-4bc68276cb67.jpg?1789470790",
+      "ArenaIds": [
+        106262
+      ]
     },
     {
       "Name": "Predictive Preparations",
@@ -1438,7 +1915,10 @@
       "GihWinrate": 48.563317,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50a0e5f0-3c39-4f16-9a73-eec8ef71f12e.jpg?1789556696"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50a0e5f0-3c39-4f16-9a73-eec8ef71f12e.jpg?1789556696",
+      "ArenaIds": [
+        106241
+      ]
     },
     {
       "Name": "Primal Witchstalker",
@@ -1447,7 +1927,10 @@
       "GihWinrate": 58.808640000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/4/04e64af7-cca1-499e-8951-f386e84c8b5b.jpg?1789644850"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/4/04e64af7-cca1-499e-8951-f386e84c8b5b.jpg?1789644850",
+      "ArenaIds": [
+        106383
+      ]
     },
     {
       "Name": "Proctor of Potential",
@@ -1456,7 +1939,10 @@
       "GihWinrate": 59.885858999999996,
       "Expansion": "FRA",
       "CastingCost": "{W}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cf0eec8c-0475-4050-8144-481a9bb13a0f.jpg?1789127661"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/f/cf0eec8c-0475-4050-8144-481a9bb13a0f.jpg?1789127661",
+      "ArenaIds": [
+        106384
+      ]
     },
     {
       "Name": "Proft, Consulting Detective",
@@ -1465,7 +1951,10 @@
       "GihWinrate": 57.275285,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8466593-40fe-4557-89b2-760c1c92087b.jpg?1789127178"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8466593-40fe-4557-89b2-760c1c92087b.jpg?1789127178",
+      "ArenaIds": [
+        106463
+      ]
     },
     {
       "Name": "Proft, Sinister Mastermind",
@@ -1474,7 +1963,10 @@
       "GihWinrate": 54.32527,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d36b0e06-cb82-4c48-bf35-e76f109116f6.jpg?1789127196"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d36b0e06-cb82-4c48-bf35-e76f109116f6.jpg?1789127196",
+      "ArenaIds": [
+        106480
+      ]
     },
     {
       "Name": "Prophesied End",
@@ -1483,7 +1975,10 @@
       "GihWinrate": 55.145692999999994,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/f/1f95399a-9766-4f3d-aa6a-ece55e0530d9.jpg?1788951920"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/f/1f95399a-9766-4f3d-aa6a-ece55e0530d9.jpg?1788951920",
+      "ArenaIds": [
+        106242
+      ]
     },
     {
       "Name": "Protege's Awakening",
@@ -1492,7 +1987,10 @@
       "GihWinrate": 58.240148000000005,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.jpg?1790558750"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.jpg?1790558750",
+      "ArenaIds": [
+        106263
+      ]
     },
     {
       "Name": "Prudent Fateseer",
@@ -1501,7 +1999,10 @@
       "GihWinrate": 55.61440399999999,
       "Expansion": "FRA",
       "CastingCost": "{1}{W/U}{W/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6c1c790b-9e0e-4964-9ea3-554843907f06.jpg?1788329412"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/c/6c1c790b-9e0e-4964-9ea3-554843907f06.jpg?1788329412",
+      "ArenaIds": [
+        106385
+      ]
     },
     {
       "Name": "Puppet Crafting",
@@ -1510,7 +2011,10 @@
       "GihWinrate": 51.663272000000006,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b8789a6-3b63-4198-af5f-c2f2f49fafd9.jpg?1789470736"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/b/6b8789a6-3b63-4198-af5f-c2f2f49fafd9.jpg?1789470736",
+      "ArenaIds": [
+        106346
+      ]
     },
     {
       "Name": "Pyre Rhymer",
@@ -1519,7 +2023,10 @@
       "GihWinrate": 50.237279,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2b0ebea0-86de-4da4-9fe8-dacc1e75c161.jpg?1789470850"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2b0ebea0-86de-4da4-9fe8-dacc1e75c161.jpg?1789470850",
+      "ArenaIds": [
+        106323
+      ]
     },
     {
       "Name": "Rampart Hunter",
@@ -1528,7 +2035,10 @@
       "GihWinrate": 47.956493,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f4a80225-7459-4151-86bb-8fdea31c39a6.jpg?1789127211"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f4a80225-7459-4151-86bb-8fdea31c39a6.jpg?1789127211",
+      "ArenaIds": [
+        106289
+      ]
     },
     {
       "Name": "Rank Rat",
@@ -1537,7 +2047,10 @@
       "GihWinrate": 54.869218,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4ff6da82-d7dd-4b59-b7e6-30670cea7169.jpg?1789556727"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/f/4ff6da82-d7dd-4b59-b7e6-30670cea7169.jpg?1789556727",
+      "ArenaIds": [
+        106290
+      ]
     },
     {
       "Name": "Recursive Recruitment",
@@ -1546,7 +2059,10 @@
       "GihWinrate": 60.387958,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/68fddb6a-86d4-4ebb-907d-fdcaadebc4b3.jpg?1789556898"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/8/68fddb6a-86d4-4ebb-907d-fdcaadebc4b3.jpg?1789556898",
+      "ArenaIds": [
+        106387
+      ]
     },
     {
       "Name": "Refute Destiny",
@@ -1555,7 +2071,10 @@
       "GihWinrate": 53.484438,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/c/2c588954-c6eb-4aae-a2fa-0651ccf2d90a.jpg?1789470778"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/c/2c588954-c6eb-4aae-a2fa-0651ccf2d90a.jpg?1789470778",
+      "ArenaIds": [
+        106243
+      ]
     },
     {
       "Name": "Repurposed Enforcer",
@@ -1564,7 +2083,10 @@
       "GihWinrate": 59.562322,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35000e93-85d3-44f8-976a-5918ee4c71e0.jpg?1788878108"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/35000e93-85d3-44f8-976a-5918ee4c71e0.jpg?1788878108",
+      "ArenaIds": [
+        106244
+      ]
     },
     {
       "Name": "Rescue Girl, First Responder",
@@ -1573,7 +2095,10 @@
       "GihWinrate": 52.452597,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.jpg?1789645598"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.jpg?1789645598",
+      "ArenaIds": [
+        106447
+      ]
     },
     {
       "Name": "Restore with Empathy",
@@ -1582,7 +2107,10 @@
       "GihWinrate": 54.566702,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/3546b93b-a7d1-451d-a369-22cc8ddcd00d.jpg?1788865848"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/5/3546b93b-a7d1-451d-a369-22cc8ddcd00d.jpg?1788865848",
+      "ArenaIds": [
+        106347
+      ]
     },
     {
       "Name": "Return to the Light Realms",
@@ -1591,7 +2119,10 @@
       "GihWinrate": 50.430504,
       "Expansion": "FRA",
       "CastingCost": "{7}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e72f397-2384-40f1-882b-f627664d97df.jpg?1788878107"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e72f397-2384-40f1-882b-f627664d97df.jpg?1788878107",
+      "ArenaIds": [
+        106245
+      ]
     },
     {
       "Name": "Rewrite Regrets",
@@ -1600,7 +2131,10 @@
       "GihWinrate": 59.14008200000001,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/453cfde7-c460-4b55-9472-b714e16f24bb.jpg?1788952087"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/453cfde7-c460-4b55-9472-b714e16f24bb.jpg?1788952087",
+      "ArenaIds": [
+        106291
+      ]
     },
     {
       "Name": "Rise of the Deathbringer",
@@ -1609,7 +2143,10 @@
       "GihWinrate": 55.364238,
       "Expansion": "FRA",
       "CastingCost": "{4}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/811719ad-b5a3-4d31-8c6f-5dbdfccf7c1f.jpg?1789470807"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/811719ad-b5a3-4d31-8c6f-5dbdfccf7c1f.jpg?1789470807",
+      "ArenaIds": [
+        106292
+      ]
     },
     {
       "Name": "Rockfall Vale",
@@ -1618,7 +2155,10 @@
       "GihWinrate": 55.091075000000004,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e3c8a8b6-23ba-45ad-80d1-8e2dc79897f7.jpg?1788878243"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e3c8a8b6-23ba-45ad-80d1-8e2dc79897f7.jpg?1788878243",
+      "ArenaIds": [
+        106431
+      ]
     },
     {
       "Name": "Roiling Canopy",
@@ -1627,7 +2167,10 @@
       "GihWinrate": 48.885857,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db61361b-bd12-453e-abc2-bbe09b66e3d9.jpg?1789514074"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db61361b-bd12-453e-abc2-bbe09b66e3d9.jpg?1789514074",
+      "ArenaIds": [
+        106432
+      ]
     },
     {
       "Name": "Room of Refuge",
@@ -1636,7 +2179,10 @@
       "GihWinrate": 55.688333,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a467560-6676-4fc2-9400-768a79650aa4.jpg?1789557010"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/a/9a467560-6676-4fc2-9400-768a79650aa4.jpg?1789557010",
+      "ArenaIds": [
+        106433
+      ]
     },
     {
       "Name": "Ruric Thar, Biomagus",
@@ -1645,7 +2191,10 @@
       "GihWinrate": 55.485089,
       "Expansion": "FRA",
       "CastingCost": "{4}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/00af4e87-5576-4a43-9422-4c35b2b66775.jpg?1789127229"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/0/00af4e87-5576-4a43-9422-4c35b2b66775.jpg?1789127229",
+      "ArenaIds": [
+        106464
+      ]
     },
     {
       "Name": "Ruric Thar, Magecrusher",
@@ -1654,7 +2203,10 @@
       "GihWinrate": 54.37481,
       "Expansion": "FRA",
       "CastingCost": "{5}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/e/eed83302-dc2c-45f4-a4bd-af9da51edef5.jpg?1789358701"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/e/eed83302-dc2c-45f4-a4bd-af9da51edef5.jpg?1789358701",
+      "ArenaIds": [
+        106510
+      ]
     },
     {
       "Name": "Saheeli, Consul of Oversight",
@@ -1663,7 +2215,10 @@
       "GihWinrate": 54.918440999999994,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/07572be0-6610-493c-a21e-14b78e9805c9.jpg?1789645608"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/7/07572be0-6610-493c-a21e-14b78e9805c9.jpg?1789645608",
+      "ArenaIds": [
+        106448
+      ]
     },
     {
       "Name": "Saheeli, Jewel of Avishkar",
@@ -1672,7 +2227,10 @@
       "GihWinrate": 56.693464999999996,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28d84ef6-e190-46d4-882d-1cea5e111e2a.jpg?1789644883"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/28d84ef6-e190-46d4-882d-1cea5e111e2a.jpg?1789644883",
+      "ArenaIds": [
+        106520
+      ]
     },
     {
       "Name": "Samut, Hazoret's Champion",
@@ -1681,7 +2239,10 @@
       "GihWinrate": 56.264032,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/ba920f23-f05c-410e-8516-c93abedf1d4d.jpg?1789729662"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/a/ba920f23-f05c-410e-8516-c93abedf1d4d.jpg?1789729662",
+      "ArenaIds": [
+        106496
+      ]
     },
     {
       "Name": "Samut, Tyrant of Naktamun",
@@ -1690,7 +2251,10 @@
       "GihWinrate": 47.802751,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d7d8fa7-ce69-4a8c-9af0-55571393a244.jpg?1789729644"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d7d8fa7-ce69-4a8c-9af0-55571393a244.jpg?1789729644",
+      "ArenaIds": [
+        106465
+      ]
     },
     {
       "Name": "Sanctum Lurker",
@@ -1699,7 +2263,10 @@
       "GihWinrate": 61.697621000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/2185c08f-bb4d-49d5-8b6c-c629a48bb61c.jpg?1789556729"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/1/2185c08f-bb4d-49d5-8b6c-c629a48bb61c.jpg?1789556729",
+      "ArenaIds": [
+        106293
+      ]
     },
     {
       "Name": "Screeching Soulbreaker",
@@ -1708,7 +2275,10 @@
       "GihWinrate": 53.501917,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/738667a1-c184-43ea-829f-49fbb69b6fc0.jpg?1789385960"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/3/738667a1-c184-43ea-829f-49fbb69b6fc0.jpg?1789385960",
+      "ArenaIds": [
+        106294
+      ]
     },
     {
       "Name": "Seasoned Cryomancer",
@@ -1717,7 +2287,10 @@
       "GihWinrate": 59.122913,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/51d86875-420d-4e82-b69c-4feeb99c9428.jpg?1789470781"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/51d86875-420d-4e82-b69c-4feeb99c9428.jpg?1789470781",
+      "ArenaIds": [
+        106264
+      ]
     },
     {
       "Name": "Semester Foreseer",
@@ -1726,7 +2299,10 @@
       "GihWinrate": 53.677580999999996,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41.jpg?1789127516"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41.jpg?1789127516",
+      "ArenaIds": [
+        106265
+      ]
     },
     {
       "Name": "Shatterwing Pegasus",
@@ -1735,7 +2311,10 @@
       "GihWinrate": 53.510532,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/2/e29095de-59ec-4562-ba8e-73f952e457ae.jpg?1789385580"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/2/e29095de-59ec-4562-ba8e-73f952e457ae.jpg?1789385580",
+      "ArenaIds": [
+        106246
+      ]
     },
     {
       "Name": "Shipwreck Marsh",
@@ -1744,7 +2323,10 @@
       "GihWinrate": 57.538774000000004,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e944c5b-68ac-4a30-bbd4-09a4288319ce.jpg?1788878245"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/e/9e944c5b-68ac-4a30-bbd4-09a4288319ce.jpg?1788878245",
+      "ArenaIds": [
+        106434
+      ]
     },
     {
       "Name": "Silence the Echo",
@@ -1753,7 +2335,10 @@
       "GihWinrate": 52.639903,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f1d274db-751b-4414-a38d-762198168e91.jpg?1789385640"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/1/f1d274db-751b-4414-a38d-762198168e91.jpg?1789385640",
+      "ArenaIds": [
+        106295
+      ]
     },
     {
       "Name": "Simulacrum Shaper",
@@ -1762,7 +2347,10 @@
       "GihWinrate": 59.461693000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7c725702-8696-4e5a-8318-62f5e2616d52.jpg?1789470857"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7c725702-8696-4e5a-8318-62f5e2616d52.jpg?1789470857",
+      "ArenaIds": [
+        106348
+      ]
     },
     {
       "Name": "Skilled Battlecarver",
@@ -1771,7 +2359,10 @@
       "GihWinrate": 52.912426,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0e44f959-1322-4abd-b6eb-dea992307c0c.jpg?1789556811"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0e44f959-1322-4abd-b6eb-dea992307c0c.jpg?1789556811",
+      "ArenaIds": [
+        106325
+      ]
     },
     {
       "Name": "Solarium Sentry",
@@ -1780,7 +2371,10 @@
       "GihWinrate": 55.998183999999995,
       "Expansion": "FRA",
       "CastingCost": "{G}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1ef12dcf-df50-4da6-8c4c-e2937ba9698e.jpg?1789127651"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/e/1ef12dcf-df50-4da6-8c4c-e2937ba9698e.jpg?1789127651",
+      "ArenaIds": [
+        106388
+      ]
     },
     {
       "Name": "Solitary Cell",
@@ -1789,7 +2383,10 @@
       "GihWinrate": 50.864678,
       "Expansion": "FRA",
       "CastingCost": "{R}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/5142bbb6-194c-4b12-b11a-1a21c9fe81a6.jpg?1790558834"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/1/5142bbb6-194c-4b12-b11a-1a21c9fe81a6.jpg?1790558834",
+      "ArenaIds": [
+        106389
+      ]
     },
     {
       "Name": "Solve for Disappointment",
@@ -1798,7 +2395,10 @@
       "GihWinrate": 52.509736,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/b/7beaa8c9-1a2c-4c88-b579-91e371d8d9e3.jpg?1788878155"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/b/7beaa8c9-1a2c-4c88-b579-91e371d8d9e3.jpg?1788878155",
+      "ArenaIds": [
+        106296
+      ]
     },
     {
       "Name": "Something Worth Saving",
@@ -1807,7 +2407,10 @@
       "GihWinrate": 56.73459,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/02ee7817-40af-4fcf-a2df-eb218b669281.jpg?1788878199"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/2/02ee7817-40af-4fcf-a2df-eb218b669281.jpg?1788878199",
+      "ArenaIds": [
+        106349
+      ]
     },
     {
       "Name": "Sphinx of False Conclusions",
@@ -1816,7 +2419,10 @@
       "GihWinrate": 63.575269,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/08ffbd51-2bd3-4262-8809-09576ce2b6f5.jpg?1789385594"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/8/08ffbd51-2bd3-4262-8809-09576ce2b6f5.jpg?1789385594",
+      "ArenaIds": [
+        106267
+      ]
     },
     {
       "Name": "Sphinx's Approach",
@@ -1825,7 +2431,10 @@
       "GihWinrate": 56.007600999999994,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f49be090-c745-40e5-bc1c-605b8d98acdf.jpg?1789644816"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f49be090-c745-40e5-bc1c-605b8d98acdf.jpg?1789644816",
+      "ArenaIds": [
+        106268
+      ]
     },
     {
       "Name": "Stingcaster Mage",
@@ -1834,7 +2443,10 @@
       "GihWinrate": 56.292412000000006,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d8e8e5f-3bf5-490d-aa9c-9df2b26f1460.jpg?1788329303"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/d/2d8e8e5f-3bf5-490d-aa9c-9df2b26f1460.jpg?1788329303",
+      "ArenaIds": [
+        106326
+      ]
     },
     {
       "Name": "Stingerquill Annex",
@@ -1843,7 +2455,10 @@
       "GihWinrate": 53.893705999999995,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/e/6ede3143-69ac-4cbe-922a-d25b07c26da7.jpg?1789557046"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/e/6ede3143-69ac-4cbe-922a-d25b07c26da7.jpg?1789557046",
+      "ArenaIds": [
+        106435
+      ]
     },
     {
       "Name": "Stingerquill Charm",
@@ -1852,7 +2467,10 @@
       "GihWinrate": 55.169295,
       "Expansion": "FRA",
       "CastingCost": "{B}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/81733ff7-e611-43ee-bf38-6bb700676017.jpg?1789127652"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/1/81733ff7-e611-43ee-bf38-6bb700676017.jpg?1789127652",
+      "ArenaIds": [
+        106390
+      ]
     },
     {
       "Name": "Stingerquill Voxmancer",
@@ -1861,7 +2479,10 @@
       "GihWinrate": 54.189215999999995,
       "Expansion": "FRA",
       "CastingCost": "{B/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/84b1c268-3b8a-41b6-92e3-a2ce0cc3d738.jpg?1788329418"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/4/84b1c268-3b8a-41b6-92e3-a2ce0cc3d738.jpg?1788329418",
+      "ArenaIds": [
+        106391
+      ]
     },
     {
       "Name": "Stinging Vitriol",
@@ -1870,7 +2491,10 @@
       "GihWinrate": 52.772012999999994,
       "Expansion": "FRA",
       "CastingCost": "{B}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7d78297-7411-4ec5-8931-a25146869d5b.jpg?1789385971"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7d78297-7411-4ec5-8931-a25146869d5b.jpg?1789385971",
+      "ArenaIds": [
+        106393
+      ]
     },
     {
       "Name": "Sureshot Sower",
@@ -1879,7 +2503,10 @@
       "GihWinrate": 53.37825899999999,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b635389c-e286-4edb-80d1-23dbe4a18857.jpg?1789614751"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/6/b635389c-e286-4edb-80d1-23dbe4a18857.jpg?1789614751",
+      "ArenaIds": [
+        106350
+      ]
     },
     {
       "Name": "Surgical Precision",
@@ -1888,7 +2515,10 @@
       "GihWinrate": 57.182358,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d3acf176-ef02-4729-88c4-0f0dfbfdada4.jpg?1789385570"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/3/d3acf176-ef02-4729-88c4-0f0dfbfdada4.jpg?1789385570",
+      "ArenaIds": [
+        106247
+      ]
     },
     {
       "Name": "Surveillance Phantasm",
@@ -1897,7 +2527,10 @@
       "GihWinrate": 57.106148999999995,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.jpg?1789385597"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.jpg?1789385597",
+      "ArenaIds": [
+        106269
+      ]
     },
     {
       "Name": "Tam's Resistance",
@@ -1906,7 +2539,10 @@
       "GihWinrate": 55.999886,
       "Expansion": "FRA",
       "CastingCost": "{1}{G/U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b3d33df2-a77b-4c2e-ba7f-2cc9c1505f9b.jpg?1788878215"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/3/b3d33df2-a77b-4c2e-ba7f-2cc9c1505f9b.jpg?1788878215",
+      "ArenaIds": [
+        106394
+      ]
     },
     {
       "Name": "Tam, the Possibility",
@@ -1915,7 +2551,10 @@
       "GihWinrate": null,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/5/6529d399-677e-45a6-ac3e-12a0b10f6c37.jpg?1789644886"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/5/6529d399-677e-45a6-ac3e-12a0b10f6c37.jpg?1789644886",
+      "ArenaIds": [
+        106521
+      ]
     },
     {
       "Name": "Tarmogoyf",
@@ -1924,7 +2563,10 @@
       "GihWinrate": 56.226228,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8be5ee47-8f8a-4e3c-b1a1-9ca0e1fdec7f.jpg?1789127270"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/b/8be5ee47-8f8a-4e3c-b1a1-9ca0e1fdec7f.jpg?1789127270",
+      "ArenaIds": [
+        106351
+      ]
     },
     {
       "Name": "Tenured Tethermage",
@@ -1933,7 +2575,10 @@
       "GihWinrate": 58.558621,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789385792"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789385792",
+      "ArenaIds": [
+        106395
+      ]
     },
     {
       "Name": "Terminal Criticism",
@@ -1942,7 +2587,10 @@
       "GihWinrate": 52.144771999999996,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7ebd7e38-b27c-4c6e-aaea-e8ee5ba5e5df.jpg?1789470810"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/e/7ebd7e38-b27c-4c6e-aaea-e8ee5ba5e5df.jpg?1789470810",
+      "ArenaIds": [
+        106297
+      ]
     },
     {
       "Name": "Tether Technician",
@@ -1951,7 +2599,10 @@
       "GihWinrate": 52.676615999999996,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/7/b75bbf46-a421-467a-9433-6cf22398a3a5.jpg?1789556839"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/7/b75bbf46-a421-467a-9433-6cf22398a3a5.jpg?1789556839",
+      "ArenaIds": [
+        106327
+      ]
     },
     {
       "Name": "Tethermage's Advantage",
@@ -1960,7 +2611,10 @@
       "GihWinrate": 50.813008,
       "Expansion": "FRA",
       "CastingCost": "{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/38589a7c-9cfb-4bcc-845e-9dc205095853.jpg?1789129937"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/38589a7c-9cfb-4bcc-845e-9dc205095853.jpg?1789129937",
+      "ArenaIds": [
+        106352
+      ]
     },
     {
       "Name": "Tetsuko Umezawa, Fugitive",
@@ -1969,7 +2623,10 @@
       "GihWinrate": 54.656057000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702",
+      "ArenaIds": [
+        106466
+      ]
     },
     {
       "Name": "Tetsuko Umezawa, Pursuer",
@@ -1978,7 +2635,10 @@
       "GihWinrate": 52.054186,
       "Expansion": "FRA",
       "CastingCost": "{3}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df818900-ce5e-4b0d-a927-c975cbef7eda.jpg?1789128002"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df818900-ce5e-4b0d-a927-c975cbef7eda.jpg?1789128002",
+      "ArenaIds": [
+        106497
+      ]
     },
     {
       "Name": "Teyo, Diamondblade Mage",
@@ -1987,7 +2647,10 @@
       "GihWinrate": 50.644836999999995,
       "Expansion": "FRA",
       "CastingCost": "{3}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/0/100c3b67-0c92-4224-b5ed-67789c612df7.jpg?1789470892"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/0/100c3b67-0c92-4224-b5ed-67789c612df7.jpg?1789470892",
+      "ArenaIds": [
+        106481
+      ]
     },
     {
       "Name": "Teyo, Lightshield Expert",
@@ -1996,7 +2659,10 @@
       "GihWinrate": 56.422532000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/f/5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b.jpg?1789471515"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/f/5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b.jpg?1789471515",
+      "ArenaIds": [
+        106449
+      ]
     },
     {
       "Name": "Thalia, the Survivor",
@@ -2005,7 +2671,10 @@
       "GihWinrate": 54.401489999999995,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700",
+      "ArenaIds": [
+        106450
+      ]
     },
     {
       "Name": "The Echoverse Fulcrum",
@@ -2014,7 +2683,10 @@
       "GihWinrate": 57.982624,
       "Expansion": "FRA",
       "CastingCost": "{2}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/7/d71d250f-c0e0-44b2-877c-76f3bcab4f34.jpg?1789385887"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/7/d71d250f-c0e0-44b2-877c-76f3bcab4f34.jpg?1789385887",
+      "ArenaIds": [
+        106414
+      ]
     },
     {
       "Name": "The Theorist, Jace Beleren",
@@ -2023,7 +2695,10 @@
       "GihWinrate": 68.197295,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1788329228"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1788329228",
+      "ArenaIds": [
+        106270
+      ]
     },
     {
       "Name": "Theoretical Necromancer",
@@ -2032,7 +2707,10 @@
       "GihWinrate": 55.138491,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e36a7908-1e22-494b-adb4-e72ac0974d62.jpg?1789556734"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e36a7908-1e22-494b-adb4-e72ac0974d62.jpg?1789556734",
+      "ArenaIds": [
+        106298
+      ]
     },
     {
       "Name": "Theorist's Proxy",
@@ -2041,7 +2719,10 @@
       "GihWinrate": 56.984539999999996,
       "Expansion": "FRA",
       "CastingCost": "{1}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/710302ca-c4be-4069-8ce1-f531414c74e9.jpg?1788878151"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/1/710302ca-c4be-4069-8ce1-f531414c74e9.jpg?1788878151",
+      "ArenaIds": [
+        106271
+      ]
     },
     {
       "Name": "Theorist's Sanctum",
@@ -2050,7 +2731,10 @@
       "GihWinrate": 57.700956000000005,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/22db5bba-46c9-4a26-821d-303ddb386ea4.jpg?1788878256"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/2/22db5bba-46c9-4a26-821d-303ddb386ea4.jpg?1788878256",
+      "ArenaIds": [
+        106436
+      ]
     },
     {
       "Name": "Theorix Annex",
@@ -2059,7 +2743,10 @@
       "GihWinrate": 56.277013,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
+      "ArenaIds": [
+        106437
+      ]
     },
     {
       "Name": "Theorix Charm",
@@ -2068,7 +2755,10 @@
       "GihWinrate": 56.869892,
       "Expansion": "FRA",
       "CastingCost": "{U}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/2835c9aa-0904-44db-8da2-e8c4e04201aa.jpg?1789127659"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/8/2835c9aa-0904-44db-8da2-e8c4e04201aa.jpg?1789127659",
+      "ArenaIds": [
+        106396
+      ]
     },
     {
       "Name": "Theorix Metamage",
@@ -2077,7 +2767,10 @@
       "GihWinrate": 54.091769,
       "Expansion": "FRA",
       "CastingCost": "{2}{U/B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/b/fb6bad96-841d-4738-8e62-92f346f914fd.jpg?1789556930"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/b/fb6bad96-841d-4738-8e62-92f346f914fd.jpg?1789556930",
+      "ArenaIds": [
+        106397
+      ]
     },
     {
       "Name": "Tinybones, Pocket Nuisance",
@@ -2086,7 +2779,10 @@
       "GihWinrate": 55.253198999999995,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.jpg?1788329294"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.jpg?1788329294",
+      "ArenaIds": [
+        106482
+      ]
     },
     {
       "Name": "Titanbones, Towering Heart",
@@ -2095,7 +2791,10 @@
       "GihWinrate": 52.002711999999995,
       "Expansion": "FRA",
       "CastingCost": "{3}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/d/edea6f70-a5a7-475d-b7f2-97933d0f32cf.jpg?1788329375"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/d/edea6f70-a5a7-475d-b7f2-97933d0f32cf.jpg?1788329375",
+      "ArenaIds": [
+        106511
+      ]
     },
     {
       "Name": "Tomik, Izzet Sparkmage",
@@ -2104,7 +2803,10 @@
       "GihWinrate": 51.22966100000001,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.jpg?1789729773"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.jpg?1789729773",
+      "ArenaIds": [
+        106498
+      ]
     },
     {
       "Name": "Tomik, Orzhov Lawmage",
@@ -2113,7 +2815,10 @@
       "GihWinrate": 53.794486,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7ca95235-6e54-4ff8-bc2e-6a3d483ff007.jpg?1789729766"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/c/7ca95235-6e54-4ff8-bc2e-6a3d483ff007.jpg?1789729766",
+      "ArenaIds": [
+        106451
+      ]
     },
     {
       "Name": "Transformative Commons",
@@ -2122,7 +2827,10 @@
       "GihWinrate": 55.84331099999999,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b57d5be7-3157-4b49-aeb8-d7368ca7e9dd.jpg?1789557014"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b57d5be7-3157-4b49-aeb8-d7368ca7e9dd.jpg?1789557014",
+      "ArenaIds": [
+        106438
+      ]
     },
     {
       "Name": "Traxos, Academy Guardian",
@@ -2131,7 +2839,10 @@
       "GihWinrate": 55.48372499999999,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/3/a349800f-b634-4e74-a9d9-185df37ad909.jpg?1789568451"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/3/a349800f-b634-4e74-a9d9-185df37ad909.jpg?1789568451",
+      "ArenaIds": [
+        106467
+      ]
     },
     {
       "Name": "Traxos, Scourge Eternal",
@@ -2140,7 +2851,10 @@
       "GihWinrate": 51.37192699999999,
       "Expansion": "FRA",
       "CastingCost": "{4}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/5/05102c46-96f8-44a0-a1e6-e388fa5e0841.jpg?1789557046"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/5/05102c46-96f8-44a0-a1e6-e388fa5e0841.jpg?1789557046",
+      "ArenaIds": [
+        106525
+      ]
     },
     {
       "Name": "Twinned Vision",
@@ -2149,7 +2863,10 @@
       "GihWinrate": 57.805892,
       "Expansion": "FRA",
       "CastingCost": "{1}{U/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
+      "ArenaIds": [
+        106399
+      ]
     },
     {
       "Name": "Twisted Fates",
@@ -2158,7 +2875,10 @@
       "GihWinrate": 56.949493,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}{W}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/7/c7c0765d-38fd-4d7b-bfb4-49b10ff5939b.jpg?1789614785"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/7/c7c0765d-38fd-4d7b-bfb4-49b10ff5939b.jpg?1789614785",
+      "ArenaIds": [
+        106400
+      ]
     },
     {
       "Name": "Uldaros Theorix",
@@ -2167,7 +2887,10 @@
       "GihWinrate": 68.983577,
       "Expansion": "FRA",
       "CastingCost": "{3}{U}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7ad622a-42ff-48fa-ae95-12e0a5bd9387.jpg?1788878220"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/7/a7ad622a-42ff-48fa-ae95-12e0a5bd9387.jpg?1788878220",
+      "ArenaIds": [
+        106401
+      ]
     },
     {
       "Name": "Undulating Witness",
@@ -2176,7 +2899,10 @@
       "GihWinrate": 55.618692,
       "Expansion": "FRA",
       "CastingCost": "{4}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0adbb4b2-a142-48da-8f4b-fa91529dbac4.jpg?1789556706"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/a/0adbb4b2-a142-48da-8f4b-fa91529dbac4.jpg?1789556706",
+      "ArenaIds": [
+        106272
+      ]
     },
     {
       "Name": "Unflinching Hortimancer",
@@ -2185,7 +2911,10 @@
       "GihWinrate": 53.79419,
       "Expansion": "FRA",
       "CastingCost": "{1}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/3/63f82985-c9c2-4d0a-ac4f-560166bebd9f.jpg?1789556741"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/3/63f82985-c9c2-4d0a-ac4f-560166bebd9f.jpg?1789556741",
+      "ArenaIds": [
+        106248
+      ]
     },
     {
       "Name": "Unsummon",
@@ -2194,7 +2923,10 @@
       "GihWinrate": 57.214217999999995,
       "Expansion": "FRA",
       "CastingCost": "{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/d/ddad9f16-52d5-49de-82b0-b1a5294a9c44.jpg?1789556722"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/d/ddad9f16-52d5-49de-82b0-b1a5294a9c44.jpg?1789556722",
+      "ArenaIds": [
+        106273
+      ]
     },
     {
       "Name": "Variable Chaser",
@@ -2203,7 +2935,10 @@
       "GihWinrate": 57.549156999999994,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e3afedb1-bf9d-4e31-9700-433514cc29b1.jpg?1789470807"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/3/e3afedb1-bf9d-4e31-9700-433514cc29b1.jpg?1789470807",
+      "ArenaIds": [
+        106274
+      ]
     },
     {
       "Name": "Verdant Kraken",
@@ -2212,7 +2947,10 @@
       "GihWinrate": 57.825097,
       "Expansion": "FRA",
       "CastingCost": "{4}{G}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2bb7a8eb-227f-410b-859f-750ef0aea2f0.jpg?1789644841"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2bb7a8eb-227f-410b-859f-750ef0aea2f0.jpg?1789644841",
+      "ArenaIds": [
+        106353
+      ]
     },
     {
       "Name": "Vigorbloom Annex",
@@ -2221,7 +2959,10 @@
       "GihWinrate": 52.959033,
       "Expansion": "FRA",
       "CastingCost": "",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db8c7bdd-76cd-4be0-ae0d-d430e9a5fe7a.jpg?1789557019"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/b/db8c7bdd-76cd-4be0-ae0d-d430e9a5fe7a.jpg?1789557019",
+      "ArenaIds": [
+        106439
+      ]
     },
     {
       "Name": "Vigorbloom Charm",
@@ -2230,7 +2971,10 @@
       "GihWinrate": 56.330066,
       "Expansion": "FRA",
       "CastingCost": "{G}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2b198e10-b507-4314-a29c-a219f06e48b7.jpg?1789127656"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/b/2b198e10-b507-4314-a29c-a219f06e48b7.jpg?1789127656",
+      "ArenaIds": [
+        106402
+      ]
     },
     {
       "Name": "Vigorbloom Vanguard",
@@ -2239,7 +2983,10 @@
       "GihWinrate": 56.209312,
       "Expansion": "FRA",
       "CastingCost": "{1}{G/W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423",
+      "ArenaIds": [
+        106403
+      ]
     },
     {
       "Name": "Vindictive Triumph",
@@ -2248,7 +2995,10 @@
       "GihWinrate": 54.410095000000005,
       "Expansion": "FRA",
       "CastingCost": "{W}{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a803dbe7-153a-4e92-ad4d-c2babebe003d.jpg?1790558815"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/8/a803dbe7-153a-4e92-ad4d-c2babebe003d.jpg?1790558815",
+      "ArenaIds": [
+        106405
+      ]
     },
     {
       "Name": "Vinelasher Adept",
@@ -2257,7 +3007,10 @@
       "GihWinrate": 55.50855,
       "Expansion": "FRA",
       "CastingCost": "{4}{G}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e5ed142b-2b61-4ef5-8b23-2db2a0a0319d.jpg?1789556814"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/e/5/e5ed142b-2b61-4ef5-8b23-2db2a0a0319d.jpg?1789556814",
+      "ArenaIds": [
+        106354
+      ]
     },
     {
       "Name": "Violent Echoes",
@@ -2266,7 +3019,10 @@
       "GihWinrate": 59.146291,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.jpg?1789127599"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.jpg?1789127599",
+      "ArenaIds": [
+        106328
+      ]
     },
     {
       "Name": "Void Extrapolator",
@@ -2275,7 +3031,10 @@
       "GihWinrate": 55.370785,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0eae2efb-bf25-48ee-9c07-9098008110ad.jpg?1789556787"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/e/0eae2efb-bf25-48ee-9c07-9098008110ad.jpg?1789556787",
+      "ArenaIds": [
+        106299
+      ]
     },
     {
       "Name": "Vraska's Final Mercy",
@@ -2284,7 +3043,10 @@
       "GihWinrate": 54.284603,
       "Expansion": "FRA",
       "CastingCost": "{B}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/992bd991-7cfb-459f-bafd-9a44f3c925c5.jpg?1789699369"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/9/992bd991-7cfb-459f-bafd-9a44f3c925c5.jpg?1789699369",
+      "ArenaIds": [
+        106301
+      ]
     },
     {
       "Name": "Vraska, Soul of Stone",
@@ -2293,7 +3055,10 @@
       "GihWinrate": 53.166801,
       "Expansion": "FRA",
       "CastingCost": "{U}{R}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/3/f3869752-eade-4e7a-8dd1-68cafb9e10be.jpg?1789128008"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/3/f3869752-eade-4e7a-8dd1-68cafb9e10be.jpg?1789128008",
+      "ArenaIds": [
+        106522
+      ]
     },
     {
       "Name": "Vraska, the Cutting Glare",
@@ -2302,7 +3067,10 @@
       "GihWinrate": 62.26160899999999,
       "Expansion": "FRA",
       "CastingCost": "{B}{B}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776",
+      "ArenaIds": [
+        106523
+      ]
     },
     {
       "Name": "Warrior's Blades",
@@ -2311,7 +3079,10 @@
       "GihWinrate": 54.588899000000005,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/6/c63d5b0e-ee72-42ed-aa7e-484ba84507cd.jpg?1789007648"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/6/c63d5b0e-ee72-42ed-aa7e-484ba84507cd.jpg?1789007648",
+      "ArenaIds": [
+        106406
+      ]
     },
     {
       "Name": "Way of the Cryomancer",
@@ -2320,7 +3091,10 @@
       "GihWinrate": 53.070098,
       "Expansion": "FRA",
       "CastingCost": "{2}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/3/838b0efb-7398-4df9-8fdf-b8af43b47938.jpg?1789014637"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/3/838b0efb-7398-4df9-8fdf-b8af43b47938.jpg?1789014637",
+      "ArenaIds": [
+        106468
+      ]
     },
     {
       "Name": "Way of the Deathbringer",
@@ -2329,7 +3103,10 @@
       "GihWinrate": 51.177189999999996,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.jpg?1789729576"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.jpg?1789729576",
+      "ArenaIds": [
+        106483
+      ]
     },
     {
       "Name": "Way of the Healer",
@@ -2338,7 +3115,10 @@
       "GihWinrate": 57.237497999999995,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50326a2a-7e10-464b-a97e-e880bda0558c.jpg?1789729503"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/0/50326a2a-7e10-464b-a97e-e880bda0558c.jpg?1789729503",
+      "ArenaIds": [
+        106452
+      ]
     },
     {
       "Name": "Way of the Mentor",
@@ -2347,7 +3127,10 @@
       "GihWinrate": 50.210572,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1a59d5b1-12d6-486b-bd29-ca371359addd.jpg?1789729554"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/1/a/1a59d5b1-12d6-486b-bd29-ca371359addd.jpg?1789729554",
+      "ArenaIds": [
+        106453
+      ]
     },
     {
       "Name": "Way of the Mind Sculptor",
@@ -2356,7 +3139,10 @@
       "GihWinrate": 57.613758999999995,
       "Expansion": "FRA",
       "CastingCost": "{4}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/5/8/5838af68-66c3-4fe8-ab89-0a1721b0cfeb.jpg?1789729565"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/5/8/5838af68-66c3-4fe8-ab89-0a1721b0cfeb.jpg?1789729565",
+      "ArenaIds": [
+        106469
+      ]
     },
     {
       "Name": "Way of the Necromancer",
@@ -2365,7 +3151,10 @@
       "GihWinrate": 43.65515,
       "Expansion": "FRA",
       "CastingCost": "{1}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/0/a0ff9689-ea49-4fff-b37c-4abbaeb0f73d.jpg?1789729526"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/0/a0ff9689-ea49-4fff-b37c-4abbaeb0f73d.jpg?1789729526",
+      "ArenaIds": [
+        106484
+      ]
     },
     {
       "Name": "Way of the Paradox",
@@ -2374,7 +3163,10 @@
       "GihWinrate": 56.527142,
       "Expansion": "FRA",
       "CastingCost": "{2}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/98dc5470-507a-4364-8480-42607255e56c.jpg?1789729606"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/8/98dc5470-507a-4364-8480-42607255e56c.jpg?1789729606",
+      "ArenaIds": [
+        106512
+      ]
     },
     {
       "Name": "Way of the Pyromancer",
@@ -2383,7 +3175,10 @@
       "GihWinrate": 51.738141999999996,
       "Expansion": "FRA",
       "CastingCost": "{1}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311",
+      "ArenaIds": [
+        106499
+      ]
     },
     {
       "Name": "Way of the Warlord",
@@ -2392,7 +3187,10 @@
       "GihWinrate": 53.38592800000001,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d86e410-20c4-4248-96bf-5780ece6274a.jpg?1789729585"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/6/d/6d86e410-20c4-4248-96bf-5780ece6274a.jpg?1789729585",
+      "ArenaIds": [
+        106500
+      ]
     },
     {
       "Name": "Way of the Wildspeaker",
@@ -2401,7 +3199,10 @@
       "GihWinrate": 54.426783,
       "Expansion": "FRA",
       "CastingCost": "{4}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.jpg?1789729602"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.jpg?1789729602",
+      "ArenaIds": [
+        106513
+      ]
     },
     {
       "Name": "Whiplash Wordsmith",
@@ -2410,7 +3211,10 @@
       "GihWinrate": 49.612781,
       "Expansion": "FRA",
       "CastingCost": "{3}{B/R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/8/0/8096bc9a-a610-448f-bef2-7230e17e9777.jpg?1789127692"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/8/0/8096bc9a-a610-448f-bef2-7230e17e9777.jpg?1789127692",
+      "ArenaIds": [
+        106407
+      ]
     },
     {
       "Name": "Winter, Team Player",
@@ -2419,7 +3223,10 @@
       "GihWinrate": 47.918061,
       "Expansion": "FRA",
       "CastingCost": "{4}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df8713cd-3f4b-43ef-adbd-e37c2617c617.jpg?1789128020"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/d/f/df8713cd-3f4b-43ef-adbd-e37c2617c617.jpg?1789128020",
+      "ArenaIds": [
+        106501
+      ]
     },
     {
       "Name": "Winter, Tormented Loner",
@@ -2428,7 +3235,10 @@
       "GihWinrate": 53.568158,
       "Expansion": "FRA",
       "CastingCost": "{2}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/9670f754-f41f-45ac-8e8b-025ad2c0f66b.jpg?1789127724"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/9/6/9670f754-f41f-45ac-8e8b-025ad2c0f66b.jpg?1789127724",
+      "ArenaIds": [
+        106485
+      ]
     },
     {
       "Name": "Woodwork Prodigy",
@@ -2437,7 +3247,10 @@
       "GihWinrate": 52.092265999999995,
       "Expansion": "FRA",
       "CastingCost": "{2}{R/G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.jpg?1788329429"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.jpg?1788329429",
+      "ArenaIds": [
+        106409
+      ]
     },
     {
       "Name": "Wrath of the Bloodmane",
@@ -2446,7 +3259,10 @@
       "GihWinrate": 55.625196,
       "Expansion": "FRA",
       "CastingCost": "{2}{R}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.jpg?1789385820"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.jpg?1789385820",
+      "ArenaIds": [
+        106329
+      ]
     },
     {
       "Name": "Wrecking Gecko",
@@ -2455,7 +3271,10 @@
       "GihWinrate": 54.428547,
       "Expansion": "FRA",
       "CastingCost": "{4}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789385843"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789385843",
+      "ArenaIds": [
+        106355
+      ]
     },
     {
       "Name": "Yargle, Glutton of Urborg",
@@ -2464,7 +3283,10 @@
       "GihWinrate": 44.985673,
       "Expansion": "FRA",
       "CastingCost": "{4}{B}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/0/4/04c816fb-5951-4db1-8834-ed3f0b36bfe1.jpg?1789127722"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/0/4/04c816fb-5951-4db1-8834-ed3f0b36bfe1.jpg?1789127722",
+      "ArenaIds": [
+        106486
+      ]
     },
     {
       "Name": "Yargle, Goliath of Otaria",
@@ -2473,7 +3295,10 @@
       "GihWinrate": 46.933667,
       "Expansion": "FRA",
       "CastingCost": "{4}{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.jpg?1789128043"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.jpg?1789128043",
+      "ArenaIds": [
+        106470
+      ]
     },
     {
       "Name": "Yoshimaru, Beloved Companion",
@@ -2482,7 +3307,10 @@
       "GihWinrate": 49.741085,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/384f3b7d-8d7f-41bf-bebd-64e8babe7fca.jpg?1789470881"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/3/8/384f3b7d-8d7f-41bf-bebd-64e8babe7fca.jpg?1789470881",
+      "ArenaIds": [
+        106454
+      ]
     },
     {
       "Name": "Yoshimaru, Scrappy Stray",
@@ -2491,7 +3319,10 @@
       "GihWinrate": 53.933277000000004,
       "Expansion": "FRA",
       "CastingCost": "{1}{G}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8dfd087-2434-42c6-ac4c-1decbcdde2db.jpg?1789470909"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/b/8/b8dfd087-2434-42c6-ac4c-1decbcdde2db.jpg?1789470909",
+      "ArenaIds": [
+        106514
+      ]
     },
     {
       "Name": "Your Fate Ends Here",
@@ -2500,7 +3331,10 @@
       "GihWinrate": 57.032297,
       "Expansion": "FRA",
       "CastingCost": "{2}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/2/5/25000a17-b701-4d69-b2ef-2c74029199d3.jpg?1789729751"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/2/5/25000a17-b701-4d69-b2ef-2c74029199d3.jpg?1789729751",
+      "ArenaIds": [
+        106249
+      ]
     },
     {
       "Name": "Yuriko, Blade of the Mighty",
@@ -2509,7 +3343,10 @@
       "GihWinrate": 53.144676000000004,
       "Expansion": "FRA",
       "CastingCost": "{3}{W}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047",
+      "ArenaIds": [
+        106455
+      ]
     },
     {
       "Name": "Yuriko, Hope from the Shadows",
@@ -2518,7 +3355,10 @@
       "GihWinrate": 53.365101,
       "Expansion": "FRA",
       "CastingCost": "{U}",
-      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717"
+      "ImageUrl": "https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717",
+      "ArenaIds": [
+        106471
+      ]
     }
   ]
 }

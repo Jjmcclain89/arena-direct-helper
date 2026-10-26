@@ -65,21 +65,26 @@ def fetch_17lands_data(set_code, start_date, end_date):
     response = requests.get(SEVENTEEN_LANDS_API, params=params, headers=REQUEST_HEADERS)
     if response.status_code != 200:
         print(f"Error fetching from 17Lands: {response.status_code}")
-        return {}
+        return {}, {}
 
     data = response.json().get('data', [])
+    if data:
+        print(f"17Lands fields: {sorted(data[0].keys())}")
 
     # Create a map of card name to winrate
     winrate_map = {}
+    arena_id_map = {}  # Card name -> Arena IDs, used when Scryfall has none yet
     for card in data:
         name = card.get('name')
+        if name and card.get('mtga_id') is not None:
+            arena_id_map.setdefault(name, set()).add(card['mtga_id'])
         gih_wr = card.get('ever_drawn_win_rate')
         if name and gih_wr is not None:
             # Convert to percentage (0-100)
             winrate_map[name] = gih_wr * 100
 
     print(f"Found winrate data for {len(winrate_map)} cards")
-    return winrate_map
+    return winrate_map, arena_id_map
 
 def get_mana_cost(card):
     """Extract mana cost from Scryfall card data."""
@@ -105,7 +110,7 @@ def get_image_url(card):
         return card['card_faces'][0].get('image_uris', {}).get('normal', '')
     return ''
 
-def merge_data(scryfall_cards, winrate_map):
+def merge_data(scryfall_cards, winrate_map, fallback_arena_ids):
     """Merge Scryfall and 17Lands data."""
     print("Merging data...")
 
@@ -153,7 +158,8 @@ def merge_data(scryfall_cards, winrate_map):
         seen_names.add(name)
 
     for card_data in cards:
-        card_data['ArenaIds'] = sorted(arena_ids.get(card_data['Name'], []))
+        ids = arena_ids.get(card_data['Name']) or fallback_arena_ids.get(card_data['Name'], [])
+        card_data['ArenaIds'] = sorted(ids)
 
     # Sort by name
     cards.sort(key=lambda x: x['Name'])
@@ -161,6 +167,7 @@ def merge_data(scryfall_cards, winrate_map):
     # Count cards with winrate data
     with_winrate = sum(1 for c in cards if c['GihWinrate'] is not None)
     print(f"Merged {len(cards)} cards ({with_winrate} with winrate data)")
+    print(f"Cards with Arena IDs: {sum(1 for c in cards if c['ArenaIds'])}")
 
     return cards
 
@@ -193,10 +200,10 @@ def main():
         print("Failed to fetch Scryfall data. Exiting.")
         return
 
-    winrate_map = fetch_17lands_data(SET_CODE, start_date, end_date)
+    winrate_map, fallback_arena_ids = fetch_17lands_data(SET_CODE, start_date, end_date)
 
     # Merge the data
-    cards = merge_data(scryfall_cards, winrate_map)
+    cards = merge_data(scryfall_cards, winrate_map, fallback_arena_ids)
 
     # Write to file
     output = {'cards': cards}

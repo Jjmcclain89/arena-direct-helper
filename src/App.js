@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import cardData from './data/fra-data.json';
+import cardData from './data/trk-data.json';
 
 // Components
 import { DecklistInput } from './components/DecklistInput';
